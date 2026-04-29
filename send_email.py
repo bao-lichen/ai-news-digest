@@ -253,9 +253,12 @@ def main():
     digest = generate_digest()
 
     # 保存预览
-    with open('/root/ai_news_digest/preview.html', 'w', encoding='utf-8') as f:
+    import os
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    preview_path = os.path.join(script_dir, 'preview.html')
+    with open(preview_path, 'w', encoding='utf-8') as f:
         f.write(digest)
-    print("[预览] 已保存到 /root/ai_news_digest/preview.html")
+    print(f"[预览] 已保存到 {preview_path}")
 
     send_email(digest)
 
