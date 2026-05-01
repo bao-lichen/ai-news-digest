@@ -18,7 +18,7 @@ from typing import List, Dict
 import os
 EMAIL_SENDER = os.environ.get("EMAIL_SENDER", "blc1141818036@163.com")
 EMAIL_RECEIVER = os.environ.get("EMAIL_RECEIVER", "blc1141818036@163.com")
-SMTP_AUTH_CODE = os.environ.get("SMTP_AUTH_CODE", "JNbHVWahT3VSkN9Q")
+SMTP_AUTH_CODE=os.environ.get("SMTP_AUTH_CODE", "")
 
 # 本地用代理，GitHub Actions不需要
 PROXY = os.environ.get("HTTP_PROXY", "")  # GitHub Actions中自动为空
@@ -250,16 +250,47 @@ def send_email(html_content: str) -> bool:
 
 def main():
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 开始抓取AI资讯...")
-    digest = generate_digest()
 
-    # 保存预览
-    import os
+    import json, os
     script_dir = os.path.dirname(os.path.abspath(__file__))
+    today = datetime.now().strftime('%Y-%m-%d')
+
+    # 抓取各源数据
+    articles_36kr    = fetch_36kr()
+    articles_ithome  = fetch_ithome()
+    articles_qbitai  = fetch_qbitai()
+    articles_hf      = fetch_huggingface()
+
+    # 追加到 news.json
+    news_path = os.path.join(script_dir, 'news.json')
+    if os.path.exists(news_path):
+        news_db = json.load(open(news_path, encoding='utf-8'))
+    else:
+        news_db = {"days": []}
+
+    # 避免同一天重复追加
+    existing_dates = [d["date"] for d in news_db["days"]]
+    if today not in existing_dates:
+        news_db["days"].append({
+            "date": today,
+            "sources": [
+                {"name": "36氪",        "articles": articles_36kr},
+                {"name": "IT之家",      "articles": articles_ithome},
+                {"name": "量子位",      "articles": articles_qbitai},
+                {"name": "HuggingFace", "articles": articles_hf}
+            ]
+        })
+        json.dump(news_db, open(news_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+        print(f"[news.json] 已追加 {today} 数据")
+    else:
+        print(f"[news.json] {today} 已存在，跳过")
+
+    # 原有逻辑不变
+    digest = generate_digest()
     preview_path = os.path.join(script_dir, 'preview.html')
     with open(preview_path, 'w', encoding='utf-8') as f:
         f.write(digest)
     print(f"[预览] 已保存到 {preview_path}")
-
     send_email(digest)
 
 
