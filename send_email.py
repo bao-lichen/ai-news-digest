@@ -16,6 +16,15 @@ from typing import List, Dict
 
 # ============== 配置区 ==============
 import os
+# 手动加载 .env 文件（无需 python-dotenv 依赖）
+_env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '.env')
+if os.path.exists(_env_path):
+    with open(_env_path) as _f:
+        for _line in _f:
+            _line = _line.strip()
+            if _line and not _line.startswith('#') and '=' in _line:
+                _k, _v = _line.split('=', 1)
+                os.environ.setdefault(_k.strip(), _v.strip())
 EMAIL_SENDER = os.environ.get("EMAIL_SENDER", "blc1141818036@163.com")
 EMAIL_RECEIVER = os.environ.get("EMAIL_RECEIVER", "blc1141818036@163.com")
 SMTP_AUTH_CODE=os.environ.get("SMTP_AUTH_CODE", "")

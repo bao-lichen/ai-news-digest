@@ -457,6 +457,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-03",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
+              "url": "https://36kr.com/p/3789475357400068?f=rss",
+              "date": "2026-05-02"
+            },
+            {
+              "source": "36氪",
+              "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+              "url": "https://36kr.com/p/3792155815304450?f=rss",
+              "date": "2026-05-02"
+            },
+            {
+              "source": "36氪",
+              "title": "又一算力独角兽，冲击IPO",
+              "url": "https://36kr.com/p/3791796527602951?f=rss",
+              "date": "2026-05-02"
+            },
+            {
+              "source": "36氪",
+              "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+              "url": "https://36kr.com/p/3791662444911617?f=rss",
+              "date": "2026-05-02"
+            },
+            {
+              "source": "36氪",
+              "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+              "url": "https://36kr.com/p/3791460373929221?f=rss",
+              "date": "2026-05-02"
+            },
+            {
+              "source": "36氪",
+              "title": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
+              "url": "https://36kr.com/newsflashes/3792810419543301?f=rss",
+              "date": "2026-05-03"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "华为畅连无网通信功能最新适配机型公布，新增支持 Mate 70 Air",
+              "url": "https://www.ithome.com/0/946/114.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "AI 来了≠该走了：公司用上 AI 后裁 35 岁主管降本增效，浙江杭州市中院判构成违法解除劳动合同",
+              "url": "https://www.ithome.com/0/946/108.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称第二代豆包 AI 手机有机会上半年发布，搭载骁龙 8 Elite Gen 5 芯片",
+              "url": "https://www.ithome.com/0/946/097.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "AMD 即将为 Linux 提供完整 HDMI 2.1 支持，基于开源方案",
+              "url": "https://www.ithome.com/0/946/094.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI CEO 奥尔特曼向马斯克示好，称其“可以来”参加 GPT-5.5 庆功宴",
+              "url": "https://www.ithome.com/0/946/090.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "哈佛新研究：AI 模型“急诊科”场景诊断能力有望超越人类医生",
+              "url": "https://www.ithome.com/0/946/077.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "麻省理工 AI 专家警告：用自动化替代 Z 世代入门员工是“透支未来”",
+              "url": "https://www.ithome.com/0/946/072.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 DLSS 4.5 盲测“碾压”AMD FSR 4.1，七款 3A 大作赢下六款",
+              "url": "https://www.ithome.com/0/946/064.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌、微软等四巨头今年将豪掷超 7000 亿美元，分析师直言 AI 熊市论就是“垃圾”",
+              "url": "https://www.ithome.com/0/946/062.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+              "url": "https://www.qbitai.com/2026/05/412870.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+              "url": "https://www.qbitai.com/2026/05/412713.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
+              "url": "https://www.qbitai.com/2026/05/412696.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "他用AI办了个音乐节，主题：别读博",
+              "url": "https://www.qbitai.com/2026/05/412597.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
+              "url": "https://www.qbitai.com/2026/04/412041.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
+              "url": "https://www.qbitai.com/2026/04/412021.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
+              "url": "https://www.qbitai.com/2026/04/412018.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
+              "url": "https://www.qbitai.com/2026/04/412015.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
+              "url": "https://www.qbitai.com/2026/04/411963.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
+              "url": "https://www.qbitai.com/2026/04/411959.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位角色",
+              "url": "https://www.qbitai.com/2026/04/411955.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek识图模式是个新模型？！一手实测在此（没错我被灰度到了）",
+              "url": "https://www.qbitai.com/2026/04/411797.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "AI evals are becoming the new compute bottleneck",
+              "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.1 LLMs: How They’re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+              "date": "Tue, 28 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+              "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+              "date": "Mon, 27 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DeepSeek-V4: a million-token context that agents can actually use",
+              "url": "https://huggingface.co/blog/deepseekv4",
+              "date": "Fri, 24 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to Use Transformers.js in a Chrome Extension",
+              "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+              "date": "Thu, 23 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+              "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+              "date": "Tue, 21 Ap"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
