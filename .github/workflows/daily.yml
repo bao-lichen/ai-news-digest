@@ -9,6 +9,8 @@ on:
 jobs:
   send-digest:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,3 +26,11 @@ jobs:
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
           SMTP_AUTH_CODE: ${{ secrets.SMTP_AUTH_CODE }}
         run: python send_email.py
+
+      - name: Commit news.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add news.json
+          git commit -m "daily news update" || echo "no changes"
+          git push
