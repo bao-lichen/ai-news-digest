@@ -2131,6 +2131,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-10",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "AI开始接管年轻人的「精神自留地」",
+              "url": "https://36kr.com/p/3801461350702855?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+              "url": "https://36kr.com/p/3797202414820359?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
+              "url": "https://36kr.com/p/3799028783439111?f=rss",
+              "date": "2026-05-08"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+              "url": "https://36kr.com/p/3799984046333186?f=rss",
+              "date": "2026-05-08"
+            },
+            {
+              "source": "36氪",
+              "title": "光帆带摄像头AI耳机本月开售",
+              "url": "https://36kr.com/newsflashes/3801812857871876?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "Deepseek和阿里谈崩了？市场人士回应",
+              "url": "https://36kr.com/newsflashes/3801813920144901?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "字节跳动据悉计划将AI基础设施支出增加25%",
+              "url": "https://36kr.com/newsflashes/3801787739282952?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "百度正式发布文心大模型5.1",
+              "url": "https://36kr.com/newsflashes/3801731549371905?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "字节跳动申请注册火山词元商标",
+              "url": "https://36kr.com/newsflashes/3801708089286151?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "Zeroth元点M1成为全球首个接入OpenClaw的人形机器人",
+              "url": "https://36kr.com/newsflashes/3801681177616133?f=rss",
+              "date": "2026-05-09"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "马斯克再失华人大将，xAI Grok 预训练负责人庄钧堂已离职",
+              "url": "https://www.ithome.com/0/948/390.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "智能手机需求萎缩：高通联发科削减台积电 4/5nm 预留订单，AMD 趁机补位",
+              "url": "https://www.ithome.com/0/948/386.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "78 岁中国半导体教父张汝京最新发声：网上很多人执着于 2/3nm 尖端芯片是认知误区，80% 的市场不需要先进制程",
+              "url": "https://www.ithome.com/0/948/379.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "两台 Figure AI 人形机器人大秀新技能：不到两分钟铺好一张床",
+              "url": "https://www.ithome.com/0/948/378.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "吉利全新博越十周年冠军版上市：搭载 Flyme Auto 智能座舱，限时价 8.79 万元",
+              "url": "https://www.ithome.com/0/948/346.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Claude 会“勒索”他人？Anthropic 称问题在于互联网长期将 AI 描绘成反派",
+              "url": "https://www.ithome.com/0/948/343.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称 iQOO 15T 首发天玑 9500 Monster 版本：独家底层优化 + 自研 Q3 芯片",
+              "url": "https://www.ithome.com/0/948/340.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苏姿丰确认将出席 2026 AMD AI 开发者日，5 月 19 日上海举行",
+              "url": "https://www.ithome.com/0/948/336.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "光帆科技推出“行业首款带摄像头 AI 耳机”，5 月 15 日发售",
+              "url": "https://www.ithome.com/0/948/335.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "安克预告 Prime MagGo 三合一无线充国行即将发售，支持为苹果 iPhone / Apple Watch / AirPods 同时充电",
+              "url": "https://www.ithome.com/0/948/331.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "太初元碁携龙虾一体机亮相北京科博会",
+              "url": "https://www.qbitai.com/2026/05/415027.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
+              "url": "https://www.qbitai.com/2026/05/415023.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+              "url": "https://www.qbitai.com/2026/05/415019.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+              "url": "https://www.qbitai.com/2026/05/414826.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
+              "url": "https://www.qbitai.com/2026/05/415010.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案",
+              "url": "https://www.qbitai.com/2026/05/414788.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "VLA死了，遥操也死了！英伟达机器人一号位说的",
+              "url": "https://www.qbitai.com/2026/05/414547.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%",
+              "url": "https://www.qbitai.com/2026/05/414496.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！",
+              "url": "https://www.qbitai.com/2026/05/414445.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
+              "url": "https://www.qbitai.com/2026/05/414432.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
+              "url": "https://www.qbitai.com/2026/05/414428.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一场“无电视”的发布会，揭开海信视像第二增长曲线",
+              "url": "https://www.qbitai.com/2026/05/414814.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "&quot;OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support&quot;",
+              "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+              "date": "Sat, 09 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EMO: Pretraining mixture of experts for emergent modularity",
+              "url": "https://huggingface.co/blog/allenai/emo",
+              "date": "Fri, 08 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.1 LLMs: How They’re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+              "date": "Tue, 28 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+              "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+              "date": "Mon, 27 Ap"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
