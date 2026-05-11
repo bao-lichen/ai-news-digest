@@ -2396,6 +2396,186 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-11",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+              "url": "https://36kr.com/p/3801745491943169?f=rss",
+              "date": "2026-05-10"
+            },
+            {
+              "source": "36氪",
+              "title": "AI开始接管年轻人的「精神自留地」",
+              "url": "https://36kr.com/p/3801461350702855?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+              "url": "https://36kr.com/p/3797202414820359?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
+              "url": "https://36kr.com/p/3799028783439111?f=rss",
+              "date": "2026-05-08"
+            },
+            {
+              "source": "36氪",
+              "title": "东吴证券：国产算力趋势不可逆，AI信创产业正形成五大核心主线",
+              "url": "https://36kr.com/newsflashes/3804176171425544?f=rss",
+              "date": "2026-05-11"
+            },
+            {
+              "source": "36氪",
+              "title": "中金：AI现在仍未到典型的“泡沫”阶段",
+              "url": "https://36kr.com/newsflashes/3804149608570628?f=rss",
+              "date": "2026-05-11"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：继续看好算力与商业航天板块",
+              "url": "https://36kr.com/newsflashes/3804142582177538?f=rss",
+              "date": "2026-05-11"
+            },
+            {
+              "source": "36氪",
+              "title": "人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元",
+              "url": "https://36kr.com/newsflashes/3804130793283333?f=rss",
+              "date": "2026-05-11"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "贾跃亭回归出任法拉第未来全球 CEO，FF 官宣将升级为物理 AI 生态公司",
+              "url": "https://www.ithome.com/0/948/568.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达黄仁勋最新演讲：应届生们别怕 AI，当下是开启事业的最佳时机",
+              "url": "https://www.ithome.com/0/948/566.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Chrome 浏览器 148 版本删去本地 AI 不上传数据表述，谷歌称处理方式未变",
+              "url": "https://www.ithome.com/0/948/564.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0511：央视揭秘新能源汽车“锁电”真相；曝阿里巴巴将深度整合千问与淘宝；哈啰回应“脚踩门”调查最新进展；微信转账灰度测试“组合支付”...",
+              "url": "https://www.ithome.com/0/948/562.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "古尔曼：苹果 iOS / macOS 27 的 Safari 浏览器将引入 AI 自动整理标签页功能",
+              "url": "https://www.ithome.com/0/948/556.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "任正非罕见出镜：华为芯片基础技术研究实验室亮相《新闻联播》",
+              "url": "https://www.ithome.com/0/948/553.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 拥抱 AI，员工遭监控与裁员双重压力",
+              "url": "https://www.ithome.com/0/948/542.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "昆仑万维董事长方汉：每月订阅 AI 像交水电费，至少花 100 元在 Token 上才不会掉队",
+              "url": "https://www.ithome.com/0/948/532.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "听不见却能感知到：AI 数据中心次声波污染引发投诉",
+              "url": "https://www.ithome.com/0/948/523.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "赛力斯动力行业首创“同线共营”模式：与合作伙伴共建智能生产线，响应时间从原来两天缩至小时级",
+              "url": "https://www.ithome.com/0/948/519.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": []
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+              "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+              "date": "Sun, 10 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EMO: Pretraining mixture of experts for emergent modularity",
+              "url": "https://huggingface.co/blog/allenai/emo",
+              "date": "Fri, 08 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.1 LLMs: How They’re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+              "date": "Tue, 28 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+              "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+              "date": "Mon, 27 Ap"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
