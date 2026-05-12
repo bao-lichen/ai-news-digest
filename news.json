@@ -2576,6 +2576,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-12",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
+              "url": "https://36kr.com/p/3805557782486785?f=rss",
+              "date": "2026-05-12"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
+              "url": "https://36kr.com/p/3804795647729411?f=rss",
+              "date": "2026-05-11"
+            },
+            {
+              "source": "36氪",
+              "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+              "url": "https://36kr.com/p/3801745491943169?f=rss",
+              "date": "2026-05-10"
+            },
+            {
+              "source": "36氪",
+              "title": "AI开始接管年轻人的「精神自留地」",
+              "url": "https://36kr.com/p/3801461350702855?f=rss",
+              "date": "2026-05-09"
+            },
+            {
+              "source": "36氪",
+              "title": "谷歌称其首次发现黑客借助AI开发“零日”漏洞攻击工具",
+              "url": "https://36kr.com/newsflashes/3805556357209861?f=rss",
+              "date": "2026-05-12"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "苹果连发 3 项 AI 研究，推进空间计算与 Vision Pro 头显方向",
+              "url": "https://www.ithome.com/0/949/069.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "被发现存在漏洞，Yarbo 承诺将从其割草机器人中移除远程访问后门",
+              "url": "https://www.ithome.com/0/949/068.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 前首席科学家伊利亚 · 苏茨克弗：奥尔特曼说谎成性、挑动对立，早就想炒了他",
+              "url": "https://www.ithome.com/0/949/060.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国政府施压，特斯拉被曝将 AI6.5 芯片的生产从台积电转移到英特尔",
+              "url": "https://www.ithome.com/0/949/057.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 发布 Daybreak 项目：剑指 Anthropic，把安全检查放进日常代码流程",
+              "url": "https://www.ithome.com/0/949/054.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "纳德拉：微软投资 OpenAI 时曾设下 920 亿美元的回报目标，如今股份价值已远超预期",
+              "url": "https://www.ithome.com/0/949/052.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "纳德拉出庭反击马斯克诉讼案：他明明有我的手机号，但从未抱怨过微软与 OpenAI 的合作",
+              "url": "https://www.ithome.com/0/949/045.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 iOS / iPadOS 26.5 正式版发布：新增端到端加密 RCS、全新彩虹壁纸和地图广告更新，欧盟地区为第三方设备开放 AirPods 式快速配对",
+              "url": "https://www.ithome.com/0/949/034.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "SpaceXAI 组建进行时，马斯克已提交商标注册申请",
+              "url": "https://www.ithome.com/0/949/033.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "菲尔兹奖得主亲测 ChatGPT 5.5 Pro：17 分钟出论文级成果，替学生拉响红色警报",
+              "url": "https://www.ithome.com/0/949/032.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
+              "url": "https://www.qbitai.com/2026/05/415263.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+              "url": "https://www.qbitai.com/2026/05/415842.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
+              "url": "https://www.qbitai.com/2026/05/415810.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
+              "url": "https://www.qbitai.com/2026/05/415714.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会",
+              "url": "https://www.qbitai.com/2026/05/415403.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果",
+              "url": "https://www.qbitai.com/2026/05/415186.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+              "url": "https://www.qbitai.com/2026/05/415065.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+              "url": "https://www.qbitai.com/2026/05/415048.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "太初元碁携龙虾一体机亮相北京科博会",
+              "url": "https://www.qbitai.com/2026/05/415027.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
+              "url": "https://www.qbitai.com/2026/05/415023.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+              "url": "https://www.qbitai.com/2026/05/415019.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+              "url": "https://www.qbitai.com/2026/05/414826.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+              "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+              "date": "Mon, 11 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EMO: Pretraining mixture of experts for emergent modularity",
+              "url": "https://huggingface.co/blog/allenai/emo",
+              "date": "Fri, 08 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.1 LLMs: How They’re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+              "date": "Tue, 28 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+              "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+              "date": "Mon, 27 Ap"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
