@@ -2979,6 +2979,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-14",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
+              "url": "https://36kr.com/p/3808362853834502?f=rss",
+              "date": "2026-05-14"
+            },
+            {
+              "source": "36氪",
+              "title": "2026 AI最佳场景渗透案例重磅揭晓",
+              "url": "https://36kr.com/p/3807623172235011?f=rss",
+              "date": "2026-05-13"
+            },
+            {
+              "source": "36氪",
+              "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
+              "url": "https://36kr.com/p/3807382930251523?f=rss",
+              "date": "2026-05-13"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构",
+              "url": "https://36kr.com/p/3807043342475009?f=rss",
+              "date": "2026-05-13"
+            },
+            {
+              "source": "36氪",
+              "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+              "url": "https://36kr.com/p/3807039782116865?f=rss",
+              "date": "2026-05-13"
+            },
+            {
+              "source": "36氪",
+              "title": "Arm、软银据悉在AI算力公司Cerebras上市前最后关头曾试图收购该公司",
+              "url": "https://36kr.com/newsflashes/3808409777446664?f=rss",
+              "date": "2026-05-14"
+            },
+            {
+              "source": "36氪",
+              "title": "Anthropic推出Claude for Small Business，瞄准中小企业AI应用洼地",
+              "url": "https://36kr.com/newsflashes/3808397526998789?f=rss",
+              "date": "2026-05-14"
+            },
+            {
+              "source": "36氪",
+              "title": "微软在OpenAI合作项目上投入逾1000亿美元",
+              "url": "https://36kr.com/newsflashes/3808390228696835?f=rss",
+              "date": "2026-05-14"
+            },
+            {
+              "source": "36氪",
+              "title": "苹果公司据悉探索将AI智能体整合至应用商店",
+              "url": "https://36kr.com/newsflashes/3808384370351623?f=rss",
+              "date": "2026-05-14"
+            },
+            {
+              "source": "36氪",
+              "title": "亚马逊战略转向：砍掉Rufus聊天机器人，推出Alexa购物智能助手",
+              "url": "https://36kr.com/newsflashes/3808383356690183?f=rss",
+              "date": "2026-05-14"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "雷军谈小米自动驾驶模型 Xiaomi OneVL：业内率先通过潜空间推理将 VLA、世界模型统一到一套框架",
+              "url": "https://www.ithome.com/0/950/100.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "联想 YOGA Air 14 轻薄本 2026 款 Ultra 7 258V 配置上架，5 月 19 日开售",
+              "url": "https://www.ithome.com/0/950/092.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "赠B站大会员季卡：百度网盘 SVIP 超级会员 13 月卡 188 元官方 618 预售",
+              "url": "https://www.ithome.com/0/949/230.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "思科计划裁员约 4000 人，投入更多资源到 AI 及相关增长领域",
+              "url": "https://www.ithome.com/0/950/083.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果为谷歌辩护，反对“安卓向第三方 AI 开放服务”的欧盟要求",
+              "url": "https://www.ithome.com/0/950/082.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0514：马化腾回应腾讯 AI 是否落后；阿里 2026 财年净利润 1059.04 亿元；腾讯控股 2026 年 Q1 归母净利润 581 亿元；元宝 App 支持总结微信聊天记录...",
+              "url": "https://www.ithome.com/0/950/080.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称苹果评估 AI 编程类应用入驻方案，担心恶意软件与收入流失",
+              "url": "https://www.ithome.com/0/950/076.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美联储：AI 使用者更倾向于认为其会助力职业发展，而非替代自己",
+              "url": "https://www.ithome.com/0/950/072.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "34.4% vs 32.3%，数据显示 Anthropic 商业客户数首次反超 OpenAI",
+              "url": "https://www.ithome.com/0/950/068.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 Gboard 输入法新增 Gemini 驱动听写功能，可识别一句话中的多种语言",
+              "url": "https://www.ithome.com/0/950/067.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
+              "url": "https://www.qbitai.com/2026/05/417447.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
+              "url": "https://www.qbitai.com/2026/05/417366.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
+              "url": "https://www.qbitai.com/2026/05/416963.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
+              "url": "https://www.qbitai.com/2026/05/416870.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
+              "url": "https://www.qbitai.com/2026/05/416864.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
+              "url": "https://www.qbitai.com/2026/05/416831.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
+              "url": "https://www.qbitai.com/2026/05/416762.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
+              "url": "https://www.qbitai.com/2026/05/416754.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
+              "url": "https://www.qbitai.com/2026/05/416739.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型",
+              "url": "https://www.qbitai.com/2026/05/416576.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
+              "url": "https://www.qbitai.com/2026/05/416628.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
+              "url": "https://www.qbitai.com/2026/05/416590.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+              "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+              "date": "Mon, 11 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EMO: Pretraining mixture of experts for emergent modularity",
+              "url": "https://huggingface.co/blog/allenai/emo",
+              "date": "Fri, 08 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.1 LLMs: How They’re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+              "date": "Tue, 28 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+              "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+              "date": "Mon, 27 Ap"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
