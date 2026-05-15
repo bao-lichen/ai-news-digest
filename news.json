@@ -3244,6 +3244,235 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-15",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "腾讯，把AI塞入一切",
+              "url": "https://36kr.com/p/3808710182034944?f=rss",
+              "date": "2026-05-14"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍",
+              "url": "https://36kr.com/p/3807831328300549?f=rss",
+              "date": "2026-05-14"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：AI商业化或将迎来拐点，企业端应用落地有望加速",
+              "url": "https://36kr.com/newsflashes/3809819302436615?f=rss",
+              "date": "2026-05-15"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：继续看好AIDC产业链",
+              "url": "https://36kr.com/newsflashes/3809809918762757?f=rss",
+              "date": "2026-05-15"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "高温洗烘自清洁：小米米家扫地机器人 5 Pro 水箱版 2117 元、上下水版 2151 元",
+              "url": "https://www.ithome.com/0/950/687.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "AI 音乐应用 Suno 上线苹果 CarPlay，丰富你的驾车听歌体验",
+              "url": "https://www.ithome.com/0/950/683.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克诉 OpenAI 案收官前双方互怼：奥尔特曼是骗子、世界首富 AI 成功靠打官司",
+              "url": "https://www.ithome.com/0/950/681.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "xAI 发布 Grok Build 早期测试版编程智能体，仅限 SuperGrok 订阅用户使用",
+              "url": "https://www.ithome.com/0/950/678.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "28000Pa 吸力 + 越障高度 40mm：小米米家扫拖机器人 6 水箱版 1613 元国补新低",
+              "url": "https://www.ithome.com/0/950/677.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic 最强 AI Mythos 辅助，专家发现苹果 macOS 26.4.1 提权漏洞",
+              "url": "https://www.ithome.com/0/950/676.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "不用守电脑：手机端 ChatGPT 解锁 Codex，能实时远程控制 Mac 端 AI 任务",
+              "url": "https://www.ithome.com/0/950/673.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "开源库 TanStack 被黑波及 OpenAI，官方敦促苹果 Mac 用户升级 ChatGPT 应用",
+              "url": "https://www.ithome.com/0/950/666.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0515：华为何刚称鸿蒙生态今年有望突破 1 亿目标；英伟达市值超世界第三大经济体德国 GDP；微信团队投入一半人适配鸿蒙；小米 YU7 GT 实车图曝光...",
+              "url": "https://www.ithome.com/0/950/662.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "关系出现裂痕？消息称 OpenAI 考虑对苹果采取潜在法律行动",
+              "url": "https://www.ithome.com/0/950/654.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
+              "url": "https://www.qbitai.com/2026/05/417731.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践",
+              "url": "https://www.qbitai.com/2026/05/417927.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Robotaxi第一股又涨疯了",
+              "url": "https://www.qbitai.com/2026/05/417754.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%",
+              "url": "https://www.qbitai.com/2026/05/417753.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里 AI 应用新进展：悟空开始逐步规模化放量",
+              "url": "https://www.qbitai.com/2026/05/417748.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人",
+              "url": "https://www.qbitai.com/2026/05/417468.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够",
+              "url": "https://www.qbitai.com/2026/05/417469.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
+              "url": "https://www.qbitai.com/2026/05/417447.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
+              "url": "https://www.qbitai.com/2026/05/417366.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
+              "url": "https://www.qbitai.com/2026/05/416963.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
+              "url": "https://www.qbitai.com/2026/05/416870.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
+              "url": "https://www.qbitai.com/2026/05/416864.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Unlocking asynchronicity in continuous batching",
+              "url": "https://huggingface.co/blog/continuous_async",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+              "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+              "date": "Mon, 11 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EMO: Pretraining mixture of experts for emergent modularity",
+              "url": "https://huggingface.co/blog/allenai/emo",
+              "date": "Fri, 08 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.1 LLMs: How They’re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+              "date": "Wed, 29 Ap"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
