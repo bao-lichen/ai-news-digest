@@ -3708,6 +3708,186 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-17",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
+              "url": "https://36kr.com/p/3811265856626440?f=rss",
+              "date": "2026-05-16"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
+              "url": "https://36kr.com/p/3810308239465986?f=rss",
+              "date": "2026-05-15"
+            },
+            {
+              "source": "36氪",
+              "title": "阿里健康正式发布医学AI助手“氢离子”",
+              "url": "https://36kr.com/newsflashes/3811712103423746?f=rss",
+              "date": "2026-05-16"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+              "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
+              "date": "2026-05-16"
+            },
+            {
+              "source": "36氪",
+              "title": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
+              "url": "https://36kr.com/newsflashes/3811510125010434?f=rss",
+              "date": "2026-05-16"
+            },
+            {
+              "source": "36氪",
+              "title": "虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态",
+              "url": "https://36kr.com/newsflashes/3811463677533704?f=rss",
+              "date": "2026-05-16"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+              "url": "https://www.qbitai.com/2026/05/418620.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
+              "url": "https://www.qbitai.com/2026/05/418594.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
+              "url": "https://www.qbitai.com/2026/05/418518.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”",
+              "url": "https://www.qbitai.com/2026/05/418150.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+              "url": "https://www.qbitai.com/2026/05/418135.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+              "url": "https://www.qbitai.com/2026/05/418140.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+              "url": "https://www.qbitai.com/2026/05/418027.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "坐到马斯克和库克中间的湖南女人",
+              "url": "https://www.qbitai.com/2026/05/417965.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
+              "url": "https://www.qbitai.com/2026/05/417961.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智能无处不在：OpenClaw预示的AI未来",
+              "url": "https://www.qbitai.com/2026/05/417958.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
+              "url": "https://www.qbitai.com/2026/05/417943.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
+              "url": "https://www.qbitai.com/2026/05/417935.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Unlocking asynchronicity in continuous batching",
+              "url": "https://huggingface.co/blog/continuous_async",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+              "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+              "date": "Mon, 11 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EMO: Pretraining mixture of experts for emergent modularity",
+              "url": "https://huggingface.co/blog/allenai/emo",
+              "date": "Fri, 08 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.1 LLMs: How They’re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+              "date": "Wed, 29 Ap"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
