@@ -3888,6 +3888,180 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-18",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+              "url": "https://36kr.com/p/3812925591887368?f=rss",
+              "date": "2026-05-17"
+            },
+            {
+              "source": "36氪",
+              "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+              "url": "https://36kr.com/p/3812800346742274?f=rss",
+              "date": "2026-05-17"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
+              "url": "https://36kr.com/p/3812788568907520?f=rss",
+              "date": "2026-05-17"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达正与SIMPLISMART进行谈判，拟牵头参与一轮规模为2000万美元的融资活动",
+              "url": "https://36kr.com/newsflashes/3814074527194889?f=rss",
+              "date": "2026-05-18"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：模型加速商业化，看好AI产业后续催化",
+              "url": "https://36kr.com/newsflashes/3814064605257225?f=rss",
+              "date": "2026-05-18"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "一只机器狗，把英伟达的算力王座拱翻了",
+              "url": "https://www.qbitai.com/2026/05/418969.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+              "url": "https://www.qbitai.com/2026/05/418964.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+              "url": "https://www.qbitai.com/2026/05/418814.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+              "url": "https://www.qbitai.com/2026/05/418620.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
+              "url": "https://www.qbitai.com/2026/05/418594.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
+              "url": "https://www.qbitai.com/2026/05/418518.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”",
+              "url": "https://www.qbitai.com/2026/05/418150.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+              "url": "https://www.qbitai.com/2026/05/418135.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
+              "url": "https://www.qbitai.com/2026/05/418035.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+              "url": "https://www.qbitai.com/2026/05/418140.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "手机的智能体AI，正在因为天玑全面跃升",
+              "url": "https://www.qbitai.com/2026/05/417968.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+              "url": "https://www.qbitai.com/2026/05/418027.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Unlocking asynchronicity in continuous batching",
+              "url": "https://huggingface.co/blog/continuous_async",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+              "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+              "date": "Mon, 11 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EMO: Pretraining mixture of experts for emergent modularity",
+              "url": "https://huggingface.co/blog/allenai/emo",
+              "date": "Fri, 08 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+              "date": "Wed, 06 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.1 LLMs: How They’re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+              "date": "Wed, 29 Ap"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+              "date": "Wed, 29 Ap"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
