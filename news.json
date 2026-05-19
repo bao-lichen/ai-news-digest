@@ -4062,6 +4062,210 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-19",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+              "url": "https://36kr.com/p/3814695536336387?f=rss",
+              "date": "2026-05-18"
+            },
+            {
+              "source": "36氪",
+              "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+              "url": "https://36kr.com/p/3810598875307780?f=rss",
+              "date": "2026-05-18"
+            },
+            {
+              "source": "36氪",
+              "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+              "url": "https://36kr.com/p/3814408307711492?f=rss",
+              "date": "2026-05-18"
+            },
+            {
+              "source": "36氪",
+              "title": "对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么",
+              "url": "https://36kr.com/p/3814337101111044?f=rss",
+              "date": "2026-05-18"
+            },
+            {
+              "source": "36氪",
+              "title": "谷歌与黑石集团据悉将组建AI云合资公司",
+              "url": "https://36kr.com/newsflashes/3815491471499016?f=rss",
+              "date": "2026-05-19"
+            },
+            {
+              "source": "36氪",
+              "title": "国盛证券：AI方向期待本周谷歌I/O大会，继续看好Token经济",
+              "url": "https://36kr.com/newsflashes/3815484935298568?f=rss",
+              "date": "2026-05-19"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：Figure机器人直播分拣，关注垂类应用放量拐点",
+              "url": "https://36kr.com/newsflashes/3815468727672579?f=rss",
+              "date": "2026-05-19"
+            },
+            {
+              "source": "36氪",
+              "title": "产业链迎业绩与估值双重驱动，存储芯片板块投资机遇凸显",
+              "url": "https://36kr.com/newsflashes/3815454218903305?f=rss",
+              "date": "2026-05-19"
+            },
+            {
+              "source": "36氪",
+              "title": "xAI推出Skills",
+              "url": "https://36kr.com/newsflashes/3815445008080645?f=rss",
+              "date": "2026-05-19"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：算力需求持续强劲，NPO有望加速部署，继续看好AI板块",
+              "url": "https://36kr.com/newsflashes/3815444182932995?f=rss",
+              "date": "2026-05-19"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+              "url": "https://www.qbitai.com/2026/05/419585.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
+              "url": "https://www.qbitai.com/2026/05/419515.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为“养”出半个具身智能创业圈",
+              "url": "https://www.qbitai.com/2026/05/419414.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+              "url": "https://www.qbitai.com/2026/05/419396.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+              "url": "https://www.qbitai.com/2026/05/419386.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "信通院&#038;清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
+              "url": "https://www.qbitai.com/2026/05/419373.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次",
+              "url": "https://www.qbitai.com/2026/05/419278.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
+              "url": "https://www.qbitai.com/2026/05/419256.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一只机器狗，把英伟达的算力王座拱翻了",
+              "url": "https://www.qbitai.com/2026/05/418969.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+              "url": "https://www.qbitai.com/2026/05/418964.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+              "url": "https://www.qbitai.com/2026/05/418814.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+              "url": "https://www.qbitai.com/2026/05/418620.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+              "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Agent Leaderboard",
+              "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Unlocking asynchronicity in continuous batching",
+              "url": "https://huggingface.co/blog/continuous_async",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+              "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+              "date": "Mon, 11 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EMO: Pretraining mixture of experts for emergent modularity",
+              "url": "https://huggingface.co/blog/allenai/emo",
+              "date": "Fri, 08 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+              "date": "Wed, 06 Ma"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
