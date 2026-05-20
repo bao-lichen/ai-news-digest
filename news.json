@@ -4266,6 +4266,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-20",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
+              "url": "https://36kr.com/p/3816885092910212?f=rss",
+              "date": "2026-05-20"
+            },
+            {
+              "source": "36氪",
+              "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+              "url": "https://36kr.com/p/3814860909600261?f=rss",
+              "date": "2026-05-19"
+            },
+            {
+              "source": "36氪",
+              "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+              "url": "https://36kr.com/p/3805660478184966?f=rss",
+              "date": "2026-05-19"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+              "url": "https://36kr.com/p/3814695536336387?f=rss",
+              "date": "2026-05-18"
+            },
+            {
+              "source": "36氪",
+              "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+              "url": "https://36kr.com/p/3810598875307780?f=rss",
+              "date": "2026-05-18"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：AI浪潮下，MLCC迎来新一轮上行周期",
+              "url": "https://36kr.com/newsflashes/3816885492564871?f=rss",
+              "date": "2026-05-20"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：关注Token工厂及算力租赁相关标的",
+              "url": "https://36kr.com/newsflashes/3816884444988296?f=rss",
+              "date": "2026-05-20"
+            },
+            {
+              "source": "36氪",
+              "title": "沙特AI公司Humain聘请高盛，为数据中心建设筹措超53亿美元融资",
+              "url": "https://36kr.com/newsflashes/3816884140589960?f=rss",
+              "date": "2026-05-20"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "英特尔数据中心 AI 推理 GPU \"Crescent Island\" PCB 曝光",
+              "url": "https://www.ithome.com/0/952/571.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为 AI 眼镜 钛丝半框光学镜 方形款今日预售，2499 元",
+              "url": "https://www.ithome.com/0/952/567.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0520：小米 YU7 GT 破纽北 SUV 圈速纪录；特斯拉放弃印度建厂计划；谷歌发布 Gemini 3.5 Flash；DeepSeek 回应字符触发模型异常...",
+              "url": "https://www.ithome.com/0/952/556.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "分手费 100 亿美元：消息称 SpaceX 将在 IPO 后收购 AI 编程公司 Cursor",
+              "url": "https://www.ithome.com/0/952/554.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 联合创始人卡帕西官宣加盟 Anthropic，重返大模型研发前线",
+              "url": "https://www.ithome.com/0/952/553.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 为应对算力紧缺推出“保证容量”服务：客户可锁定 1 至 3 年长期算力，年消费越高折扣越大",
+              "url": "https://www.ithome.com/0/952/550.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌升级 AI Studio：文本直出原生安卓应用，打通测试全流程",
+              "url": "https://www.ithome.com/0/952/541.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌推出 Google Pics 应用：AI 生图加局部精细编辑",
+              "url": "https://www.ithome.com/0/952/540.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌推出 Ask Play：连续对话 AI 筛选应用与游戏",
+              "url": "https://www.ithome.com/0/952/539.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 Google TV 整合 Gemini：让 AI 提升内容发现、改善浏览交互",
+              "url": "https://www.ithome.com/0/952/537.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+              "url": "https://www.qbitai.com/2026/05/419990.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
+              "url": "https://www.qbitai.com/2026/05/419913.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+              "url": "https://www.qbitai.com/2026/05/419901.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
+              "url": "https://www.qbitai.com/2026/05/419597.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+              "url": "https://www.qbitai.com/2026/05/419585.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
+              "url": "https://www.qbitai.com/2026/05/419515.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为“养”出半个具身智能创业圈",
+              "url": "https://www.qbitai.com/2026/05/419414.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+              "url": "https://www.qbitai.com/2026/05/419396.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+              "url": "https://www.qbitai.com/2026/05/419386.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "信通院&#038;清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
+              "url": "https://www.qbitai.com/2026/05/419373.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次",
+              "url": "https://www.qbitai.com/2026/05/419278.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
+              "url": "https://www.qbitai.com/2026/05/419272.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "OlmoEarth v1.1: A more efficient family of models",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+              "date": "Tue, 19 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the Ettin Reranker Family",
+              "url": "https://huggingface.co/blog/ettin-reranker",
+              "date": "Tue, 19 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+              "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Agent Leaderboard",
+              "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Unlocking asynchronicity in continuous batching",
+              "url": "https://huggingface.co/blog/continuous_async",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+              "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+              "date": "Mon, 11 Ma"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
