@@ -4921,6 +4921,204 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-23",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
+              "url": "https://36kr.com/p/3816943010071427?f=rss",
+              "date": "2026-05-22"
+            },
+            {
+              "source": "36氪",
+              "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
+              "url": "https://36kr.com/p/3820318177841541?f=rss",
+              "date": "2026-05-22"
+            },
+            {
+              "source": "36氪",
+              "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
+              "url": "https://36kr.com/p/3820298219425924?f=rss",
+              "date": "2026-05-22"
+            },
+            {
+              "source": "36氪",
+              "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
+              "url": "https://36kr.com/p/3820220616495492?f=rss",
+              "date": "2026-05-22"
+            },
+            {
+              "source": "36氪",
+              "title": "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会",
+              "url": "https://36kr.com/p/3820150778531972?f=rss",
+              "date": "2026-05-22"
+            },
+            {
+              "source": "36氪",
+              "title": "以场景为锚，以AI为翼：大健康产业的实践与突破| 2026AI Partner·北京亦庄AI+产业大会",
+              "url": "https://36kr.com/p/3820143885455751?f=rss",
+              "date": "2026-05-22"
+            },
+            {
+              "source": "36氪",
+              "title": "京东618将用AI���字人打造全网首档AI购物直播晚会",
+              "url": "https://36kr.com/newsflashes/3820427661398407?f=rss",
+              "date": "2026-05-22"
+            },
+            {
+              "source": "36氪",
+              "title": "观想科技：拟约10亿元投资建设巴里坤AI科技成果转化总部基地项目",
+              "url": "https://36kr.com/newsflashes/3820401895018631?f=rss",
+              "date": "2026-05-22"
+            },
+            {
+              "source": "36氪",
+              "title": "炬坤机器人发布全球首款工业级五指灵巧手",
+              "url": "https://36kr.com/newsflashes/3820393192083592?f=rss",
+              "date": "2026-05-22"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+              "url": "https://www.qbitai.com/2026/05/422811.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李飞飞再出手，空间智能的ImageNet来了",
+              "url": "https://www.qbitai.com/2026/05/422738.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+              "url": "https://www.qbitai.com/2026/05/422624.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+              "url": "https://www.qbitai.com/2026/05/422615.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+              "url": "https://www.qbitai.com/2026/05/422455.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "39万！雷军发布小米最贵SUV",
+              "url": "https://www.qbitai.com/2026/05/422088.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
+              "url": "https://www.qbitai.com/2026/05/422127.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+              "url": "https://www.qbitai.com/2026/05/422068.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+              "url": "https://www.qbitai.com/2026/05/422032.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
+              "url": "https://www.qbitai.com/2026/05/422001.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Artificial Analysis放榜：千问3.7问鼎国产模型冠军，全球前五",
+              "url": "https://www.qbitai.com/2026/05/422009.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
+              "url": "https://www.qbitai.com/2026/05/422002.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+              "date": "Sat, 23 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+              "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+              "date": "Fri, 22 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+              "date": "Tue, 19 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the Ettin Reranker Family",
+              "url": "https://huggingface.co/blog/ettin-reranker",
+              "date": "Tue, 19 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+              "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Agent Leaderboard",
+              "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Unlocking asynchronicity in continuous batching",
+              "url": "https://huggingface.co/blog/continuous_async",
+              "date": "Thu, 14 Ma"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
