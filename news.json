@@ -5311,6 +5311,210 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-25",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+              "url": "https://36kr.com/p/3821714896408713?f=rss",
+              "date": "2026-05-23"
+            },
+            {
+              "source": "36氪",
+              "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+              "url": "https://36kr.com/p/3821542483857801?f=rss",
+              "date": "2026-05-23"
+            },
+            {
+              "source": "36氪",
+              "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+              "url": "https://36kr.com/p/3821533415985283?f=rss",
+              "date": "2026-05-23"
+            },
+            {
+              "source": "36氪",
+              "title": "对话王小川：离开通用人工智能的主干道之后",
+              "url": "https://36kr.com/p/3821521291038856?f=rss",
+              "date": "2026-05-23"
+            },
+            {
+              "source": "36氪",
+              "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+              "url": "https://36kr.com/p/3821519307591811?f=rss",
+              "date": "2026-05-23"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
+              "url": "https://36kr.com/p/3821371042877575?f=rss",
+              "date": "2026-05-23"
+            },
+            {
+              "source": "36氪",
+              "title": "立讯精密：光铜并进路线与头部客户布局光芯片、光纤厂商并不矛盾",
+              "url": "https://36kr.com/newsflashes/3824003104362624?f=rss",
+              "date": "2026-05-25"
+            },
+            {
+              "source": "36氪",
+              "title": "科技主题新基金发行火热，AI后市预判现分歧",
+              "url": "https://36kr.com/newsflashes/3823961644535944?f=rss",
+              "date": "2026-05-25"
+            },
+            {
+              "source": "36氪",
+              "title": "智能戒指厂商Oura在美秘密提交上市申请",
+              "url": "https://36kr.com/newsflashes/3823949346787461?f=rss",
+              "date": "2026-05-25"
+            },
+            {
+              "source": "36氪",
+              "title": "AI数据中心电力需求催热A股电力设备板块",
+              "url": "https://36kr.com/newsflashes/3823942860951682?f=rss",
+              "date": "2026-05-25"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
+              "url": "https://www.qbitai.com/2026/05/423421.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌CEO承认Coding落后了",
+              "url": "https://www.qbitai.com/2026/05/423390.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+              "url": "https://www.qbitai.com/2026/05/423382.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+              "url": "https://www.qbitai.com/2026/05/423162.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+              "url": "https://www.qbitai.com/2026/05/423159.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+              "url": "https://www.qbitai.com/2026/05/422811.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李飞飞再出手，空间智能的ImageNet来了",
+              "url": "https://www.qbitai.com/2026/05/422738.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+              "url": "https://www.qbitai.com/2026/05/422624.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+              "url": "https://www.qbitai.com/2026/05/422615.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+              "url": "https://www.qbitai.com/2026/05/422455.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "39万！雷军发布小米最贵SUV",
+              "url": "https://www.qbitai.com/2026/05/422088.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
+              "url": "https://www.qbitai.com/2026/05/422127.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+              "date": "Sat, 23 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+              "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+              "date": "Fri, 22 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+              "date": "Tue, 19 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the Ettin Reranker Family",
+              "url": "https://huggingface.co/blog/ettin-reranker",
+              "date": "Tue, 19 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+              "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Agent Leaderboard",
+              "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+              "date": "Mon, 18 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+              "date": "Thu, 14 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Unlocking asynchronicity in continuous batching",
+              "url": "https://huggingface.co/blog/continuous_async",
+              "date": "Thu, 14 Ma"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
