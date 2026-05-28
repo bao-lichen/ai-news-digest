@@ -5917,6 +5917,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-28",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+              "url": "https://36kr.com/p/3827585618154118?f=rss",
+              "date": "2026-05-28"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+              "url": "https://36kr.com/p/3828191630348934?f=rss",
+              "date": "2026-05-28"
+            },
+            {
+              "source": "36氪",
+              "title": "腾讯游戏的One More Thing，是AI",
+              "url": "https://36kr.com/p/3827658881323649?f=rss",
+              "date": "2026-05-28"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
+              "url": "https://36kr.com/p/3827497128465287?f=rss",
+              "date": "2026-05-27"
+            },
+            {
+              "source": "36氪",
+              "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+              "url": "https://36kr.com/p/3826932509364869?f=rss",
+              "date": "2026-05-27"
+            },
+            {
+              "source": "36氪",
+              "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
+              "url": "https://36kr.com/p/3826922264286083?f=rss",
+              "date": "2026-05-27"
+            },
+            {
+              "source": "36氪",
+              "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+              "url": "https://36kr.com/p/3826390617870984?f=rss",
+              "date": "2026-05-27"
+            },
+            {
+              "source": "36氪",
+              "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
+              "url": "https://36kr.com/p/3826385821192841?f=rss",
+              "date": "2026-05-27"
+            },
+            {
+              "source": "36氪",
+              "title": "亚马逊向其他零售商开放旗下AI购物技术",
+              "url": "https://36kr.com/newsflashes/3828226755482243?f=rss",
+              "date": "2026-05-28"
+            },
+            {
+              "source": "36氪",
+              "title": "多家头部券商中期策略会展望下半年：AI仍是市场热门赛道",
+              "url": "https://36kr.com/newsflashes/3828225595986817?f=rss",
+              "date": "2026-05-28"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "IT早报 0528：新一代问界 M9 与蔚来 ES9 同日发布；曝小红书拿下 2026 世界杯独家转播权；SK 海力士市值突破 1 万亿美元；阿里发全员信公布薪酬变革...",
+              "url": "https://www.ithome.com/0/956/246.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 确认 ChatGPT 与 API 昨日出现高延迟，现已修复",
+              "url": "https://www.ithome.com/0/956/245.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Omdia：2026Q1 欧洲智能手机均价 580 欧元创历史新高，三星、苹果、小米出货量前三",
+              "url": "https://www.ithome.com/0/956/242.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 股价大涨：将推出 AI 聊天机器人订阅服务，月费最低 2.99 美元，微信跟进么？",
+              "url": "https://www.ithome.com/0/956/241.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "腾讯代理“3A 撤离冒险射击游戏”《弧光猎人 ARC Raiders》国服开启预约",
+              "url": "https://www.ithome.com/0/956/229.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "SpaceX 坦言 AI 芯片供给不足，TeraFab 项目可能无法取得成功",
+              "url": "https://www.ithome.com/0/956/228.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "腾讯发布 AIGC 创作平台“代号 Craft”，可利用自然语言生成游戏世界素材",
+              "url": "https://www.ithome.com/0/956/225.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "618 首轮红包 24 点即将失效，B站百度网盘会员直降年内好价",
+              "url": "https://www.ithome.com/0/956/224.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "【IT之家实拍】雷鸟 GT Max 智能眼镜图赏：突破光学痛点，把 267 吋巨幕戴在头上",
+              "url": "https://www.ithome.com/0/956/208.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "360 智能猫眼 6 Pro 全景版发售：5MP 传感器、8000mAh 电池，519 元",
+              "url": "https://www.ithome.com/0/956/207.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "5秒完成3D场景编辑，北大&#038;港中文&#038;上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
+              "url": "https://www.qbitai.com/2026/05/425870.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI挖来了个F1级别车手搞公关",
+              "url": "https://www.qbitai.com/2026/05/425857.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "触觉具身来了个梦之队：天使轮近亿",
+              "url": "https://www.qbitai.com/2026/05/425660.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
+              "url": "https://www.qbitai.com/2026/05/425810.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
+              "url": "https://www.qbitai.com/2026/05/425523.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+              "url": "https://www.qbitai.com/2026/05/425304.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+              "url": "https://www.qbitai.com/2026/05/425296.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
+              "url": "https://www.qbitai.com/2026/05/425155.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
+              "url": "https://www.qbitai.com/2026/05/425058.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
+              "url": "https://www.qbitai.com/2026/05/425150.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
+              "url": "https://www.qbitai.com/2026/05/424851.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
+              "url": "https://www.qbitai.com/2026/05/424794.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+              "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Reachy Mini goes fully local",
+              "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+              "url": "https://huggingface.co/blog/delta-weight-sync",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+              "url": "https://huggingface.co/blog/agent-glossary",
+              "date": "Mon, 25 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+              "date": "Sat, 23 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+              "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+              "date": "Fri, 22 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+              "date": "Tue, 19 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the Ettin Reranker Family",
+              "url": "https://huggingface.co/blog/ettin-reranker",
+              "date": "Tue, 19 Ma"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
