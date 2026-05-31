@@ -6664,6 +6664,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-05-31",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+              "url": "https://36kr.com/p/3831135917107075?f=rss",
+              "date": "2026-05-30"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
+              "url": "https://36kr.com/p/3830194503526277?f=rss",
+              "date": "2026-05-29"
+            },
+            {
+              "source": "36氪",
+              "title": "6.24亿日元，乐奇AI眼镜创日本Makuake平台众筹新纪录",
+              "url": "https://36kr.com/newsflashes/3831673401190273?f=rss",
+              "date": "2026-05-30"
+            },
+            {
+              "source": "36氪",
+              "title": "总投资10亿元，锦瑞汽车智能装备制造总部基地项目落地合肥",
+              "url": "https://36kr.com/newsflashes/3831457169860233?f=rss",
+              "date": "2026-05-30"
+            },
+            {
+              "source": "36氪",
+              "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
+              "url": "https://36kr.com/newsflashes/3831325232670338?f=rss",
+              "date": "2026-05-30"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "消息称因战略分歧，三星与 OpenAI 定制 AI 芯片研发项目陷入停滞",
+              "url": "https://www.ithome.com/0/957/706.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0531：微软宣布下周携手英伟达开启 PC 新时代；深圳网约车市场已饱和官方发风险提示；苹果 iPhone 18 机模曝光；MiniMax 启动 A 股 IPO 进程...",
+              "url": "https://www.ithome.com/0/957/702.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "软银豪掷 750 亿欧元，在法国建设 5 吉瓦 AI 数据中心",
+              "url": "https://www.ithome.com/0/957/698.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "2B 参数“四两拨千斤”，智元自研世界模型 GE 2.0 登顶 WorldArena 榜单",
+              "url": "https://www.ithome.com/0/957/692.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小米米家扫拖机器人 6 Pro 国补探新低：水箱版 2343 元、上下水版 2665 元",
+              "url": "https://www.ithome.com/0/957/691.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称微软下周发布英伟达处理器 Windows PC，戴尔也会跟进",
+              "url": "https://www.ithome.com/0/957/690.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "大平层一次扫完：科沃斯 T90 PRO 活水洗地机器人 4499 → 3099 元上下水新低",
+              "url": "https://www.ithome.com/0/957/683.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "全国首个绿色算力全栈 AI 平台在呼和浩特上线，兼容国产芯片与主流算力架构",
+              "url": "https://www.ithome.com/0/957/682.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "4599 → 1699 元：石头 P10S Pro 扫拖机器人上市 2 年立打 3.69 折",
+              "url": "https://www.ithome.com/0/957/671.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "9.1 cm 厚度 + 31 英寸柔光灯：小米米家智能晾衣机 2 国补后 553 元",
+              "url": "https://www.ithome.com/0/957/668.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+              "url": "https://www.qbitai.com/2026/05/426706.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+              "url": "https://www.qbitai.com/2026/05/426662.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+              "url": "https://www.qbitai.com/2026/05/426557.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
+              "url": "https://www.qbitai.com/2026/05/426552.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
+              "url": "https://www.qbitai.com/2026/05/426548.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+              "url": "https://www.qbitai.com/2026/05/426542.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+              "url": "https://www.qbitai.com/2026/05/426400.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
+              "url": "https://www.qbitai.com/2026/05/426366.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "清华系团队给大模型织了一张“智能算力电网”",
+              "url": "https://www.qbitai.com/2026/05/426353.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+              "url": "https://www.qbitai.com/2026/05/426314.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
+              "url": "https://www.qbitai.com/2026/05/426293.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+              "url": "https://www.qbitai.com/2026/05/426237.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+              "url": "https://huggingface.co/blog/torch-profiler",
+              "date": "Fri, 29 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+              "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Reachy Mini goes fully local",
+              "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+              "url": "https://huggingface.co/blog/delta-weight-sync",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+              "url": "https://huggingface.co/blog/agent-glossary",
+              "date": "Mon, 25 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+              "date": "Sat, 23 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+              "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+              "date": "Fri, 22 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+              "date": "Tue, 19 Ma"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
