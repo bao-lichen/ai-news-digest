@@ -7134,6 +7134,186 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-02",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+              "url": "https://36kr.com/p/3834400181741440?f=rss",
+              "date": "2026-06-02"
+            },
+            {
+              "source": "36氪",
+              "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
+              "url": "https://36kr.com/p/3826034537223043?f=rss",
+              "date": "2026-06-01"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
+              "url": "https://36kr.com/p/3834354415347337?f=rss",
+              "date": "2026-06-01"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
+              "url": "https://36kr.com/p/3834427736024965?f=rss",
+              "date": "2026-06-01"
+            },
+            {
+              "source": "36氪",
+              "title": "连续完成五源、峰瑞两轮数千万元融资，清华00后团队要解决Token账单焦虑｜智能涌现首发",
+              "url": "https://36kr.com/p/3834310434875011?f=rss",
+              "date": "2026-06-01"
+            },
+            {
+              "source": "36氪",
+              "title": "机构：2026年智能手机出货量预计同比下降13.9%",
+              "url": "https://36kr.com/newsflashes/3835318280435077?f=rss",
+              "date": "2026-06-02"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：算力等高频高速需求快速增长，电子级PTFE有望大规模应用",
+              "url": "https://36kr.com/newsflashes/3835309248247176?f=rss",
+              "date": "2026-06-02"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：AI驱动感光干膜需求爬升，国产化替代空间广阔",
+              "url": "https://36kr.com/newsflashes/3835284709012608?f=rss",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "微星宣布 NVIDIA RTX Spark 迷你主机 EdgeMesa N AI+",
+              "url": "https://www.ithome.com/0/958/482.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软首个自研推理 AI 模型 MAI-Thinking-1、新 Copilot 超级应用曝光",
+              "url": "https://www.ithome.com/0/958/480.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微星带来《玩具总动员》联名 Cyborg 15、魔龙姬 IP Crosshair 16 HX 游戏本",
+              "url": "https://www.ithome.com/0/958/479.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌强推 AI 引发用户反感，DuckDuckGo 宣布为 Chrome / 火狐浏览器推出“无 AI 搜索插件”",
+              "url": "https://www.ithome.com/0/958/478.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌母公司 Alphabet 宣布 800 亿美元大额融资，用于 AI 基础设施与算力建设",
+              "url": "https://www.ithome.com/0/958/473.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "SpaceX IPO 文件新增风险提示：AI 数据中心面临水资源短缺风险",
+              "url": "https://www.ithome.com/0/958/465.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 调整手机端 ChatGPT，提示词可提前选 AI 响应档位",
+              "url": "https://www.ithome.com/0/958/464.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报:0602：5 月汽车销量汇总：比亚迪、上汽、奇瑞前三；曝豆包在 6 月下旬上线付费内容；英伟达进军 PC 笔记本处理器；软银超丰田成日本市值最高公司..",
+              "url": "https://www.ithome.com/0/958/463.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "黑客诱骗 Meta AI 客服，盗取多名 Instagram 用户账号",
+              "url": "https://www.ithome.com/0/958/462.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "抢跑 OpenAI，Anthropic 官宣已秘密递交 IPO 申请",
+              "url": "https://www.ithome.com/0/958/458.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": []
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+              "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+              "date": "Mon, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+              "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+              "date": "Mon, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+              "date": "Mon, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+              "url": "https://huggingface.co/blog/torch-profiler",
+              "date": "Fri, 29 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Reachy Mini goes fully local",
+              "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+              "url": "https://huggingface.co/blog/delta-weight-sync",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+              "url": "https://huggingface.co/blog/agent-glossary",
+              "date": "Mon, 25 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+              "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+              "date": "Fri, 22 Ma"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
