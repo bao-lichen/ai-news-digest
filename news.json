@@ -7314,6 +7314,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-03",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
+              "url": "https://36kr.com/p/3836703946257542?f=rss",
+              "date": "2026-06-03"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
+              "url": "https://36kr.com/p/3834354708031111?f=rss",
+              "date": "2026-06-02"
+            },
+            {
+              "source": "36氪",
+              "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+              "url": "https://36kr.com/p/3834292242130825?f=rss",
+              "date": "2026-06-02"
+            },
+            {
+              "source": "36氪",
+              "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+              "url": "https://36kr.com/p/3834400181741440?f=rss",
+              "date": "2026-06-02"
+            },
+            {
+              "source": "36氪",
+              "title": "“千寻智能”获15亿元A+轮融资",
+              "url": "https://36kr.com/newsflashes/3836724847703432?f=rss",
+              "date": "2026-06-03"
+            },
+            {
+              "source": "36氪",
+              "title": "联发科：下一代芯片独家采用英特尔EMIB-T封装，预计2027年Q4量产",
+              "url": "https://36kr.com/newsflashes/3836719832184197?f=rss",
+              "date": "2026-06-03"
+            },
+            {
+              "source": "36氪",
+              "title": "供给偏紧、AI需求托底，锡价中长期上行可期",
+              "url": "https://36kr.com/newsflashes/3836711800845698?f=rss",
+              "date": "2026-06-03"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI计划在金融领域和法律领域开发人工智能工具，与Anthropic展开竞争",
+              "url": "https://36kr.com/newsflashes/3836684323386503?f=rss",
+              "date": "2026-06-03"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "256-bit 大位宽 LPDDR，江波龙发布 AIDIMM、AILPBGA 内存方案",
+              "url": "https://www.ithome.com/0/959/062.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软纳德拉对话高通阿蒙：通过 Solara，打造 AI 智能体优先平台",
+              "url": "https://www.ithome.com/0/959/054.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌扩大 Quick Share 与 AirDrop 互传适配范围，覆盖更多安卓机型",
+              "url": "https://www.ithome.com/0/959/044.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "郭明錤：黄仁勋高喊“重新发明 PC”口号凝聚市场共识，英伟达 RTX Spark 勾勒端侧 AI 智能体蓝图",
+              "url": "https://www.ithome.com/0/959/037.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "特朗普签署行政令：AI 模型在上线前可提交给政府进行安全评估",
+              "url": "https://www.ithome.com/0/959/033.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "构建应用从未如此简单：OpenAI 推出 Sites，AI 转换用户工作、想法为交互式网站",
+              "url": "https://www.ithome.com/0/959/032.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "4 个月耗尽全年 AI 预算，Uber 规定单人单 AI 工具每月消费上限为 1500 美元",
+              "url": "https://www.ithome.com/0/959/030.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 扩展 Codex 使用场景，新增创意制作、销售等 6 款岗位插件",
+              "url": "https://www.ithome.com/0/959/028.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "从端侧到云端统一加速：英伟达、微软展示 AI 智能体完整部署栈，Fairwater 工厂提前上线",
+              "url": "https://www.ithome.com/0/959/026.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "共同开发、部署 AI 医疗模型，微软与梅奥诊所达成合作",
+              "url": "https://www.ithome.com/0/959/025.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
+              "url": "https://www.qbitai.com/2026/06/428003.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "滴滴2026Q1财报：国内基本盘稳固 国际业务成第二增长引擎",
+              "url": "https://www.qbitai.com/2026/06/428331.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+              "url": "https://www.qbitai.com/2026/06/427810.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“豆包汽车”，目标市场10万-20万",
+              "url": "https://www.qbitai.com/2026/06/427760.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
+              "url": "https://www.qbitai.com/2026/06/427754.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+              "url": "https://www.qbitai.com/2026/06/427729.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+              "url": "https://www.qbitai.com/2026/06/427730.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
+              "url": "https://www.qbitai.com/2026/06/427472.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "老黄的Token经济学翻车了！微软亚马逊通通跳车",
+              "url": "https://www.qbitai.com/2026/06/427541.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+              "url": "https://www.qbitai.com/2026/06/427530.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
+              "url": "https://www.qbitai.com/2026/06/427231.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI重返机器人赛道！四大核心岗位开招",
+              "url": "https://www.qbitai.com/2026/06/427238.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Holo3.1: Fast &amp; Local Computer Use Agents",
+              "url": "https://huggingface.co/blog/Hcompany/holo31",
+              "date": "Tue, 02 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+              "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+              "date": "Mon, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+              "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+              "date": "Mon, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+              "date": "Mon, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+              "url": "https://huggingface.co/blog/torch-profiler",
+              "date": "Fri, 29 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Reachy Mini goes fully local",
+              "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+              "url": "https://huggingface.co/blog/delta-weight-sync",
+              "date": "Wed, 27 Ma"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+              "url": "https://huggingface.co/blog/agent-glossary",
+              "date": "Mon, 25 Ma"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
