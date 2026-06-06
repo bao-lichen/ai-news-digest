@@ -8024,6 +8024,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-06",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
+              "url": "https://36kr.com/p/3839575253993985?f=rss",
+              "date": "2026-06-05"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+              "url": "https://36kr.com/p/3838835333253385?f=rss",
+              "date": "2026-06-05"
+            },
+            {
+              "source": "36氪",
+              "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+              "url": "https://36kr.com/p/3835460873385348?f=rss",
+              "date": "2026-06-05"
+            },
+            {
+              "source": "36氪",
+              "title": "热门中概股美股盘前多数下跌，百度跌超4%",
+              "url": "https://36kr.com/newsflashes/3840284182268417?f=rss",
+              "date": "2026-06-05"
+            },
+            {
+              "source": "36氪",
+              "title": "可灵AI两周年：全球用户突破1亿，企业客户近5万家",
+              "url": "https://36kr.com/newsflashes/3840249278793985?f=rss",
+              "date": "2026-06-05"
+            },
+            {
+              "source": "36氪",
+              "title": "加拿大出台国家人工智能战略",
+              "url": "https://36kr.com/newsflashes/3840230258936065?f=rss",
+              "date": "2026-06-05"
+            },
+            {
+              "source": "36氪",
+              "title": "3连板中重科技：不涉及机器人及零配件的生产制造",
+              "url": "https://36kr.com/newsflashes/3840220955445761?f=rss",
+              "date": "2026-06-05"
+            },
+            {
+              "source": "36氪",
+              "title": "高盛预计xAI营收5年增长约100倍",
+              "url": "https://36kr.com/newsflashes/3840204240931080?f=rss",
+              "date": "2026-06-05"
+            },
+            {
+              "source": "36氪",
+              "title": "七匹狼：拟出资1亿元认缴基金份额 主要投资于人工智能、半导体等项目",
+              "url": "https://36kr.com/newsflashes/3840197754718721?f=rss",
+              "date": "2026-06-05"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "便宜约 15%：苹果美国上架官翻 Apple Watch Series 11 等 2025 款智能手表",
+              "url": "https://www.ithome.com/0/960/776.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "月付 9.2 亿美元：谷歌租赁马斯克 SpaceX 的 AI 算力，约 11 万英伟达 GPU、CPU 等",
+              "url": "https://www.ithome.com/0/960/770.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "千帆卫星数量增至 200 颗，AIS 卫星系统组网达成",
+              "url": "https://www.ithome.com/0/960/766.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0606：医保个人账户跨省共济来了；追觅创始人俞浩称将心无旁骛做实业；闻泰科技起诉安世荷兰；美国 Anthropic 呼吁全球 AI 刹车...",
+              "url": "https://www.ithome.com/0/960/763.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 CEO 皮查伊力捧 AI，员工内部疯狂吐槽",
+              "url": "https://www.ithome.com/0/960/749.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "黄仁勋与多位韩企掌门人在烤肉店共进晚餐，称英伟达已着手在韩国新建 AI 技术中心项目",
+              "url": "https://www.ithome.com/0/960/747.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "剑桥大学团队 AI 设计通用疫苗完成首次人类临床试验，未来有望提前“拦截”大流行病",
+              "url": "https://www.ithome.com/0/960/746.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "加南 Kannan K2 智能眼镜发布：25.8g 重、32MP 摄像头，2350 元",
+              "url": "https://www.ithome.com/0/960/740.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 Chrome 149 稳定版发布，允许用户删除已下载的端侧 AI 模型",
+              "url": "https://www.ithome.com/0/960/738.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 智能眼镜 App 被曝暗藏 AI 人脸识别功能相关代码：影响超 5000 万设备，公司回应称仅为探索而已",
+              "url": "https://www.ithome.com/0/960/735.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "有人靠CPU把AI算力密度卷到了新高度",
+              "url": "https://www.qbitai.com/2026/06/431045.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智源&#038;清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+              "url": "https://www.qbitai.com/2026/06/431033.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+              "url": "https://www.qbitai.com/2026/06/431027.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
+              "url": "https://www.qbitai.com/2026/06/430757.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
+              "url": "https://www.qbitai.com/2026/06/431014.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
+              "url": "https://www.qbitai.com/2026/06/430758.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "B站宣布启动AI创造公开赛 打造中国版Build in Public",
+              "url": "https://www.qbitai.com/2026/06/430752.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "100亿砸向人形，不如先让10万台机器狗走进家庭",
+              "url": "https://www.qbitai.com/2026/06/429968.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "活久见！奥特曼Dario哈萨比斯同仇敌忾：DNA得查了",
+              "url": "https://www.qbitai.com/2026/06/429711.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住",
+              "url": "https://www.qbitai.com/2026/06/429349.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阶跃Step 3.7 Flash登顶AA榜：速度、性价比、端到端三项第一",
+              "url": "https://www.qbitai.com/2026/06/429294.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，姚顺雨现身！公开回应腾讯AI落后了吗？",
+              "url": "https://www.qbitai.com/2026/06/429285.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+              "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+              "date": "Fri, 05 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+              "url": "https://huggingface.co/blog/hf-cli-for-agents",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Direct Preference Optimization Beyond Chatbots",
+              "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+              "date": "Wed, 03 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Adding MCP Tools to Reachy Mini",
+              "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+              "date": "Wed, 03 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Holo3.1: Fast &amp; Local Computer Use Agents",
+              "url": "https://huggingface.co/blog/Hcompany/holo31",
+              "date": "Tue, 02 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+              "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+              "date": "Mon, 01 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
