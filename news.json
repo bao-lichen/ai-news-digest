@@ -8710,6 +8710,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-09",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
+              "url": "https://36kr.com/p/3839626642344454?f=rss",
+              "date": "2026-06-09"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件",
+              "url": "https://36kr.com/p/3845196412193284?f=rss",
+              "date": "2026-06-09"
+            },
+            {
+              "source": "36氪",
+              "title": "改变全球速度的AI，付款却卡在上一个时代",
+              "url": "https://36kr.com/p/3844199957236227?f=rss",
+              "date": "2026-06-08"
+            },
+            {
+              "source": "36氪",
+              "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+              "url": "https://36kr.com/p/3844006775360002?f=rss",
+              "date": "2026-06-08"
+            },
+            {
+              "source": "36氪",
+              "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+              "url": "https://36kr.com/p/3841459663030532?f=rss",
+              "date": "2026-06-08"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
+              "url": "https://36kr.com/p/3843764238174729?f=rss",
+              "date": "2026-06-08"
+            },
+            {
+              "source": "36氪",
+              "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+              "url": "https://36kr.com/p/3840996342073604?f=rss",
+              "date": "2026-06-06"
+            },
+            {
+              "source": "36氪",
+              "title": "得物与微信就AI Agent达成首批合作",
+              "url": "https://36kr.com/newsflashes/3845237188774401?f=rss",
+              "date": "2026-06-09"
+            },
+            {
+              "source": "36氪",
+              "title": "黑芝麻智能与上实科技达成战略合作",
+              "url": "https://36kr.com/newsflashes/3845200293202180?f=rss",
+              "date": "2026-06-09"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：当前全球AI算力基建的订单能见度仍比较高，依旧看好AI产业链",
+              "url": "https://36kr.com/newsflashes/3845195819124997?f=rss",
+              "date": "2026-06-09"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "从“画饼”到实机展示，苹果 WWDC26 改变 AI 功能演示方式",
+              "url": "https://www.ithome.com/0/961/727.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "赛力斯“赛豆科技”全新品牌 AIVA 官宣：车标样式曝光，全系标配豆包大模型智能座舱",
+              "url": "https://www.ithome.com/0/961/726.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 智能眼镜暗藏人脸识别代码，曝光仅一天后被紧急移除",
+              "url": "https://www.ithome.com/0/961/724.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "三星电子全永铉：正与英伟达商讨下一代 Groq LPU 合作事宜",
+              "url": "https://www.ithome.com/0/961/723.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 WWDC26 主题演讲一文汇总：iOS 27 等新系统发布、Siri AI 登场，库克迎来生涯“最后一舞”",
+              "url": "https://www.ithome.com/0/961/722.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
+              "url": "https://www.ithome.com/0/961/721.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果回应“套壳 Gemini”猜测：iOS 27 版 Siri AI AFM 自研打造",
+              "url": "https://www.ithome.com/0/961/718.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 已提交 S-1 草案，释放潜在 IPO 上市信号",
+              "url": "https://www.ithome.com/0/961/714.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 iOS 27 大改 Genmoji 自定义表情功能，可微调描述语言",
+              "url": "https://www.ithome.com/0/961/713.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 iOS 27 升级钱包应用：支持 AI 导入票证",
+              "url": "https://www.ithome.com/0/961/712.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+              "url": "https://www.qbitai.com/2026/06/432587.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+              "url": "https://www.qbitai.com/2026/06/432489.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+              "url": "https://www.qbitai.com/2026/06/432581.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+              "url": "https://www.qbitai.com/2026/06/432084.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机",
+              "url": "https://www.qbitai.com/2026/06/432062.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高通点赞广汽埃安N60智驾大赛获亚军，文远知行WRD 3.0亮相高通峰会",
+              "url": "https://www.qbitai.com/2026/06/432055.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "有余凯不投的地平线离职创业员工吗？",
+              "url": "https://www.qbitai.com/2026/06/431931.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
+              "url": "https://www.qbitai.com/2026/06/431694.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
+              "url": "https://www.qbitai.com/2026/06/431499.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+              "url": "https://www.qbitai.com/2026/06/431487.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+              "url": "https://www.qbitai.com/2026/06/431287.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Hinton吹哨了：AI已经有意识！",
+              "url": "https://www.qbitai.com/2026/06/431349.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+              "url": "https://huggingface.co/blog/openenv-agentic-rl",
+              "date": "Mon, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+              "url": "https://huggingface.co/blog/hf-cli-for-agents",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Direct Preference Optimization Beyond Chatbots",
+              "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+              "date": "Wed, 03 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Adding MCP Tools to Reachy Mini",
+              "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+              "date": "Wed, 03 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Holo3.1: Fast &amp; Local Computer Use Agents",
+              "url": "https://huggingface.co/blog/Hcompany/holo31",
+              "date": "Tue, 02 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+              "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+              "date": "Mon, 01 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
