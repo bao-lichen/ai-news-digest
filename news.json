@@ -8975,6 +8975,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-10",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨致3人永久失明，膳魔师紧急召回百万件产品；发布会后苹果市值蒸发超1.587万亿；Anthropic发布最强模型：Claude Fable 5正式上线",
+              "url": "https://36kr.com/p/3846601462073600?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+              "url": "https://36kr.com/p/3845899768760580?f=rss",
+              "date": "2026-06-09"
+            },
+            {
+              "source": "36氪",
+              "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
+              "url": "https://36kr.com/p/3845645258541319?f=rss",
+              "date": "2026-06-09"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
+              "url": "https://36kr.com/p/3845356968839680?f=rss",
+              "date": "2026-06-09"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
+              "url": "https://36kr.com/p/3845295918909954?f=rss",
+              "date": "2026-06-09"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
+              "url": "https://36kr.com/p/3845293120621057?f=rss",
+              "date": "2026-06-09"
+            },
+            {
+              "source": "36氪",
+              "title": "欧陆通：已与Google达成算力设备GPU电源项目合作，正推进至测试及小批量生产",
+              "url": "https://36kr.com/newsflashes/3846628037347849?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "SpaceX计划于2027年启动太空AI基础设施演示",
+              "url": "https://36kr.com/newsflashes/3846624853363206?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "马来西亚芯片出口今年有望突破1970亿美元",
+              "url": "https://36kr.com/newsflashes/3846603963140611?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "中国软件国际：签订人民币10亿元高端AI算力设备销售协议",
+              "url": "https://36kr.com/newsflashes/3846599148177922?f=rss",
+              "date": "2026-06-10"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "苹果升级 iOS 27 版地图：AI 优化飞行俯瞰植被显示效果、引入本地榜单",
+              "url": "https://www.ithome.com/0/962/187.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "面向 RDIMM：澜起出样 DDR5-9200 寄存时钟驱动器芯片（RCD）芯片",
+              "url": "https://www.ithome.com/0/962/185.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "冲刺“太空数据中心”：消息称 SpaceX 计划明年年底前开展轨道 AI 计算测试",
+              "url": "https://www.ithome.com/0/962/184.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "数据中心噪音扰民，马斯克旗下 xAI 与 SpaceX 遭集体诉讼",
+              "url": "https://www.ithome.com/0/962/181.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "初探苹果 iOS 27 相机应用：打磨界面，整合 Siri AI 技能",
+              "url": "https://www.ithome.com/0/962/178.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0610：阿里、百度等回应被列入美国防部军工名单；工信部整治 App“摇一摇”跳转；王传福称 5 年后比亚迪规模将做到真正的全球第一；微信朋友圈搜索全量开放...",
+              "url": "https://www.ithome.com/0/962/163.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "LG 海外推出“UltraGear 34GX90SB-W”34 英寸带鱼屏显示器：1440P 240Hz、内置 WebOS 系统",
+              "url": "https://www.ithome.com/0/962/162.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果为三款 AirPods 推出测试版固件 9A5292e，支持全新 Siri 与自定义均衡器",
+              "url": "https://www.ithome.com/0/962/159.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国造车新势力 Rivian 交付 R2 纯电 SUV，剑指大众市场与自动驾驶",
+              "url": "https://www.ithome.com/0/962/154.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称三星电子计划在韩国光州新建先进半导体封装工厂，强化 AI 芯片产业链布局",
+              "url": "https://www.ithome.com/0/962/153.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "内蒙跑通AI逆袭新解法",
+              "url": "https://www.qbitai.com/2026/06/433565.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "理想智驾一号位创业，落户北京亦庄了",
+              "url": "https://www.qbitai.com/2026/06/433560.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+              "url": "https://www.qbitai.com/2026/06/433508.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯想让企业打开AI的方式只剩一个",
+              "url": "https://www.qbitai.com/2026/06/432631.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+              "url": "https://www.qbitai.com/2026/06/432587.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+              "url": "https://www.qbitai.com/2026/06/432489.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+              "url": "https://www.qbitai.com/2026/06/432581.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+              "url": "https://www.qbitai.com/2026/06/432417.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+              "url": "https://www.qbitai.com/2026/06/432084.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机",
+              "url": "https://www.qbitai.com/2026/06/432062.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高通点赞广汽埃安N60智驾大赛获亚军，文远知行WRD 3.0亮相高通峰会",
+              "url": "https://www.qbitai.com/2026/06/432055.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "有余凯不投的地平线离职创业员工吗？",
+              "url": "https://www.qbitai.com/2026/06/431931.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+              "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+              "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+              "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+              "url": "https://huggingface.co/blog/openenv-agentic-rl",
+              "date": "Mon, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+              "url": "https://huggingface.co/blog/hf-cli-for-agents",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Direct Preference Optimization Beyond Chatbots",
+              "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+              "date": "Wed, 03 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
