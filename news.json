@@ -9240,6 +9240,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-11",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+              "url": "https://36kr.com/p/3847079661193733?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+              "url": "https://36kr.com/p/3846956646124036?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
+              "url": "https://36kr.com/p/3846793046133257?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+              "url": "https://36kr.com/p/3846789531404549?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+              "url": "https://36kr.com/p/3844720012151040?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨致3人永久失明，膳魔师紧急召回百万件产品；发布会后苹果市值蒸发超1.587万亿；Anthropic发布最强模型：Claude Fable 5正式上线",
+              "url": "https://36kr.com/p/3846601462073600?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "两部门：深入实施“人工智能+三品”专项行动，建设一批行业大模型和高质量数据集",
+              "url": "https://36kr.com/newsflashes/3848066038174724?f=rss",
+              "date": "2026-06-11"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：AI服务器测试电源或迎国产替代机遇",
+              "url": "https://36kr.com/newsflashes/3848019548738822?f=rss",
+              "date": "2026-06-11"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：下半年AI新材料、军工新材料、固态电池、核聚变、氢能等主题有望表现活跃",
+              "url": "https://36kr.com/newsflashes/3848017246344455?f=rss",
+              "date": "2026-06-11"
+            },
+            {
+              "source": "36氪",
+              "title": "谷歌推出DiffusionGemma开源模型",
+              "url": "https://36kr.com/newsflashes/3848013541659905?f=rss",
+              "date": "2026-06-11"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "外媒体验苹果 iOS 27 全新 Siri AI：回复简洁，不套近乎",
+              "url": "https://www.ithome.com/0/962/721.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "研扬推出 UP WCL 系列嵌入式产品：配英特尔 Wildcat Lake 芯片，最高 48GB 内存",
+              "url": "https://www.ithome.com/0/962/720.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "统筹调配车辆芯片算力，中国汽车基础软件技术首次进入全球行业标准",
+              "url": "https://www.ithome.com/0/962/707.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "因安全顾虑，Anthropic 最强 AI 模型 Claude Fable 5 拒绝回答基础生物问题",
+              "url": "https://www.ithome.com/0/962/705.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "GPT-5.6 最强 AI 模型已在路上，消息称奥尔特曼预估 OpenAI 明年上市",
+              "url": "https://www.ithome.com/0/962/704.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称因数据留存新规，微软限制员工使用 Claude Fable 5 AI 模型",
+              "url": "https://www.ithome.com/0/962/702.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌推出 DiffusionGemma 文本扩散模型：本地 AI 推理速度提升 4 倍",
+              "url": "https://www.ithome.com/0/962/696.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小米 MiMo Code V0.1.0 探索性 AI 编程助手发布并开源：基于 OpenCode 二次开发，采用 MIT 协议",
+              "url": "https://www.ithome.com/0/962/693.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "荣耀小平板再曝：评估 8 英寸左右超高刷 OLED 屏 + 骁龙 8 Elite 系列芯片，或命名 WIN Pad Mini",
+              "url": "https://www.ithome.com/0/962/685.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "智界 RX 登陆工信部新车公示，赵长江喊话要给出 SUV 在智能时代的新方向",
+              "url": "https://www.ithome.com/0/962/681.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达",
+              "url": "https://www.qbitai.com/2026/06/434196.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "东风联手九识，商用无人车也有“HI模式”了",
+              "url": "https://www.qbitai.com/2026/06/433956.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式",
+              "url": "https://www.qbitai.com/2026/06/433798.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
+              "url": "https://www.qbitai.com/2026/06/433516.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-5.6首批实测来了！精准狙击Mythos",
+              "url": "https://www.qbitai.com/2026/06/433731.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "内蒙跑通AI逆袭新解法",
+              "url": "https://www.qbitai.com/2026/06/433565.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "理想智驾一号位创业，落户北京亦庄了",
+              "url": "https://www.qbitai.com/2026/06/433560.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+              "url": "https://www.qbitai.com/2026/06/433508.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯想让企业打开AI的方式只剩一个",
+              "url": "https://www.qbitai.com/2026/06/432631.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+              "url": "https://www.qbitai.com/2026/06/432587.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+              "url": "https://www.qbitai.com/2026/06/432489.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+              "url": "https://www.qbitai.com/2026/06/432581.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+              "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+              "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+              "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+              "url": "https://huggingface.co/blog/openenv-agentic-rl",
+              "date": "Mon, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+              "url": "https://huggingface.co/blog/hf-cli-for-agents",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Direct Preference Optimization Beyond Chatbots",
+              "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+              "date": "Wed, 03 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
