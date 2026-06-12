@@ -9505,6 +9505,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-12",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+              "url": "https://36kr.com/p/3848516305605892?f=rss",
+              "date": "2026-06-11"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+              "url": "https://36kr.com/p/3847079661193733?f=rss",
+              "date": "2026-06-10"
+            },
+            {
+              "source": "36氪",
+              "title": "SK海力士考虑引入ChatGPT等外部人工智能服务",
+              "url": "https://36kr.com/newsflashes/3849477119939840?f=rss",
+              "date": "2026-06-12"
+            },
+            {
+              "source": "36氪",
+              "title": "AI重塑底层逻辑，数据库重新站上风口",
+              "url": "https://36kr.com/newsflashes/3849438848390144?f=rss",
+              "date": "2026-06-12"
+            },
+            {
+              "source": "36氪",
+              "title": "应用数字公司完成15.9亿美元AI债务融资",
+              "url": "https://36kr.com/newsflashes/3849425680143369?f=rss",
+              "date": "2026-06-12"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "消息称 SK 海力士考虑引入 Copilot、ChatGPT 等第三方 AI 服务，推动工作流转型",
+              "url": "https://www.ithome.com/0/963/254.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸",
+              "url": "https://www.ithome.com/0/963/246.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "2nm 工艺，消息称三星将代工谷歌 TPU v10 的 I/O Die 芯片",
+              "url": "https://www.ithome.com/0/963/240.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 收购初创公司 Ona，强化编程助手 Codex",
+              "url": "https://www.ithome.com/0/963/239.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0612：iPhone 17 标准版无缘高阶 Siri AI；第 13 版《新华字典》发布；被阿里内部批评后钉钉火速换帅；“百亿补贴”非真百亿，淘宝京东拼多多抖音小红书被约谈...",
+              "url": "https://www.ithome.com/0/963/238.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "世界杯期间苹果营销发力：AirPods Pro 3 具备全球最佳入耳式主动降噪",
+              "url": "https://www.ithome.com/0/963/235.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果高管克雷格明确表态：全新 Siri 不会成为你的 AI 女友 / 男友",
+              "url": "https://www.ithome.com/0/963/232.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国加州试水“智能高速公路”：用算法控流疏堵，成本远比扩建低",
+              "url": "https://www.ithome.com/0/963/218.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "亚马逊创始人贝索斯：AI 不会造成大规模失业，反而会让经济出现“劳动力短缺”",
+              "url": "https://www.ithome.com/0/963/215.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "开源鸿蒙 OpenHarmony 7.0 Beta1 发布：应用控制更精细、相机专业能力增强，方舟 Web 内核升级至 Chromium 144",
+              "url": "https://www.ithome.com/0/963/214.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
+              "url": "https://www.qbitai.com/2026/06/434733.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
+              "url": "https://www.qbitai.com/2026/06/434571.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+              "url": "https://www.qbitai.com/2026/06/434558.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
+              "url": "https://www.qbitai.com/2026/06/434316.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
+              "url": "https://www.qbitai.com/2026/06/434326.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI短剧工具赛道，年度最大单笔融资来了",
+              "url": "https://www.qbitai.com/2026/06/434298.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌I/O最出圈的一幕，发生在抖音？？？",
+              "url": "https://www.qbitai.com/2026/06/434267.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "行业首创AI志愿填报+真人专家验真，百度全新升级高考服务",
+              "url": "https://www.qbitai.com/2026/06/434268.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达",
+              "url": "https://www.qbitai.com/2026/06/434196.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "东风联手九识，商用无人车也有“HI模式”了",
+              "url": "https://www.qbitai.com/2026/06/433956.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式",
+              "url": "https://www.qbitai.com/2026/06/433798.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
+              "url": "https://www.qbitai.com/2026/06/433516.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+              "url": "https://huggingface.co/blog/torch-mlp-fusion",
+              "date": "Thu, 11 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+              "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+              "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+              "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+              "url": "https://huggingface.co/blog/openenv-agentic-rl",
+              "date": "Mon, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+              "url": "https://huggingface.co/blog/hf-cli-for-agents",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Direct Preference Optimization Beyond Chatbots",
+              "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+              "date": "Wed, 03 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
