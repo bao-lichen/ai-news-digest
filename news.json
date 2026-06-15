@@ -10222,6 +10222,180 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-15",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+              "url": "https://36kr.com/p/3853670570743040?f=rss",
+              "date": "2026-06-15"
+            },
+            {
+              "source": "36氪",
+              "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+              "url": "https://36kr.com/p/3851572421432324?f=rss",
+              "date": "2026-06-14"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+              "url": "https://36kr.com/p/3846972367866119?f=rss",
+              "date": "2026-06-13"
+            },
+            {
+              "source": "36氪",
+              "title": "突发！Anthropic全球停用Claude 5",
+              "url": "https://36kr.com/p/3851015329027336?f=rss",
+              "date": "2026-06-13"
+            },
+            {
+              "source": "36氪",
+              "title": "“大晓机器人”完成天使+轮融资",
+              "url": "https://36kr.com/newsflashes/3853718682375433?f=rss",
+              "date": "2026-06-15"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+              "url": "https://www.qbitai.com/2026/06/435394.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+              "url": "https://www.qbitai.com/2026/06/435339.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "神了，世界杯第一天真按千问剧本踢了",
+              "url": "https://www.qbitai.com/2026/06/435321.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "千里收购了一家毫米波雷达公司",
+              "url": "https://www.qbitai.com/2026/06/435196.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
+              "url": "https://www.qbitai.com/2026/06/435192.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
+              "url": "https://www.qbitai.com/2026/06/433717.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
+              "url": "https://www.qbitai.com/2026/06/435105.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
+              "url": "https://www.qbitai.com/2026/06/434774.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
+              "url": "https://www.qbitai.com/2026/06/434761.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
+              "url": "https://www.qbitai.com/2026/06/434733.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
+              "url": "https://www.qbitai.com/2026/06/434571.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+              "url": "https://www.qbitai.com/2026/06/434558.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "olmo-eval: An evaluation workbench for the model development loop",
+              "url": "https://huggingface.co/blog/allenai/olmo-eval",
+              "date": "Fri, 12 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+              "url": "https://huggingface.co/blog/torch-mlp-fusion",
+              "date": "Thu, 11 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+              "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+              "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+              "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+              "url": "https://huggingface.co/blog/openenv-agentic-rl",
+              "date": "Mon, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+              "url": "https://huggingface.co/blog/hf-cli-for-agents",
+              "date": "Thu, 04 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
