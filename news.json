@@ -10396,6 +10396,198 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-16",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
+              "url": "https://36kr.com/p/3854486447510535?f=rss",
+              "date": "2026-06-15"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+              "url": "https://36kr.com/p/3853016586359817?f=rss",
+              "date": "2026-06-15"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
+              "url": "https://36kr.com/p/3853011900142848?f=rss",
+              "date": "2026-06-15"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+              "url": "https://36kr.com/p/3853670570743040?f=rss",
+              "date": "2026-06-15"
+            },
+            {
+              "source": "36氪",
+              "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+              "url": "https://36kr.com/p/3851572421432324?f=rss",
+              "date": "2026-06-14"
+            },
+            {
+              "source": "36氪",
+              "title": "Rivian称将于今年推出媲美特斯拉FSD的自动驾驶系统",
+              "url": "https://36kr.com/newsflashes/3855126107395335?f=rss",
+              "date": "2026-06-16"
+            },
+            {
+              "source": "36氪",
+              "title": "消息称三星晶圆代工首获马斯克Neuralink芯片制造订单",
+              "url": "https://36kr.com/newsflashes/3855121987113984?f=rss",
+              "date": "2026-06-16"
+            },
+            {
+              "source": "36氪",
+              "title": "银河证券：AI算力建设需求爆发推动存储长周期涨价，HBM投片比重将持续提升",
+              "url": "https://36kr.com/newsflashes/3855121244935175?f=rss",
+              "date": "2026-06-16"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+              "url": "https://www.qbitai.com/2026/06/435848.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
+              "url": "https://www.qbitai.com/2026/06/435841.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "宇树机器人要登珠峰了！",
+              "url": "https://www.qbitai.com/2026/06/435817.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
+              "url": "https://www.qbitai.com/2026/06/435804.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+              "url": "https://www.qbitai.com/2026/06/435802.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
+              "url": "https://www.qbitai.com/2026/06/435574.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
+              "url": "https://www.qbitai.com/2026/06/435558.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
+              "url": "https://www.qbitai.com/2026/06/435520.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+              "url": "https://www.qbitai.com/2026/06/435394.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+              "url": "https://www.qbitai.com/2026/06/435339.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "神了，世界杯第一天真按千问剧本踢了",
+              "url": "https://www.qbitai.com/2026/06/435321.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "千里收购了一家毫米波雷达公司",
+              "url": "https://www.qbitai.com/2026/06/435196.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "olmo-eval: An evaluation workbench for the model development loop",
+              "url": "https://huggingface.co/blog/allenai/olmo-eval",
+              "date": "Fri, 12 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+              "url": "https://huggingface.co/blog/torch-mlp-fusion",
+              "date": "Thu, 11 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+              "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+              "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+              "url": "https://huggingface.co/blog/openenv-agentic-rl",
+              "date": "Mon, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+              "url": "https://huggingface.co/blog/hf-cli-for-agents",
+              "date": "Thu, 04 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Direct Preference Optimization Beyond Chatbots",
+              "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+              "date": "Wed, 03 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
