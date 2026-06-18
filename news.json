@@ -10853,6 +10853,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-18",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
+              "url": "https://36kr.com/p/3857175761081348?f=rss",
+              "date": "2026-06-17"
+            },
+            {
+              "source": "36氪",
+              "title": "风拂阳澄，来半岛解锁夏日限定AI狂欢！",
+              "url": "https://36kr.com/p/3857051317359622?f=rss",
+              "date": "2026-06-17"
+            },
+            {
+              "source": "36氪",
+              "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
+              "url": "https://36kr.com/p/3857011810112521?f=rss",
+              "date": "2026-06-17"
+            },
+            {
+              "source": "36氪",
+              "title": "把AI当「电子校医」的大学生，一个人看病不慌了",
+              "url": "https://36kr.com/p/3856958075802633?f=rss",
+              "date": "2026-06-17"
+            },
+            {
+              "source": "36氪",
+              "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
+              "url": "https://36kr.com/p/3848483761493250?f=rss",
+              "date": "2026-06-17"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪专访 | 罗剑岚：机器人真正的Scaling Law，发生在真实部署闭环里",
+              "url": "https://36kr.com/p/3856871787189252?f=rss",
+              "date": "2026-06-17"
+            },
+            {
+              "source": "36氪",
+              "title": "科创板第五套标准扩围至大模型企业，智谱、MiniMax“回A”有望提速",
+              "url": "https://36kr.com/newsflashes/3857939710203144?f=rss",
+              "date": "2026-06-18"
+            },
+            {
+              "source": "36氪",
+              "title": "谷歌DeepMind研究员诺姆·沙泽尔将加入OpenAI",
+              "url": "https://36kr.com/newsflashes/3857935660569609?f=rss",
+              "date": "2026-06-18"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "上交所：AI 大模型企业适用科创板第五套上市标准，在申报时至少有一个大模型产品已完成上线发布并实现规模化应用",
+              "url": "https://www.ithome.com/0/965/735.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App",
+              "url": "https://www.ithome.com/0/965/734.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "ACEMAGIC 公布 Kron Mini K5 迷你主机，搭载酷睿 5 320 \"Wildcat Lake\"",
+              "url": "https://www.ithome.com/0/965/727.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "WWDC26 苹果 AI 特别讲座重头戏：4 台 Mac Studio 本地运行 Kimi K2.6 模型",
+              "url": "https://www.ithome.com/0/965/722.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 iOS 27 升级 AirPods 体验：引入 Siri AI、心率同步、精准查找等",
+              "url": "https://www.ithome.com/0/965/714.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "面向 AI 的下一代超高性能 DRAM，SK 海力士已向主要客户供应 12 层 HBM4E 样品",
+              "url": "https://www.ithome.com/0/965/713.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0618：DeepSeek 以 4000 亿元估值完成首轮融资；SK 海力士应届生招聘取消学历要求；库克称苹果将因内存芯片短缺涨价；微信支付推 AI 专属卡...",
+              "url": "https://www.ithome.com/0/965/709.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "香橙派推出 Orange Pi 6 标准版开发板：45 TOPS AI 算力、可选 8/16/24GB RAM",
+              "url": "https://www.ithome.com/0/965/708.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Epic 预热虚幻引擎 6 将引入生成式 AI 开发工具、游戏逻辑开发模型全面转向 Verse 语言",
+              "url": "https://www.ithome.com/0/965/703.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "我国科学家发现水稻“智能开关”基因，破解抗寒与氮肥高效利用难题",
+              "url": "https://www.ithome.com/0/965/702.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+              "url": "https://www.qbitai.com/2026/06/436223.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
+              "url": "https://www.qbitai.com/2026/06/436224.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+              "url": "https://www.qbitai.com/2026/06/436213.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "为什么最有价值的AI讨论总发生在知乎？",
+              "url": "https://www.qbitai.com/2026/06/436211.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "微信支付发布AI专属卡 WorkBuddy率先接入",
+              "url": "https://www.qbitai.com/2026/06/436160.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投",
+              "url": "https://www.qbitai.com/2026/06/436148.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了",
+              "url": "https://www.qbitai.com/2026/06/436138.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Grok 4.3现已在Amazon Bedrock上正式可用",
+              "url": "https://www.qbitai.com/2026/06/436134.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "六连冠！文远知行再度刷新中国智驾大赛连胜纪录",
+              "url": "https://www.qbitai.com/2026/06/436130.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团",
+              "url": "https://www.qbitai.com/2026/06/436110.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英特尔晒出未来芯片&#8221;三张底牌&#8221;：CFET、氮化镓+硅集成、钌互连",
+              "url": "https://www.qbitai.com/2026/06/436082.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建",
+              "url": "https://www.qbitai.com/2026/06/436077.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "MolmoMotion: Language-guided 3D motion forecasting",
+              "url": "https://huggingface.co/blog/allenai/molmomotion",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+              "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "GLM-5.2: Built for Long-Horizon Tasks",
+              "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Agentic Resource Discovery: Let agents search",
+              "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+              "url": "https://huggingface.co/blog/torch-mlp-fusion",
+              "date": "Thu, 11 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+              "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+              "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+              "date": "Tue, 09 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+              "url": "https://huggingface.co/blog/openenv-agentic-rl",
+              "date": "Mon, 08 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
