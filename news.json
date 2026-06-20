@@ -11347,6 +11347,253 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-20",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+              "url": "https://36kr.com/p/3859926114161665?f=rss",
+              "date": "2026-06-19"
+            },
+            {
+              "source": "36氪",
+              "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
+              "url": "https://36kr.com/p/3858803016881154?f=rss",
+              "date": "2026-06-18"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+              "url": "https://36kr.com/p/3858015526704129?f=rss",
+              "date": "2026-06-18"
+            },
+            {
+              "source": "36氪",
+              "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+              "url": "https://36kr.com/p/3856708724315400?f=rss",
+              "date": "2026-06-18"
+            },
+            {
+              "source": "36氪",
+              "title": "Waymo因存在驶入施工路段风险，召回3800余辆自动驾驶出租车",
+              "url": "https://36kr.com/newsflashes/3859411565532422?f=rss",
+              "date": "2026-06-19"
+            },
+            {
+              "source": "36氪",
+              "title": "Meta或同数据中心公司Crusoe签署AI算力协议",
+              "url": "https://36kr.com/newsflashes/3859409018770438?f=rss",
+              "date": "2026-06-19"
+            },
+            {
+              "source": "36氪",
+              "title": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+              "url": "https://36kr.com/newsflashes/3859408242004996?f=rss",
+              "date": "2026-06-19"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "Anthropic 恰乌里称有信心“未来几天”重新开放 Mythos 及 Fable 5 AI 模型",
+              "url": "https://www.ithome.com/0/966/466.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "思必驰推出 AI 录音卡 TalkNote 旗舰款：内置 4G 功能，1299 元",
+              "url": "https://www.ithome.com/0/966/459.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "超越 Claude Fable 5：智谱 GLM 5.2 登顶 Design Arena 网页设计 AI 榜单",
+              "url": "https://www.ithome.com/0/966/458.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "visionOS 27 今秋推送：M5 Vision Pro 头显独占 Siri 语音定制和苹果最强本地 AI 模型",
+              "url": "https://www.ithome.com/0/966/454.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "强推 AI 引用户反感，谷歌 AI 建议用户不想看 AI 就用 DuckDuckGo",
+              "url": "https://www.ithome.com/0/966/444.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "印度首富安巴尼：印度必须成为 AI 的创造者和全球领导者",
+              "url": "https://www.ithome.com/0/966/442.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "涉嫌夸大初代车型自动驾驶能力，美国造车新势力 Rivian 遭车主集体起诉",
+              "url": "https://www.ithome.com/0/966/437.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "应对 AI 耗电激增，美国要求 6 家电网运营商加速给数据中心供电",
+              "url": "https://www.ithome.com/0/966/435.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "人形机器人成功登顶海拔 6200 米火山：基于宇树 G1 改装，目标挑战珠峰",
+              "url": "https://www.ithome.com/0/966/427.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "与 OpenAI 合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在为其寻找新东家",
+              "url": "https://www.ithome.com/0/966/426.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "GPT发AI原创新成果了",
+              "url": "https://www.qbitai.com/2026/06/436842.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+              "url": "https://www.qbitai.com/2026/06/436758.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+              "url": "https://www.qbitai.com/2026/06/436802.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+              "url": "https://www.qbitai.com/2026/06/436751.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+              "url": "https://www.qbitai.com/2026/06/436740.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+              "url": "https://www.qbitai.com/2026/06/436674.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
+              "url": "https://www.qbitai.com/2026/06/436698.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
+              "url": "https://www.qbitai.com/2026/06/436518.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "18年前不让你苦修PS的美图，这次不让你苦修AI了",
+              "url": "https://www.qbitai.com/2026/06/436517.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
+              "url": "https://www.qbitai.com/2026/06/436477.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国产算力正在进入Token标准化时代",
+              "url": "https://www.qbitai.com/2026/06/436468.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+              "url": "https://www.qbitai.com/2026/06/436223.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "MosaicLeaks: Can your research agent keep a secret?",
+              "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+              "date": "Thu, 18 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+              "url": "https://huggingface.co/blog/peft-beyond-lora",
+              "date": "Thu, 18 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+              "url": "https://huggingface.co/blog/is-it-agentic-enough",
+              "date": "Thu, 18 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "MolmoMotion: Language-guided 3D motion forecasting",
+              "url": "https://huggingface.co/blog/allenai/molmomotion",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+              "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "GLM-5.2: Built for Long-Horizon Tasks",
+              "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Agentic Resource Discovery: Let agents search",
+              "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+              "url": "https://huggingface.co/blog/torch-mlp-fusion",
+              "date": "Thu, 11 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
