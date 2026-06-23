@@ -12082,6 +12082,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-23",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
+              "url": "https://36kr.com/p/3864071269569540?f=rss",
+              "date": "2026-06-22"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
+              "url": "https://36kr.com/p/3864065855706120?f=rss",
+              "date": "2026-06-22"
+            },
+            {
+              "source": "36氪",
+              "title": "云鲸智能创始人兼CEO张峻彬：十年 | 36氪WAVES2026新浪潮",
+              "url": "https://36kr.com/p/3863988138956032?f=rss",
+              "date": "2026-06-22"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资",
+              "url": "https://36kr.com/p/3863885024973832?f=rss",
+              "date": "2026-06-22"
+            },
+            {
+              "source": "36氪",
+              "title": "Meta因数据安全问题暂停追踪员工鼠标活动的AI训练项目",
+              "url": "https://36kr.com/newsflashes/3865041050735875?f=rss",
+              "date": "2026-06-23"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：PCIe协议将成为AI时代的慢通胀环节",
+              "url": "https://36kr.com/newsflashes/3865040711832841?f=rss",
+              "date": "2026-06-23"
+            },
+            {
+              "source": "36氪",
+              "title": "SpaceX与AI初创公司Reflection达成数十亿美元协议，将向后者提供算力",
+              "url": "https://36kr.com/newsflashes/3865030627595529?f=rss",
+              "date": "2026-06-23"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：2026年有望成为人形机器人垂类应用大年",
+              "url": "https://36kr.com/newsflashes/3865022492775684?f=rss",
+              "date": "2026-06-23"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：AI上游通胀、液冷、存储、具身智能主题热情有望爆发",
+              "url": "https://36kr.com/newsflashes/3865007903085830?f=rss",
+              "date": "2026-06-23"
+            },
+            {
+              "source": "36氪",
+              "title": "智能眼镜行业隐私保护受关注，终端厂商探索数据分级处理等方案",
+              "url": "https://36kr.com/newsflashes/3864999635080453?f=rss",
+              "date": "2026-06-23"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "“物理 AI 第一股”Momenta 聆讯通过，拟赴港上市",
+              "url": "https://www.ithome.com/0/967/270.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "AMD 正式为 RX 7000 显卡提供 FSR 超分 4.1 支持，预告核显用轻量级模型",
+              "url": "https://www.ithome.com/0/967/269.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称字节跳动暂不考虑上市，估值有望破万亿美元",
+              "url": "https://www.ithome.com/0/967/268.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 推出“修补地球”计划，用 AI 助力开源社区提升网络安全",
+              "url": "https://www.ithome.com/0/967/265.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果收尾旧网络产品支持，iOS / iPadOS 27 预告 AirPort Utility 应用退场",
+              "url": "https://www.ithome.com/0/967/261.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 DeepMind 向独立制片公司 A24 注资 7500 万美元，共同研发影视 AI 工具",
+              "url": "https://www.ithome.com/0/967/260.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "阿里管理层集体下田插秧团建，马云、吴泳铭、周靖人等现身",
+              "url": "https://www.ithome.com/0/967/258.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "外媒上手苹果 iOS 27 AI 扩图功能：生成画面自然，无法保证真实还原",
+              "url": "https://www.ithome.com/0/967/257.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "三星推出行业最快 UFS 5.0 解决方案：带宽达 10.8GB/s，赋能端侧 AI",
+              "url": "https://www.ithome.com/0/967/255.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Counterpoint 报告：2026Q1 全球智能手表出货量同比增长 4%，苹果华为小米前三",
+              "url": "https://www.ithome.com/0/967/256.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
+              "url": "https://www.qbitai.com/2026/06/437330.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+              "url": "https://www.qbitai.com/2026/06/437317.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+              "url": "https://www.qbitai.com/2026/06/437308.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+              "url": "https://www.qbitai.com/2026/06/437249.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+              "url": "https://www.qbitai.com/2026/06/437235.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+              "url": "https://www.qbitai.com/2026/06/437141.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英伟达开始搞机器人自己研究机器人那套了…",
+              "url": "https://www.qbitai.com/2026/06/437041.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+              "url": "https://www.qbitai.com/2026/06/436966.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+              "url": "https://www.qbitai.com/2026/06/436864.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT发AI原创新成果了",
+              "url": "https://www.qbitai.com/2026/06/436842.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+              "url": "https://www.qbitai.com/2026/06/436813.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+              "url": "https://www.qbitai.com/2026/06/436758.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+              "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+              "date": "Mon, 22 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "MosaicLeaks: Can your research agent keep a secret?",
+              "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+              "date": "Thu, 18 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+              "url": "https://huggingface.co/blog/peft-beyond-lora",
+              "date": "Thu, 18 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+              "url": "https://huggingface.co/blog/is-it-agentic-enough",
+              "date": "Thu, 18 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "MolmoMotion: Language-guided 3D motion forecasting",
+              "url": "https://huggingface.co/blog/allenai/molmomotion",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+              "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "GLM-5.2: Built for Long-Horizon Tasks",
+              "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+              "date": "Wed, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Agentic Resource Discovery: Let agents search",
+              "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+              "date": "Wed, 17 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
