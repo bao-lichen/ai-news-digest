@@ -12600,6 +12600,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-25",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "光源资本创始人&amp;CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+              "url": "https://36kr.com/p/3866562600227847?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+              "url": "https://36kr.com/p/3866900608701449?f=rss",
+              "date": "2026-06-24"
+            },
+            {
+              "source": "36氪",
+              "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+              "url": "https://36kr.com/p/3866854221698313?f=rss",
+              "date": "2026-06-24"
+            },
+            {
+              "source": "36氪",
+              "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
+              "url": "https://36kr.com/p/3866666733835522?f=rss",
+              "date": "2026-06-24"
+            },
+            {
+              "source": "36氪",
+              "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
+              "url": "https://36kr.com/p/3866649515938825?f=rss",
+              "date": "2026-06-24"
+            },
+            {
+              "source": "36氪",
+              "title": "曼恩斯特：目前公司产品暂不涉及HBM存储芯片封装、CPO光模块应用",
+              "url": "https://36kr.com/newsflashes/3867884485547265?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "中金：未来高端AI服务器有望采用“金刚石热沉+全液冷”复合散热方案",
+              "url": "https://36kr.com/newsflashes/3867828859638792?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：重视物理AI低位配置机会",
+              "url": "https://36kr.com/newsflashes/3867821879465222?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达谷歌AI液冷路线亮相，A股公司全产业链布局",
+              "url": "https://36kr.com/newsflashes/3867818077213952?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "6月以来机构密集调研的算力硬件概念股名单出炉",
+              "url": "https://36kr.com/newsflashes/3867814861018120?f=rss",
+              "date": "2026-06-25"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "阿里巴巴已起诉美国防部：要求将其从“中国军事企业名单”中移除",
+              "url": "https://www.ithome.com/0/968/250.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美光、高通业绩展望超预期，AI 芯片板块市值单日暴涨 4000 亿美元",
+              "url": "https://www.ithome.com/0/968/246.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 再次升级 GPT-5.5 Instant AI：更具洞察力，购物推荐更实用",
+              "url": "https://www.ithome.com/0/968/241.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美光：人形机器人的存储容量是 L2+ 汽车的十倍，或催生下一个超级周期",
+              "url": "https://www.ithome.com/0/968/237.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达黄仁勋：AI 工厂时代来临，智能体重塑计算格局",
+              "url": "https://www.ithome.com/0/968/233.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "拿下微软、Meta 订单，高通预测到 2029 年数据中心芯片营收将达 150 亿美元",
+              "url": "https://www.ithome.com/0/968/229.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "CounterPoint 报告 2026Q1 中国智能眼镜出货量：小米 28%、阿里 21%、理想 3%",
+              "url": "https://www.ithome.com/0/968/225.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌再失 AI 人才，两名 Gemini 核心骨干转投 Anthropic",
+              "url": "https://www.ithome.com/0/968/224.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "数据推翻 AI 取代论：工程师岗位成科技行业抗风险最强工种",
+              "url": "https://www.ithome.com/0/968/223.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称谷歌 Gemini 3.5 Pro 发布时间推迟至 7 月，旨在优化模型性能",
+              "url": "https://www.ithome.com/0/968/222.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "世界模型混战，Momenta率先冲刺IPO",
+              "url": "https://www.qbitai.com/2026/06/438179.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
+              "url": "https://www.qbitai.com/2026/06/438174.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器",
+              "url": "https://www.qbitai.com/2026/06/438166.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“AI填志愿”成高考后新现象，超1400万人在和千问聊高考",
+              "url": "https://www.qbitai.com/2026/06/438198.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
+              "url": "https://www.qbitai.com/2026/06/438157.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "物理AI第一块万亿市场，在公路货运先跑通闭环了",
+              "url": "https://www.qbitai.com/2026/06/437853.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖",
+              "url": "https://www.qbitai.com/2026/06/437833.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折",
+              "url": "https://www.qbitai.com/2026/06/437834.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，Claude Code大升级！卡帕西：LLM第三次变革",
+              "url": "https://www.qbitai.com/2026/06/437734.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划",
+              "url": "https://www.qbitai.com/2026/06/437838.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布",
+              "url": "https://www.qbitai.com/2026/06/437698.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智能座舱之王「转身」物理AI，高通需要被重估了",
+              "url": "https://www.qbitai.com/2026/06/432494.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+              "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+              "url": "https://huggingface.co/blog/ffasr-leaderboard",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+              "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+              "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+              "url": "https://huggingface.co/blog/cross-origin-storage",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+              "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+              "date": "Mon, 22 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "We got local models to triage the OpenClaw repo for FREE!*",
+              "url": "https://huggingface.co/blog/local-models-pr-triage",
+              "date": "Mon, 22 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "MosaicLeaks: Can your research agent keep a secret?",
+              "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+              "date": "Thu, 18 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
