@@ -12865,6 +12865,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-26",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+              "url": "https://36kr.com/p/3867943030395913?f=rss",
+              "date": "2026-06-26"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+              "url": "https://36kr.com/p/3869243269387269?f=rss",
+              "date": "2026-06-26"
+            },
+            {
+              "source": "36氪",
+              "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
+              "url": "https://36kr.com/p/3868596994069509?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
+              "url": "https://36kr.com/p/3868349472920576?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
+              "url": "https://36kr.com/p/3868276479710466?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
+              "url": "https://36kr.com/p/3868204527457287?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
+              "url": "https://36kr.com/p/3868045479711745?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
+              "url": "https://36kr.com/p/3867998907667462?f=rss",
+              "date": "2026-06-25"
+            },
+            {
+              "source": "36氪",
+              "title": "港股招股书披露质量正在提升，但仍有企业打广告、蹭AI概念",
+              "url": "https://36kr.com/newsflashes/3869248817353733?f=rss",
+              "date": "2026-06-26"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "安森美将换股收购边缘 AI 芯片企业 Synaptics，交易价值 70 亿美元",
+              "url": "https://www.ithome.com/0/968/748.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "CounterPoint：2026Q1 全球晶圆代工 2.0 市场营收同比增 23%，台积电成 AI 浪潮最大受益者",
+              "url": "https://www.ithome.com/0/968/743.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "生命周期约 17 个月，Notion Mail 电子邮件服务 9 月停运",
+              "url": "https://www.ithome.com/0/968/741.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "逆势增长：CounterPoint 预估 2026 苹果全球智能手机 / 平板 / PC 出货量份额创新高",
+              "url": "https://www.ithome.com/0/968/740.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Epic CEO 蒂姆 · 斯威尼反对 Steam 强制披露 AI 要求，称其阻碍开发者提高效率",
+              "url": "https://www.ithome.com/0/968/737.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0626：苹果因内存短缺大幅涨价；138.8 万元起尊界 S800 Grand Design 典藏大观上市；曝奔驰在华裁员蔓延至研发和制造；阿里巴巴起诉美国防部...",
+              "url": "https://www.ithome.com/0/968/735.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "坚持万亿美元估值底线？曝 OpenAI 考虑将 IPO 推迟至明年",
+              "url": "https://www.ithome.com/0/968/734.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "工信部指导发布《AI 眼镜可信视界自律公约》：不得超范围收集获取用户个人信息，本地化优先处理",
+              "url": "https://www.ithome.com/0/968/733.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称苹果正开发 iRing 智能戒指，上市后将和三星 Galaxy Ring 等竞争",
+              "url": "https://www.ithome.com/0/968/731.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为与湖北移动完成全国运营商首个 AI 推理加速方案现网测试，长序列 Token 吞吐率提升 372%",
+              "url": "https://www.ithome.com/0/968/730.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+              "url": "https://www.qbitai.com/2026/06/438364.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
+              "url": "https://www.qbitai.com/2026/06/438658.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程",
+              "url": "https://www.qbitai.com/2026/06/438638.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
+              "url": "https://www.qbitai.com/2026/06/438365.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
+              "url": "https://www.qbitai.com/2026/06/438351.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码",
+              "url": "https://www.qbitai.com/2026/06/438336.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
+              "url": "https://www.qbitai.com/2026/06/438297.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "世界模型混战，Momenta率先冲刺IPO",
+              "url": "https://www.qbitai.com/2026/06/438179.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
+              "url": "https://www.qbitai.com/2026/06/438174.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器",
+              "url": "https://www.qbitai.com/2026/06/438166.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“AI填志愿”成高考后新现象，超1400万人在和千问聊高考",
+              "url": "https://www.qbitai.com/2026/06/438198.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
+              "url": "https://www.qbitai.com/2026/06/438157.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Run a vLLM Server on HF Jobs in One Command",
+              "url": "https://huggingface.co/blog/vllm-jobs",
+              "date": "Fri, 26 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Which tokens does a hybrid model predict better?",
+              "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+              "date": "Thu, 25 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+              "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+              "url": "https://huggingface.co/blog/ffasr-leaderboard",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+              "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+              "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+              "url": "https://huggingface.co/blog/cross-origin-storage",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+              "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+              "date": "Mon, 22 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
