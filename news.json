@@ -13124,6 +13124,229 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-27",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "《走进AIE》，谁是下一个主角",
+              "url": "https://36kr.com/p/3869838577620231?f=rss",
+              "date": "2026-06-26"
+            },
+            {
+              "source": "36氪",
+              "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
+              "url": "https://36kr.com/p/3866837793952769?f=rss",
+              "date": "2026-06-26"
+            },
+            {
+              "source": "36氪",
+              "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+              "url": "https://36kr.com/p/3869445453305090?f=rss",
+              "date": "2026-06-26"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "微软 Teams 下月引入 Recap：集中索引 30 天内会议相关转录、AI 摘要等",
+              "url": "https://www.ithome.com/0/969/294.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克获准收购初创公司 Mesh，加码 AI 数据中心光通信布局",
+              "url": "https://www.ithome.com/0/969/291.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "长城 H10 内饰设计详解：配备智能冰箱、17.3 英寸吸顶屏等",
+              "url": "https://www.ithome.com/0/969/284.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限",
+              "url": "https://www.ithome.com/0/969/279.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0627：GPT-5.6 系列登场；王兴称美团成立至今个人一股没卖；微信回应互删后朋友圈互动不可见；曝苹果 iPhone 18 Pro / 阔折叠均为万元机...",
+              "url": "https://www.ithome.com/0/969/278.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度",
+              "url": "https://www.ithome.com/0/969/276.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片",
+              "url": "https://www.ithome.com/0/969/274.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "曝苹果 Vision Pro 项目高管保罗 · 米德即将离职，加盟 OpenAI 硬件部门",
+              "url": "https://www.ithome.com/0/969/273.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 最强 AI 模型：GPT-5.6 系列登场，编程跑分超 Claude Mythos 5",
+              "url": "https://www.ithome.com/0/969/272.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "古尔曼：苹果首款触屏 MacBook 笔记本搭载 M5 Pro / Max 芯片，M7 机型稍后推出",
+              "url": "https://www.ithome.com/0/969/266.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
+              "url": "https://www.qbitai.com/2026/06/438887.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
+              "url": "https://www.qbitai.com/2026/06/438789.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
+              "url": "https://www.qbitai.com/2026/06/438750.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
+              "url": "https://www.qbitai.com/2026/06/438741.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
+              "url": "https://www.qbitai.com/2026/06/438701.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英伟达MoE新开源：一行import，微调加速3.7倍",
+              "url": "https://www.qbitai.com/2026/06/438703.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
+              "url": "https://www.qbitai.com/2026/06/438698.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+              "url": "https://www.qbitai.com/2026/06/438364.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
+              "url": "https://www.qbitai.com/2026/06/438658.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程",
+              "url": "https://www.qbitai.com/2026/06/438638.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
+              "url": "https://www.qbitai.com/2026/06/438365.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
+              "url": "https://www.qbitai.com/2026/06/438351.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Run a vLLM Server on HF Jobs in One Command",
+              "url": "https://huggingface.co/blog/vllm-jobs",
+              "date": "Fri, 26 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Which tokens does a hybrid model predict better?",
+              "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+              "date": "Thu, 25 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+              "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+              "url": "https://huggingface.co/blog/ffasr-leaderboard",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+              "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+              "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+              "url": "https://huggingface.co/blog/cross-origin-storage",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+              "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+              "date": "Mon, 22 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
