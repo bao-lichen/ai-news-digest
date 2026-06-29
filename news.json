@@ -13576,6 +13576,235 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-29",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+              "url": "https://36kr.com/p/3869740772316162?f=rss",
+              "date": "2026-06-27"
+            },
+            {
+              "source": "36氪",
+              "title": "《走进AIE》，谁是下一个主角",
+              "url": "https://36kr.com/p/3869838577620231?f=rss",
+              "date": "2026-06-26"
+            },
+            {
+              "source": "36氪",
+              "title": "中金：AI产业链上游的部分细分领域为当前关注点",
+              "url": "https://36kr.com/newsflashes/3873510656333064?f=rss",
+              "date": "2026-06-29"
+            },
+            {
+              "source": "36氪",
+              "title": "惠普与OpenAI达成战略合作：全方位引入Frontier平台加速企业转型",
+              "url": "https://36kr.com/newsflashes/3873507158905859?f=rss",
+              "date": "2026-06-29"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "海外用户 5 年后辣评谷歌 Pixel 6 手机：第一代 Tensor 芯片实在太糟、各种小 Bug 不断，以后再也不买",
+              "url": "https://www.ithome.com/0/969/744.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "惠普与 OpenAI 达成战略合作，全面部署 AI 智能体平台 Frontier 加速企业转型",
+              "url": "https://www.ithome.com/0/969/743.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "我国开源生态版图持续扩容，新增具身智能等方向",
+              "url": "https://www.ithome.com/0/969/742.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "法拉第未来机器人 3-6 月出货 242 台超预期，贾跃亭再次上调全年目标至 2000 台",
+              "url": "https://www.ithome.com/0/969/741.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0629：央视揭秘欧洲“缺”空调原因；曝苹果寻求从长鑫采购内存芯片；200 万粉网红诋毁袁隆平成果被无限期封禁；小米 NAS 工程机配置曝光...",
+              "url": "https://www.ithome.com/0/969/735.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称苹果因 AI 行业“挤兑”被迫提前放弃 2nm 制程，2028 年的 A22 Pro 率先吃上 1.4nm",
+              "url": "https://www.ithome.com/0/969/733.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称百度旗下昆仑芯瞄准 500 亿美元估值，计划赴港 IPO",
+              "url": "https://www.ithome.com/0/969/732.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "古尔曼预计苹果今年发布搭载 M5 Ultra 芯片的 Mac Studio，M7 Ultra 机型 2028 年推出",
+              "url": "https://www.ithome.com/0/969/730.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "机械革命星耀 15 笔记本发售：可选 AI 9 H 365/AI 9 HX 470，6799 元起",
+              "url": "https://www.ithome.com/0/969/723.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "应对美国高端 AI 限制，奥地利推动欧盟引入 Anthropic 落地运营",
+              "url": "https://www.ithome.com/0/969/719.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+              "url": "https://www.qbitai.com/2026/06/439515.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+              "url": "https://www.qbitai.com/2026/06/439464.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+              "url": "https://www.qbitai.com/2026/06/438895.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
+              "url": "https://www.qbitai.com/2026/06/438887.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
+              "url": "https://www.qbitai.com/2026/06/438848.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
+              "url": "https://www.qbitai.com/2026/06/438789.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
+              "url": "https://www.qbitai.com/2026/06/438750.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
+              "url": "https://www.qbitai.com/2026/06/438741.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
+              "url": "https://www.qbitai.com/2026/06/438701.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英伟达MoE新开源：一行import，微调加速3.7倍",
+              "url": "https://www.qbitai.com/2026/06/438703.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
+              "url": "https://www.qbitai.com/2026/06/438698.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+              "url": "https://www.qbitai.com/2026/06/438364.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Run a vLLM Server on HF Jobs in One Command",
+              "url": "https://huggingface.co/blog/vllm-jobs",
+              "date": "Fri, 26 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Which tokens does a hybrid model predict better?",
+              "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+              "date": "Thu, 25 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+              "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+              "url": "https://huggingface.co/blog/ffasr-leaderboard",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+              "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+              "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+              "url": "https://huggingface.co/blog/cross-origin-storage",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+              "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+              "date": "Mon, 22 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
