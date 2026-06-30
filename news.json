@@ -13805,6 +13805,204 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-06-30",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+              "url": "https://36kr.com/p/3873626425332743?f=rss",
+              "date": "2026-06-29"
+            },
+            {
+              "source": "36氪",
+              "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+              "url": "https://36kr.com/p/3874015941645570?f=rss",
+              "date": "2026-06-29"
+            },
+            {
+              "source": "36氪",
+              "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+              "url": "https://36kr.com/p/3873965241931014?f=rss",
+              "date": "2026-06-29"
+            },
+            {
+              "source": "36氪",
+              "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
+              "url": "https://36kr.com/p/3873902389794053?f=rss",
+              "date": "2026-06-29"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
+              "url": "https://36kr.com/p/3873806295274756?f=rss",
+              "date": "2026-06-29"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
+              "url": "https://36kr.com/p/3873710996902912?f=rss",
+              "date": "2026-06-29"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：这轮AI更像电新周期、而非互联网泡沫",
+              "url": "https://36kr.com/newsflashes/3874944726520838?f=rss",
+              "date": "2026-06-30"
+            },
+            {
+              "source": "36氪",
+              "title": "中航光电：公司面向算力市场的高速互连、液冷等产品需求饱满",
+              "url": "https://36kr.com/newsflashes/3874942842557698?f=rss",
+              "date": "2026-06-30"
+            },
+            {
+              "source": "36氪",
+              "title": "英矽智能：首席执行官作出自愿延长禁售承诺",
+              "url": "https://36kr.com/newsflashes/3874945704563974?f=rss",
+              "date": "2026-06-30"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
+              "url": "https://www.qbitai.com/2026/06/439891.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude Mythos让梁文锋决定融资",
+              "url": "https://www.qbitai.com/2026/06/439863.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
+              "url": "https://www.qbitai.com/2026/06/439876.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片",
+              "url": "https://www.qbitai.com/2026/06/439861.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“词元盗用”正在成为AI商业化面临的新风险",
+              "url": "https://www.qbitai.com/2026/06/439746.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+              "url": "https://www.qbitai.com/2026/06/439515.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+              "url": "https://www.qbitai.com/2026/06/439464.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+              "url": "https://www.qbitai.com/2026/06/439393.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "第一批一人公司，现在怎么样了？",
+              "url": "https://www.qbitai.com/2026/06/439237.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+              "url": "https://www.qbitai.com/2026/06/439236.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+              "url": "https://www.qbitai.com/2026/06/439032.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+              "url": "https://www.qbitai.com/2026/06/438895.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "DiScoFormer: One transformer for density and score, across distributions",
+              "url": "https://huggingface.co/blog/allenai/discoformer",
+              "date": "Mon, 29 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run a vLLM Server on HF Jobs in One Command",
+              "url": "https://huggingface.co/blog/vllm-jobs",
+              "date": "Fri, 26 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+              "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+              "url": "https://huggingface.co/blog/ffasr-leaderboard",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+              "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+              "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+              "url": "https://huggingface.co/blog/cross-origin-storage",
+              "date": "Tue, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+              "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+              "date": "Mon, 22 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
