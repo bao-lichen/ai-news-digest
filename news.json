@@ -14003,6 +14003,247 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-01",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光",
+              "url": "https://36kr.com/p/3876318522077442?f=rss",
+              "date": "2026-07-01"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
+              "url": "https://36kr.com/p/3873626697470985?f=rss",
+              "date": "2026-06-30"
+            },
+            {
+              "source": "36氪",
+              "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
+              "url": "https://36kr.com/p/3875047283659777?f=rss",
+              "date": "2026-06-30"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+              "url": "https://36kr.com/p/3875059110221064?f=rss",
+              "date": "2026-06-30"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+              "url": "https://36kr.com/p/3873626425332743?f=rss",
+              "date": "2026-06-29"
+            },
+            {
+              "source": "36氪",
+              "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+              "url": "https://36kr.com/p/3874015941645570?f=rss",
+              "date": "2026-06-29"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "消息称 LG 电子涉足芯片设计服务，首款 ASIC 为 6nm 扫地机器人 SoC",
+              "url": "https://www.ithome.com/0/970/838.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "韩国出口创 1978 年以来最大增幅首次突破千亿美元大关，6 月芯片出口额 448.2 亿美元同比飙升 199.5%",
+              "url": "https://www.ithome.com/0/970/827.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌推出 AI 生图模型 Nano Banana 2 Lite：4 秒出图，比标准版更快更便宜",
+              "url": "https://www.ithome.com/0/970/812.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
+              "url": "https://www.ithome.com/0/970/810.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "系列最强智能体 AI 模型：Claude Sonnet 5 登场，部分性能逼近 Opus 4.8",
+              "url": "https://www.ithome.com/0/970/809.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0701：寒武纪成科创板首支万亿市值股票；11.98~99 万元优必选超仿生人形机器人 U1 发布；小米 REDMI K90 至尊版手机发布；iPhone 18 工厂照首秀...",
+              "url": "https://www.ithome.com/0/970/806.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta CEO 扎克伯格不认为 AI 必然会带来大规模失业，建议企业发展“个人超级智能”",
+              "url": "https://www.ithome.com/0/970/802.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小米智能存储规格揭晓：4+32GB 存储 + 2.5G 单网口，最高 40Mbps 免费远程访问",
+              "url": "https://www.ithome.com/0/970/796.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "前 20 大药企已有 18 家使用，英伟达 AI 工具集 BioNeMo 接入 Claude Science",
+              "url": "https://www.ithome.com/0/970/789.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果升级 Apple 创作坊：扩展 AI 工具，订阅年费 380 元",
+              "url": "https://www.ithome.com/0/970/790.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "百亿估值只是起点，跨维智能的物理AGI之路",
+              "url": "https://www.qbitai.com/2026/06/440949.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
+              "url": "https://www.qbitai.com/2026/06/440818.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
+              "url": "https://www.qbitai.com/2026/06/440630.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
+              "url": "https://www.qbitai.com/2026/06/440599.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国信通院发布AI Infra运维领域首个评测基准",
+              "url": "https://www.qbitai.com/2026/06/440454.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta",
+              "url": "https://www.qbitai.com/2026/06/440332.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨",
+              "url": "https://www.qbitai.com/2026/06/440162.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智谱唐杰：成功企业靠管理那是曾经，AI时代不行了",
+              "url": "https://www.qbitai.com/2026/06/440024.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
+              "url": "https://www.qbitai.com/2026/06/439891.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude Mythos让梁文锋决定融资",
+              "url": "https://www.qbitai.com/2026/06/439863.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
+              "url": "https://www.qbitai.com/2026/06/439876.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片",
+              "url": "https://www.qbitai.com/2026/06/439861.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+              "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Why Specialization Is Inevitable",
+              "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+              "url": "https://huggingface.co/blog/eee-community-evals",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DiScoFormer: One transformer for density and score, across distributions",
+              "url": "https://huggingface.co/blog/allenai/discoformer",
+              "date": "Mon, 29 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run a vLLM Server on HF Jobs in One Command",
+              "url": "https://huggingface.co/blog/vllm-jobs",
+              "date": "Fri, 26 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+              "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+              "url": "https://huggingface.co/blog/ffasr-leaderboard",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+              "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+              "date": "Tue, 23 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
