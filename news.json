@@ -15009,6 +15009,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-05",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+              "url": "https://36kr.com/p/3880629882679301?f=rss",
+              "date": "2026-07-04"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+              "url": "https://36kr.com/p/3879991356157952?f=rss",
+              "date": "2026-07-04"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+              "url": "https://36kr.com/p/3877990989819909?f=rss",
+              "date": "2026-07-03"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+              "url": "https://36kr.com/p/3879158039834629?f=rss",
+              "date": "2026-07-03"
+            },
+            {
+              "source": "36氪",
+              "title": "具身智能公司光象科技累计完成数亿元天使轮融资",
+              "url": "https://36kr.com/newsflashes/3881013448683785?f=rss",
+              "date": "2026-07-04"
+            },
+            {
+              "source": "36氪",
+              "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+              "url": "https://36kr.com/newsflashes/3881009011945473?f=rss",
+              "date": "2026-07-04"
+            },
+            {
+              "source": "36氪",
+              "title": "业内首个AI-eSIM产业协同平台成立",
+              "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+              "date": "2026-07-04"
+            },
+            {
+              "source": "36氪",
+              "title": "首款神经动力学芯片问世 有助于脑机接口等技术发展",
+              "url": "https://36kr.com/newsflashes/3880779651248391?f=rss",
+              "date": "2026-07-04"
+            },
+            {
+              "source": "36氪",
+              "title": "千问智能体功能与服务将于7月15日正式下线",
+              "url": "https://36kr.com/newsflashes/3880777666703621?f=rss",
+              "date": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "AI 数据中心耗水量远超企业披露，发电间接用水成巨大隐形消耗",
+              "url": "https://www.ithome.com/0/972/689.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "今年前 5 个月我国机器人出口近 200 亿元，清洁机器人占七成",
+              "url": "https://www.ithome.com/0/972/687.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英国“星际之门”项目被曝为“空头支票”，OpenAI 从未实地考察核心选址",
+              "url": "https://www.ithome.com/0/972/685.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Midjourney 反击好莱坞：要求迪士尼等制片厂披露自身 AI 使用情况",
+              "url": "https://www.ithome.com/0/972/681.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "突破国际难题：我国成功研制全球首款基于相变忆阻器的神经动力学系统芯片",
+              "url": "https://www.ithome.com/0/972/680.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "云南消费品以旧换新补贴品类扩容：新增智能影音、无人机等",
+              "url": "https://www.ithome.com/0/972/645.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+              "url": "https://www.qbitai.com/2026/07/442958.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+              "url": "https://www.qbitai.com/2026/07/442746.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+              "url": "https://www.qbitai.com/2026/07/442531.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
+              "url": "https://www.qbitai.com/2026/07/442517.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
+              "url": "https://www.qbitai.com/2026/07/442503.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+              "url": "https://www.qbitai.com/2026/07/442224.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+              "url": "https://www.qbitai.com/2026/07/442447.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+              "url": "https://www.qbitai.com/2026/07/442167.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "世界模型的新用途：不做选手，去当裁判",
+              "url": "https://www.qbitai.com/2026/07/442138.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+              "url": "https://www.qbitai.com/2026/07/442134.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+              "url": "https://www.qbitai.com/2026/07/442048.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
+              "url": "https://www.qbitai.com/2026/07/442037.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+              "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+              "date": "Wed, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+              "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Why Specialization Is Inevitable",
+              "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+              "url": "https://huggingface.co/blog/eee-community-evals",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DiScoFormer: One transformer for density and score, across distributions",
+              "url": "https://huggingface.co/blog/allenai/discoformer",
+              "date": "Mon, 29 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run a vLLM Server on HF Jobs in One Command",
+              "url": "https://huggingface.co/blog/vllm-jobs",
+              "date": "Fri, 26 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+              "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+              "url": "https://huggingface.co/blog/ffasr-leaderboard",
+              "date": "Wed, 24 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
