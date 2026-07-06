@@ -15244,6 +15244,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-06",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+              "url": "https://36kr.com/p/3882365879005186?f=rss",
+              "date": "2026-07-05"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+              "url": "https://36kr.com/p/3882364132077577?f=rss",
+              "date": "2026-07-05"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+              "url": "https://36kr.com/p/3882361033322755?f=rss",
+              "date": "2026-07-05"
+            },
+            {
+              "source": "36氪",
+              "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+              "url": "https://36kr.com/p/3880629882679301?f=rss",
+              "date": "2026-07-04"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作华为，获一亿投资",
+              "url": "https://36kr.com/p/3879991356157952?f=rss",
+              "date": "2026-07-04"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益",
+              "url": "https://36kr.com/newsflashes/3883440823578889?f=rss",
+              "date": "2026-07-06"
+            },
+            {
+              "source": "36氪",
+              "title": "人形机器人产业再迎重要催化，资金持续借道ETF布局",
+              "url": "https://36kr.com/newsflashes/3883389371904004?f=rss",
+              "date": "2026-07-06"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：算力硬件高波动期，等待财报指引落地",
+              "url": "https://36kr.com/newsflashes/3883384178487296?f=rss",
+              "date": "2026-07-06"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "贾跃亭宣布法拉第未来机器人 Q3 战役启动，与洛杉矶两大公立学区合办夏令营",
+              "url": "https://www.ithome.com/0/972/891.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "三星电子 Q2 营业利润预计同比暴涨 18 倍，AI 存储芯片需求持续引爆业绩",
+              "url": "https://www.ithome.com/0/972/890.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "亚马逊硬件主管 Panos Panay：正以自研芯片重塑沉浸式 AI 体验",
+              "url": "https://www.ithome.com/0/972/889.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0706：豆包千问智能体 Agent 下线；多地推行网约车“一车一码”；我国“人造太阳”计划 2030 年演示发出第一度电；微信承诺异常企微拉群将强制确认...",
+              "url": "https://www.ithome.com/0/972/874.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
+              "url": "https://www.ithome.com/0/972/872.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "旧金山多辆 Waymo 自动驾驶出租车碾过烟花，其中一车起火",
+              "url": "https://www.ithome.com/0/972/871.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国部分富人放弃传统学校，年费 7.5 万美元送孩子上 AI 私塾",
+              "url": "https://www.ithome.com/0/972/868.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Yeelight 智能护眼无叶风扇灯发售：支持正反转双模式，569 元",
+              "url": "https://www.ithome.com/0/972/855.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "加装芯片就能随意改重量，央视起底“违规电子秤”隐秘产销链",
+              "url": "https://www.ithome.com/0/972/851.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "高速推理动作游戏《超级弹丸论破 2×2》延期至 2027 年初发售",
+              "url": "https://www.ithome.com/0/972/841.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+              "url": "https://www.qbitai.com/2026/07/443066.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，LeCun团队让世界模型学会持续学习！",
+              "url": "https://www.qbitai.com/2026/07/442964.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+              "url": "https://www.qbitai.com/2026/07/442958.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+              "url": "https://www.qbitai.com/2026/07/442746.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+              "url": "https://www.qbitai.com/2026/07/442531.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
+              "url": "https://www.qbitai.com/2026/07/442517.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
+              "url": "https://www.qbitai.com/2026/07/442503.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+              "url": "https://www.qbitai.com/2026/07/442224.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+              "url": "https://www.qbitai.com/2026/07/442452.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+              "url": "https://www.qbitai.com/2026/07/442447.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+              "url": "https://www.qbitai.com/2026/07/442311.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+              "url": "https://www.qbitai.com/2026/07/442167.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+              "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+              "date": "Wed, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+              "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Why Specialization Is Inevitable",
+              "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+              "url": "https://huggingface.co/blog/eee-community-evals",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DiScoFormer: One transformer for density and score, across distributions",
+              "url": "https://huggingface.co/blog/allenai/discoformer",
+              "date": "Mon, 29 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run a vLLM Server on HF Jobs in One Command",
+              "url": "https://huggingface.co/blog/vllm-jobs",
+              "date": "Fri, 26 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+              "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+              "date": "Wed, 24 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+              "url": "https://huggingface.co/blog/ffasr-leaderboard",
+              "date": "Wed, 24 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
