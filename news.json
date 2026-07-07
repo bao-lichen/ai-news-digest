@@ -15497,6 +15497,253 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-07",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
+              "url": "https://36kr.com/p/3884289424437511?f=rss",
+              "date": "2026-07-07"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+              "url": "https://36kr.com/p/3884831072514309?f=rss",
+              "date": "2026-07-07"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+              "url": "https://36kr.com/p/3884024701874183?f=rss",
+              "date": "2026-07-06"
+            },
+            {
+              "source": "36氪",
+              "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+              "url": "https://36kr.com/p/3883591654895873?f=rss",
+              "date": "2026-07-06"
+            },
+            {
+              "source": "36氪",
+              "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
+              "url": "https://36kr.com/p/3883456791163138?f=rss",
+              "date": "2026-07-06"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：韩国未来有望成为物理AI时代的重要参与者",
+              "url": "https://36kr.com/newsflashes/3884831641547011?f=rss",
+              "date": "2026-07-07"
+            },
+            {
+              "source": "36氪",
+              "title": "今年1至5月我国机器人规上企业营业收入突破900亿元",
+              "url": "https://36kr.com/newsflashes/3884808009068549?f=rss",
+              "date": "2026-07-07"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "最“单薄”Mac 芯片系列：消息称苹果 M6 仅规划基础版，跳过 Mac mini 等多数产品线",
+              "url": "https://www.ithome.com/0/973/342.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌另类广告：如果《独立宣言》是借助 AI 完成的",
+              "url": "https://www.ithome.com/0/973/341.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "AMD 宣布锐龙 AI Halo 开发者平台（395 版）现已发售，定价 3999 美元",
+              "url": "https://www.ithome.com/0/973/339.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 Gemini 3.5 Pro 曝 200 万 Tokens 上下文，前端部分 AI 测试赶超 Claude Fable 5",
+              "url": "https://www.ithome.com/0/973/334.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "李在明下令加速推进韩国芯片与 AI 重大项目：速度是唯一重要因素",
+              "url": "https://www.ithome.com/0/973/325.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 iOS / iPadOS 27 Beta 3 更新汇总：增强 Siri AI，优化液态玻璃视觉",
+              "url": "https://www.ithome.com/0/973/323.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0707：曝华为 Mate 90 或搭载基于韬定律的新麒麟芯片；小米 REDMI K90 上涨 200 元；金山办公回应 WPS 滥收费质疑；优必选回应仿生机器人续航争议...",
+              "url": "https://www.ithome.com/0/973/320.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Counterpoint：2026 年一季度支持端侧 AI 的智能手表出货量激增 70%，苹果独占九成份额",
+              "url": "https://www.ithome.com/0/973/314.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克 xAI 正式更名为 SpaceXAI，全新 logo 同步上路",
+              "url": "https://www.ithome.com/0/973/318.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 iOS 27 家庭 App 新增 AI 摄像头功能：需 iCloud+ 2TB 起步",
+              "url": "https://www.ithome.com/0/973/316.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+              "url": "https://www.qbitai.com/2026/07/444733.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+              "url": "https://www.qbitai.com/2026/07/444721.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026新青年创投大会在沪举行：00后登场，创投新周期开启",
+              "url": "https://www.qbitai.com/2026/07/444049.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
+              "url": "https://www.qbitai.com/2026/07/444043.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蔚来世界模型OTA，70万用户没人被留在旧版本",
+              "url": "https://www.qbitai.com/2026/07/443868.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "联想控股发起成立中国中文信息学会产学研创新生态工作委员会",
+              "url": "https://www.qbitai.com/2026/07/443869.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "真·QQ飞车！「电动版F1」上海开赛，Gemini在线解说",
+              "url": "https://www.qbitai.com/2026/07/443867.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+              "url": "https://www.qbitai.com/2026/07/443863.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "字节Seedance，正在占领好莱坞",
+              "url": "https://www.qbitai.com/2026/07/443665.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+              "url": "https://www.qbitai.com/2026/07/443522.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+              "url": "https://www.qbitai.com/2026/07/443399.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+              "url": "https://www.qbitai.com/2026/07/443066.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+              "url": "https://huggingface.co/blog/lerobot-release-v060",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PRX Part 4: Our Data Strategy",
+              "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+              "date": "Mon, 06 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "🤗 Kernels: Major Updates",
+              "url": "https://huggingface.co/blog/revamped-kernels",
+              "date": "Mon, 06 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+              "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+              "date": "Wed, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+              "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Why Specialization Is Inevitable",
+              "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+              "url": "https://huggingface.co/blog/eee-community-evals",
+              "date": "Tue, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DiScoFormer: One transformer for density and score, across distributions",
+              "url": "https://huggingface.co/blog/allenai/discoformer",
+              "date": "Mon, 29 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
