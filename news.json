@@ -15744,6 +15744,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-08",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发",
+              "url": "https://36kr.com/p/3885479689465858?f=rss",
+              "date": "2026-07-08"
+            },
+            {
+              "source": "36氪",
+              "title": "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
+              "url": "https://36kr.com/p/3885177884078083?f=rss",
+              "date": "2026-07-07"
+            },
+            {
+              "source": "36氪",
+              "title": "银河证券：建议关注头部算力租赁厂商",
+              "url": "https://36kr.com/newsflashes/3886268119265545?f=rss",
+              "date": "2026-07-08"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI首席未来学家宣布离职",
+              "url": "https://36kr.com/newsflashes/3886267346235400?f=rss",
+              "date": "2026-07-08"
+            },
+            {
+              "source": "36氪",
+              "title": "半年报预增释放盈利拐点信号，人形机器人板块迎产业共振新格局",
+              "url": "https://36kr.com/newsflashes/3886225347735812?f=rss",
+              "date": "2026-07-08"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "消息称 SpaceXAI 与 Cursor 合作 AI 模型最快今日亮相，部分性能可与 GPT 5.5 媲美",
+              "url": "https://www.ithome.com/0/973/847.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "诺贝尔经济学奖得主皮萨里德斯：AI 无法让西方经济体重返生产率快速增长时代",
+              "url": "https://www.ithome.com/0/973/844.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国芯片制造业复兴遭遇用工荒：半导体工人缺口高达近 16 万",
+              "url": "https://www.ithome.com/0/973/841.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "可规模化单线程最强 CPU：英伟达 Vera 在智能体 AI 负载下持续性能是 x86 的 1.8 倍",
+              "url": "https://www.ithome.com/0/970/170.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 出新招：若智能眼镜隐私指示灯被人为破坏，就自动关闭摄像头",
+              "url": "https://www.ithome.com/0/973/834.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "海韵官网已录入英伟达 RTX 50 SUPER 系列显卡，TDP 数据曝光",
+              "url": "https://www.ithome.com/0/973/829.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "超 90% 使用非代码开发，Claude Cowork 扩展至网页与手机端",
+              "url": "https://www.ithome.com/0/973/828.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0708：华为回应乾崑智驾断网后数据仍滚动上涨；曝 Deepseek 正自研 AI 芯片；小米增程车上市节奏曝光；微软 Win11 26H2 七大升级前瞻...",
+              "url": "https://www.ithome.com/0/973/824.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 超级智能实验室首个自研 AI 图像生成模型 Muse Image 发布，免费登陆 Instagram 与 WhatsApp",
+              "url": "https://www.ithome.com/0/973/820.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果向 AirPods Pro 3 等耳机推送 9A5314b 开发固件，支持 GymKit 健身器材同步心率",
+              "url": "https://www.ithome.com/0/973/816.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
+              "url": "https://www.qbitai.com/2026/07/445531.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
+              "url": "https://www.qbitai.com/2026/07/445443.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "我宣布这是中国最神奇的造车新势力",
+              "url": "https://www.qbitai.com/2026/07/445292.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
+              "url": "https://www.qbitai.com/2026/07/445229.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+              "url": "https://www.qbitai.com/2026/07/445184.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
+              "url": "https://www.qbitai.com/2026/07/445067.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
+              "url": "https://www.qbitai.com/2026/07/444859.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+              "url": "https://www.qbitai.com/2026/07/444733.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+              "url": "https://www.qbitai.com/2026/07/444721.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026新青年创投大会在沪举行：00后登场，创投新周期开启",
+              "url": "https://www.qbitai.com/2026/07/444049.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
+              "url": "https://www.qbitai.com/2026/07/444043.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "70万辆车同步升级，背后那套系统藏了六年",
+              "url": "https://www.qbitai.com/2026/07/443868.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+              "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face Models on Foundry Managed Compute",
+              "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+              "url": "https://huggingface.co/blog/skypilot-hf-storage",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+              "url": "https://huggingface.co/blog/lerobot-release-v060",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PRX Part 4: Our Data Strategy",
+              "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+              "date": "Mon, 06 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "🤗 Kernels: Major Updates",
+              "url": "https://huggingface.co/blog/revamped-kernels",
+              "date": "Mon, 06 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+              "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+              "date": "Wed, 01 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+              "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+              "date": "Tue, 30 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
