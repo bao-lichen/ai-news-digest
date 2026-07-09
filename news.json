@@ -15979,6 +15979,247 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-09",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席",
+              "url": "https://36kr.com/p/3887648675133960?f=rss",
+              "date": "2026-07-09"
+            },
+            {
+              "source": "36氪",
+              "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+              "url": "https://36kr.com/p/3886574096265481?f=rss",
+              "date": "2026-07-08"
+            },
+            {
+              "source": "36氪",
+              "title": "地产AI进入落地战，深度智联又甩出一张牌",
+              "url": "https://36kr.com/p/3886709249241349?f=rss",
+              "date": "2026-07-08"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
+              "url": "https://36kr.com/p/3886678879727880?f=rss",
+              "date": "2026-07-08"
+            },
+            {
+              "source": "36氪",
+              "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
+              "url": "https://36kr.com/p/3886403765596418?f=rss",
+              "date": "2026-07-08"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：AI PCB需求放量、高阶升级趋势明确，打开设备耗材新空间",
+              "url": "https://36kr.com/newsflashes/3887685210372611?f=rss",
+              "date": "2026-07-09"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "速腾聚创 2026 上半年激光雷达销量 71.92 万台，机器人业务同比大增 510%",
+              "url": "https://www.ithome.com/0/974/311.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "腾讯混元：新模型 Hy3 调用激增，WorkBuddy 已紧急扩容",
+              "url": "https://www.ithome.com/0/974/310.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "推理成本仅为顶级闭源模型的 1/10：英伟达 Nemotron 3 Ultra 获开源模型最高准确率",
+              "url": "https://www.ithome.com/0/974/269.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软测试 iPad 版 Word 2.109：调用 AI 整理零散想法、起草和重组内容等",
+              "url": "https://www.ithome.com/0/974/304.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小米汽车官宣全新产品系列：SkyNomad 小米澎程智能可变大空间 SUV",
+              "url": "https://www.ithome.com/0/974/291.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 正研发“超级感知”智能眼镜，可连续录音并每隔几秒自动拍照",
+              "url": "https://www.ithome.com/0/974/288.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国监管机构警告：自动驾驶汽车不能再干扰紧急车辆执法",
+              "url": "https://www.ithome.com/0/974/287.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0709：曝苹果启动长鑫 DRAM 测试；手机厂 Pocket 相机或用上 3nm 骁龙 8 系芯片；小红书 IPO 举报风波当事人发声；小米汽车新品牌中文名“小米澎程”...",
+              "url": "https://www.ithome.com/0/974/286.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 Pixel Watch 5 智能手表曝光：41mm/45mm 尺寸，4 种颜色",
+              "url": "https://www.ithome.com/0/974/282.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克 SpaceXAI 首个编程智能体模型 Grok 4.5 发布：与 Cursor 联合训练，效率翻倍价格减半",
+              "url": "https://www.ithome.com/0/974/278.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+              "url": "https://www.qbitai.com/2026/07/446411.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身智能“高考”难疯了！人类100分，最强模型12.8",
+              "url": "https://www.qbitai.com/2026/07/446363.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发",
+              "url": "https://www.qbitai.com/2026/07/446356.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开",
+              "url": "https://www.qbitai.com/2026/07/446226.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
+              "url": "https://www.qbitai.com/2026/07/446075.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议",
+              "url": "https://www.qbitai.com/2026/07/446076.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式",
+              "url": "https://www.qbitai.com/2026/07/446069.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座",
+              "url": "https://www.qbitai.com/2026/07/445946.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智能伙伴 共创未来！WAIC 2026即将举行并首发主题片",
+              "url": "https://www.qbitai.com/2026/07/445904.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
+              "url": "https://www.qbitai.com/2026/07/445883.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
+              "url": "https://www.qbitai.com/2026/07/445668.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
+              "url": "https://www.qbitai.com/2026/07/445531.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Data for Agents",
+              "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Native-speed vLLM transformers modeling backend",
+              "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+              "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face Models on Foundry Managed Compute",
+              "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+              "url": "https://huggingface.co/blog/skypilot-hf-storage",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+              "url": "https://huggingface.co/blog/lerobot-release-v060",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PRX Part 4: Our Data Strategy",
+              "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+              "date": "Mon, 06 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "🤗 Kernels: Major Updates",
+              "url": "https://huggingface.co/blog/revamped-kernels",
+              "date": "Mon, 06 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
