@@ -16220,6 +16220,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-10",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+              "url": "https://36kr.com/p/3888180493318921?f=rss",
+              "date": "2026-07-09"
+            },
+            {
+              "source": "36氪",
+              "title": "自研焊接具身大脑模型，以“智能焊工”切入工业制造具身智能赛道，「昇视唯盛」完成数亿元B轮融资｜36氪首发",
+              "url": "https://36kr.com/p/3887871679347208?f=rss",
+              "date": "2026-07-09"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+              "url": "https://36kr.com/p/3887726503688968?f=rss",
+              "date": "2026-07-09"
+            },
+            {
+              "source": "36氪",
+              "title": "联合国自动驾驶全球法规正式落地，我国智驾出海迎来统一规则窗口期",
+              "url": "https://36kr.com/newsflashes/3889113098582532?f=rss",
+              "date": "2026-07-10"
+            },
+            {
+              "source": "36氪",
+              "title": "谷歌要求AI广告必须标注：涵盖搜索和YouTube等",
+              "url": "https://36kr.com/newsflashes/3889106112002561?f=rss",
+              "date": "2026-07-10"
+            },
+            {
+              "source": "36氪",
+              "title": "具身智能融资半年破900亿，投资逻辑从“后空翻”转向“搬砖头”",
+              "url": "https://36kr.com/newsflashes/3889097513318917?f=rss",
+              "date": "2026-07-10"
+            },
+            {
+              "source": "36氪",
+              "title": "美国商务部长敦促SK海力士和三星电子扩大在美国的内存芯片产能",
+              "url": "https://36kr.com/newsflashes/3889092532419075?f=rss",
+              "date": "2026-07-10"
+            },
+            {
+              "source": "36氪",
+              "title": "扎克伯格否认Meta算力过剩，称发展云业务具商业潜力",
+              "url": "https://36kr.com/newsflashes/3889090568420101?f=rss",
+              "date": "2026-07-10"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "Character.AI 因数据和未成年人保护问题在意大利被罚 15.8 万欧元",
+              "url": "https://www.ithome.com/0/974/810.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 升级适用于谷歌 Chrome 浏览器的 ChatGPT 扩展：与你并肩工作",
+              "url": "https://www.ithome.com/0/974/807.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "摩根大通：AI 投资热潮降温，市场已不再想着“凡是跟 AI 沾边的东西都买”",
+              "url": "https://www.ithome.com/0/974/806.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 整合桌面端 ChatGPT / Codex 应用，集成聊天、工作和 AI 编程",
+              "url": "https://www.ithome.com/0/974/804.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "纽约联储主席威廉姆斯：AI 现在是我最关注的通胀问题，未来或迫使美联储加息",
+              "url": "https://www.ithome.com/0/974/803.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美商务部长卢特尼克敦促 SK 海力士和三星在美扩产存储芯片：必须得跟上",
+              "url": "https://www.ithome.com/0/974/802.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic Claude 测试上线 Reflect：四个维度回顾用户使用 AI 习惯",
+              "url": "https://www.ithome.com/0/974/798.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "健康在先：OpenAI 应用业务 CEO 菲吉・西莫因慢性病严重恶化，转任兼职顾问",
+              "url": "https://www.ithome.com/0/974/797.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "已在 iPhone 17 Pro 上完整运行 Qwen 3.6，消息称 PrismML 模型 AI 压缩技术被苹果看中",
+              "url": "https://www.ithome.com/0/974/796.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0710：OpenAI 发布 GPT-5.6 系列模型；支付宝客服就花呗服务问题致歉；小米澎程首款 SUV 内外饰首秀；华为李文广回应友商智驾兜底...",
+              "url": "https://www.ithome.com/0/974/795.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
+              "url": "https://www.qbitai.com/2026/07/446843.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
+              "url": "https://www.qbitai.com/2026/07/446778.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+              "url": "https://www.qbitai.com/2026/07/446658.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good",
+              "url": "https://www.qbitai.com/2026/07/446562.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+              "url": "https://www.qbitai.com/2026/07/446548.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！",
+              "url": "https://www.qbitai.com/2026/07/446458.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路",
+              "url": "https://www.qbitai.com/2026/07/446435.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "同声传译一夜失业！GPT-Live瞬间翻译，老太太现场抬杠AI看傻全网",
+              "url": "https://www.qbitai.com/2026/07/446425.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+              "url": "https://www.qbitai.com/2026/07/446411.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身智能“高考”难疯了！人类100分，最强模型12.8",
+              "url": "https://www.qbitai.com/2026/07/446363.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发",
+              "url": "https://www.qbitai.com/2026/07/446356.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开",
+              "url": "https://www.qbitai.com/2026/07/446226.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Data for Agents",
+              "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Native-speed vLLM transformers modeling backend",
+              "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+              "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face Models on Foundry Managed Compute",
+              "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+              "url": "https://huggingface.co/blog/skypilot-hf-storage",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+              "url": "https://huggingface.co/blog/lerobot-release-v060",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PRX Part 4: Our Data Strategy",
+              "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+              "date": "Mon, 06 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "🤗 Kernels: Major Updates",
+              "url": "https://huggingface.co/blog/revamped-kernels",
+              "date": "Mon, 06 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
