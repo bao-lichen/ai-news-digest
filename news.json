@@ -16473,6 +16473,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-11",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+              "url": "https://36kr.com/p/3889516712065799?f=rss",
+              "date": "2026-07-11"
+            },
+            {
+              "source": "36氪",
+              "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
+              "url": "https://36kr.com/p/3883780969083137?f=rss",
+              "date": "2026-07-10"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
+              "url": "https://36kr.com/p/3889141540370949?f=rss",
+              "date": "2026-07-10"
+            },
+            {
+              "source": "36氪",
+              "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
+              "url": "https://36kr.com/newsflashes/3889827679402752?f=rss",
+              "date": "2026-07-10"
+            },
+            {
+              "source": "36氪",
+              "title": "东阳光：控股子公司签署130亿元至150亿元算力服务采购合同",
+              "url": "https://36kr.com/newsflashes/3889768614492931?f=rss",
+              "date": "2026-07-10"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "三菱与初创公司 Highlanders 合作研发人形机器人，应对日本劳动力短缺",
+              "url": "https://www.ithome.com/0/975/389.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 RTX 5090 SE 显卡规格曝光：24GB 显存、384-bit 位宽",
+              "url": "https://www.ithome.com/0/975/385.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "《奥德赛》导演诺兰：年轻人正在彻底拒绝“AI 垃圾”",
+              "url": "https://www.ithome.com/0/975/382.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "能直接用公开 Instagram 帖子生成图像，Meta 新 AI 功能被“骂”到下线",
+              "url": "https://www.ithome.com/0/975/378.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 Pixel 11 Pro Fold 折叠屏手机通过 FCC 认证，进一步证明 Tensor G6 芯片有望改用联发科基带",
+              "url": "https://www.ithome.com/0/975/376.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "桌面版 Claude Code 新增应用内浏览器，可用于 AI 调试网页等",
+              "url": "https://www.ithome.com/0/975/374.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣",
+              "url": "https://www.ithome.com/0/975/372.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "SK 海力士拟探索新商业模式“内存即服务”：客户可租用芯片使用权",
+              "url": "https://www.ithome.com/0/975/371.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品、供应链资料等商业机密",
+              "url": "https://www.ithome.com/0/975/370.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "SK 集团会长崔泰源：AI 驱动内存需求呈指数级增长，未来五年产能翻倍仍难满足",
+              "url": "https://www.ithome.com/0/975/364.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+              "url": "https://www.qbitai.com/2026/07/447832.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一群做自动驾驶的人，盯上了睡眠这件事",
+              "url": "https://www.qbitai.com/2026/07/447796.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+              "url": "https://www.qbitai.com/2026/07/447682.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
+              "url": "https://www.qbitai.com/2026/07/447681.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+              "url": "https://www.qbitai.com/2026/07/447602.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
+              "url": "https://www.qbitai.com/2026/07/447597.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
+              "url": "https://www.qbitai.com/2026/07/446843.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
+              "url": "https://www.qbitai.com/2026/07/446778.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+              "url": "https://www.qbitai.com/2026/07/446658.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
+              "url": "https://www.qbitai.com/2026/07/446568.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+              "url": "https://www.qbitai.com/2026/07/436498.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good",
+              "url": "https://www.qbitai.com/2026/07/446562.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+              "url": "https://huggingface.co/blog/torch-attention-profile",
+              "date": "Fri, 10 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Data for Agents",
+              "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Native-speed vLLM transformers modeling backend",
+              "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+              "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face Models on Foundry Managed Compute",
+              "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+              "url": "https://huggingface.co/blog/skypilot-hf-storage",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+              "url": "https://huggingface.co/blog/lerobot-release-v060",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PRX Part 4: Our Data Strategy",
+              "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+              "date": "Mon, 06 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
