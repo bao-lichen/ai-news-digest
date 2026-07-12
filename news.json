@@ -16708,6 +16708,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-12",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+              "url": "https://36kr.com/p/3890553690192384?f=rss",
+              "date": "2026-07-11"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+              "url": "https://36kr.com/p/3889516712065799?f=rss",
+              "date": "2026-07-11"
+            },
+            {
+              "source": "36氪",
+              "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
+              "url": "https://36kr.com/p/3883780969083137?f=rss",
+              "date": "2026-07-10"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
+              "url": "https://36kr.com/p/3889141540370949?f=rss",
+              "date": "2026-07-10"
+            },
+            {
+              "source": "36氪",
+              "title": "机构：到2029年中国国内算力卡采购额将达到1.44万亿元，将诞生多家市值万亿甚至十万亿的上市企业",
+              "url": "https://36kr.com/newsflashes/3891934990744327?f=rss",
+              "date": "2026-07-12"
+            },
+            {
+              "source": "36氪",
+              "title": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+              "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+              "date": "2026-07-11"
+            },
+            {
+              "source": "36氪",
+              "title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
+              "url": "https://36kr.com/newsflashes/3890739624540680?f=rss",
+              "date": "2026-07-11"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI：对其他公司的商业秘密不感兴趣，仍专注于打造创新技术",
+              "url": "https://36kr.com/newsflashes/3890734361377539?f=rss",
+              "date": "2026-07-11"
+            },
+            {
+              "source": "36氪",
+              "title": "FansAI收购OPC公司新映科技",
+              "url": "https://36kr.com/newsflashes/3890728911354376?f=rss",
+              "date": "2026-07-11"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+              "url": "https://www.ithome.com/0/975/646.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+              "url": "https://www.ithome.com/0/975/641.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+              "url": "https://www.ithome.com/0/975/634.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 招聘家庭产品经理，将拓展家庭用户市场",
+              "url": "https://www.ithome.com/0/975/633.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云",
+              "url": "https://www.ithome.com/0/975/630.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "智谱创始人唐杰发内部信：开启 Touch High 摸高计划，继续聚焦于 AGI 研究、而不是短期商业变现",
+              "url": "https://www.ithome.com/0/975/620.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "月之暗面 K2.7 Code 高速版模型正式登陆 Kimi Code，成为常驻可选模式",
+              "url": "https://www.ithome.com/0/975/619.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "京东首个 RoboBase 项目落地广州，打造机器人全生命周期产业基础设施",
+              "url": "https://www.ithome.com/0/975/578.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 Voice 十年来最大调整告别“纯免费”：个人订阅每月 10 美元起，Gemini 纪要功能首次下放",
+              "url": "https://www.ithome.com/0/975/573.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "雷神 ZERO Air 16 轻薄游戏本赛车版实物首秀：ZM 零公里飘移车队联名",
+              "url": "https://www.ithome.com/0/975/572.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+              "url": "https://www.qbitai.com/2026/07/447902.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+              "url": "https://www.qbitai.com/2026/07/447873.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+              "url": "https://www.qbitai.com/2026/07/447832.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一群做自动驾驶的人，盯上了睡眠这件事",
+              "url": "https://www.qbitai.com/2026/07/447796.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+              "url": "https://www.qbitai.com/2026/07/447682.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
+              "url": "https://www.qbitai.com/2026/07/447681.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+              "url": "https://www.qbitai.com/2026/07/447602.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
+              "url": "https://www.qbitai.com/2026/07/447597.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
+              "url": "https://www.qbitai.com/2026/07/446843.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
+              "url": "https://www.qbitai.com/2026/07/446778.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+              "url": "https://www.qbitai.com/2026/07/446658.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
+              "url": "https://www.qbitai.com/2026/07/446568.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+              "url": "https://huggingface.co/blog/torch-attention-profile",
+              "date": "Fri, 10 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Data for Agents",
+              "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Native-speed vLLM transformers modeling backend",
+              "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+              "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face Models on Foundry Managed Compute",
+              "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+              "url": "https://huggingface.co/blog/skypilot-hf-storage",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+              "url": "https://huggingface.co/blog/lerobot-release-v060",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PRX Part 4: Our Data Strategy",
+              "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+              "date": "Mon, 06 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
