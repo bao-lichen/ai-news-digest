@@ -17461,6 +17461,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-15",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
+              "url": "https://36kr.com/p/3896138695706497?f=rss",
+              "date": "2026-07-15"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+              "url": "https://36kr.com/p/3895322613185543?f=rss",
+              "date": "2026-07-14"
+            },
+            {
+              "source": "36氪",
+              "title": "🎁36氪放福利啦！体验10秒，即可免费抽AirPods 4、Redmi手环、超人帆布包！",
+              "url": "https://36kr.com/p/3894914381970438?f=rss",
+              "date": "2026-07-14"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 浙大系桌面CNC团队获商汤国香、首形科技等近亿元天使轮，要用AI技术降低制造门槛",
+              "url": "https://36kr.com/p/3894935854677249?f=rss",
+              "date": "2026-07-14"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
+              "url": "https://36kr.com/p/3894821059918855?f=rss",
+              "date": "2026-07-14"
+            },
+            {
+              "source": "36氪",
+              "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+              "url": "https://36kr.com/p/3893976502287618?f=rss",
+              "date": "2026-07-14"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
+              "url": "https://36kr.com/p/3893943402707460?f=rss",
+              "date": "2026-07-13"
+            },
+            {
+              "source": "36氪",
+              "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+              "url": "https://36kr.com/p/3893815451417347?f=rss",
+              "date": "2026-07-13"
+            },
+            {
+              "source": "36氪",
+              "title": "韩国AI股票频频暴涨急跌，凸显杠杆过度扩张的威力",
+              "url": "https://36kr.com/newsflashes/3896174271104642?f=rss",
+              "date": "2026-07-15"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：AI眼镜等终端有望成为消费新入口、新场景载体",
+              "url": "https://36kr.com/newsflashes/3896165823858562?f=rss",
+              "date": "2026-07-15"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "多名用户示警：OpenAI 最新模型 GPT-5.6 Sol 会擅自删除用户文件",
+              "url": "https://www.ithome.com/0/976/792.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic 宣布将免费向美国中小学教师提供 Claude 高级功能",
+              "url": "https://www.ithome.com/0/976/791.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为 MatePad 11.5 S 灵动款、MatePad Air 12 英寸鸿蒙焕新版上市，2999 元起",
+              "url": "https://www.ithome.com/0/976/780.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0715：市盈率 308.92 倍长鑫确定发行价 8.66 元 / 股；DeepSeek 梁文锋成全球 AI 公司新首富；IBM 创 40 年来最大单日跌幅；华为 5G 手机全球回归...",
+              "url": "https://www.ithome.com/0/976/779.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 DeepMind CEO 哈萨比斯：人类有个宝贵的窗口期来确保 AGI 是安全的",
+              "url": "https://www.ithome.com/0/976/776.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "手机 AI 的 DeepSeek 时刻：Bonsai 27B 模型登场，苹果 iPhone 17 Pro 可运行",
+              "url": "https://www.ithome.com/0/976/772.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称 OpenAI 首款硬件为无屏智能音箱：定位 AI 伴侣，可控制智能家居",
+              "url": "https://www.ithome.com/0/976/769.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 首度回应苹果诉讼：相信公平竞争，未发现任何证据",
+              "url": "https://www.ithome.com/0/976/767.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 DeepMind CEO 哈萨比斯呼吁美国牵头建立全球 AI 监管机构",
+              "url": "https://www.ithome.com/0/976/756.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为智选车产品总监彭磊科普国家 L3 准入要求，称享界 G9 设计之初就瞄准 L3 级自动驾驶开发",
+              "url": "https://www.ithome.com/0/976/745.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+              "url": "https://www.qbitai.com/2026/07/448475.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
+              "url": "https://www.qbitai.com/2026/07/449863.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
+              "url": "https://www.qbitai.com/2026/07/449850.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先",
+              "url": "https://www.qbitai.com/2026/07/449842.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资",
+              "url": "https://www.qbitai.com/2026/07/449836.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景",
+              "url": "https://www.qbitai.com/2026/07/449568.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品",
+              "url": "https://www.qbitai.com/2026/07/449566.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑",
+              "url": "https://www.qbitai.com/2026/07/449474.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "菲尔兹奖提前泄露！王虹邓煜双双在列",
+              "url": "https://www.qbitai.com/2026/07/449407.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
+              "url": "https://www.qbitai.com/2026/07/449327.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
+              "url": "https://www.qbitai.com/2026/07/449156.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
+              "url": "https://www.qbitai.com/2026/07/449150.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+              "url": "https://huggingface.co/blog/torch-attention-profile",
+              "date": "Fri, 10 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Data for Agents",
+              "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Native-speed vLLM transformers modeling backend",
+              "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+              "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face Models on Foundry Managed Compute",
+              "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+              "url": "https://huggingface.co/blog/skypilot-hf-storage",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+              "url": "https://huggingface.co/blog/lerobot-release-v060",
+              "date": "Tue, 07 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "PRX Part 4: Our Data Strategy",
+              "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+              "date": "Mon, 06 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
