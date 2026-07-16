@@ -17726,6 +17726,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-16",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家",
+              "url": "https://36kr.com/p/3895721094842249?f=rss",
+              "date": "2026-07-16"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+              "url": "https://36kr.com/p/3897553391978371?f=rss",
+              "date": "2026-07-16"
+            },
+            {
+              "source": "36氪",
+              "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+              "url": "https://36kr.com/p/3896830362601351?f=rss",
+              "date": "2026-07-15"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+              "url": "https://36kr.com/p/3896563671222147?f=rss",
+              "date": "2026-07-15"
+            },
+            {
+              "source": "36氪",
+              "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+              "url": "https://36kr.com/p/3896755010963333?f=rss",
+              "date": "2026-07-15"
+            },
+            {
+              "source": "36氪",
+              "title": "支付宝不想做AI时代的配角",
+              "url": "https://36kr.com/p/3896720584738435?f=rss",
+              "date": "2026-07-15"
+            },
+            {
+              "source": "36氪",
+              "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+              "url": "https://36kr.com/p/3896639400183687?f=rss",
+              "date": "2026-07-15"
+            },
+            {
+              "source": "36氪",
+              "title": "AI制药正迎来关键一跃，资本巨头竞逐新赛道",
+              "url": "https://36kr.com/newsflashes/3897551464826760?f=rss",
+              "date": "2026-07-16"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "我国首个水风光一体化智慧运营大模型发布",
+              "url": "https://www.ithome.com/0/977/295.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Suno 接入 iMessage：苹果 iPhone 17 等用户可在聊天内 AI 生成歌曲",
+              "url": "https://www.ithome.com/0/977/293.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称微软主动出击推销自家 AI，销售要掌握 OpenAI、谷歌、Anthropic 的不足",
+              "url": "https://www.ithome.com/0/977/292.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果和 OpenAI 商业纠纷细节：2 封关键邮件、13 分钟间隔与 1 次姓名混淆",
+              "url": "https://www.ithome.com/0/977/291.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "xAI 罕见起诉一名 Grok 用户，因其滥用 AI 生成儿童性虐待图片、视频",
+              "url": "https://www.ithome.com/0/977/289.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果和 OpenAI 商业诉讼核心人物：唐 · 坦职业路径曝光，曾参与开发 iPod / iPhone",
+              "url": "https://www.ithome.com/0/977/286.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "软银孙正义公开嘲讽“AI 反对论”：就像朝天吐口水",
+              "url": "https://www.ithome.com/0/977/285.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 前女 CTO 穆拉蒂创业公司 TML 发布首款 AI 模型 Inkling：借鉴中国技术，主打成本和性能平衡",
+              "url": "https://www.ithome.com/0/977/281.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0716：华为苹果 Q2 国内手机出货量逆势大涨；苹果 2026 返校季活动开启；苹果 AI 国内通过备案；曝豆包 AI 手机今年将发布多款机型...",
+              "url": "https://www.ithome.com/0/977/275.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达与丰田扩大合作，开发更安全、更智能的 L2++ 辅助驾驶汽车",
+              "url": "https://www.ithome.com/0/977/272.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布",
+              "url": "https://www.qbitai.com/2026/07/450841.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
+              "url": "https://www.qbitai.com/2026/07/450831.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "人在Meta，休个病假/产假转身被AI裁了？？",
+              "url": "https://www.qbitai.com/2026/07/450709.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布",
+              "url": "https://www.qbitai.com/2026/07/450130.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克也开始L4降维L2了！FSD正式进入反转时刻",
+              "url": "https://www.qbitai.com/2026/07/450657.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
+              "url": "https://www.qbitai.com/2026/07/450652.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不是吧OpenAI首款硬件吹半天就是个AI音箱？？",
+              "url": "https://www.qbitai.com/2026/07/450385.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
+              "url": "https://www.qbitai.com/2026/07/450250.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+              "url": "https://www.qbitai.com/2026/07/448475.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
+              "url": "https://www.qbitai.com/2026/07/449863.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
+              "url": "https://www.qbitai.com/2026/07/449850.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先",
+              "url": "https://www.qbitai.com/2026/07/449842.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "What building Shippy taught us about building agents",
+              "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Model Routing Is Simple. Until It Isn’t.",
+              "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Inkling by Thinking Machines",
+              "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+              "url": "https://huggingface.co/blog/real-world-voiceeq",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+              "url": "https://huggingface.co/blog/torch-attention-profile",
+              "date": "Fri, 10 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Data for Agents",
+              "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Native-speed vLLM transformers modeling backend",
+              "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+              "date": "Wed, 08 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+              "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+              "date": "Tue, 07 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
