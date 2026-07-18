@@ -18244,6 +18244,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-18",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+              "url": "https://36kr.com/p/3900439867147909?f=rss",
+              "date": "2026-07-18"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+              "url": "https://36kr.com/p/3896564485572489?f=rss",
+              "date": "2026-07-17"
+            },
+            {
+              "source": "36氪",
+              "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+              "url": "https://36kr.com/p/3899556701128578?f=rss",
+              "date": "2026-07-17"
+            },
+            {
+              "source": "36氪",
+              "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+              "url": "https://36kr.com/p/3899597215745664?f=rss",
+              "date": "2026-07-17"
+            },
+            {
+              "source": "36氪",
+              "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
+              "url": "https://36kr.com/p/3899439565325953?f=rss",
+              "date": "2026-07-17"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
+              "url": "https://36kr.com/p/3899128277452681?f=rss",
+              "date": "2026-07-17"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
+              "url": "https://36kr.com/p/3899081603483525?f=rss",
+              "date": "2026-07-17"
+            },
+            {
+              "source": "36氪",
+              "title": "腾讯智能体集中亮相世界人工智能大会",
+              "url": "https://36kr.com/newsflashes/3899736051484552?f=rss",
+              "date": "2026-07-17"
+            },
+            {
+              "source": "36氪",
+              "title": "神玑公司首次参加世界人工智能大会，发布睿动具身智能开发平台",
+              "url": "https://36kr.com/newsflashes/3899667446613640?f=rss",
+              "date": "2026-07-17"
+            },
+            {
+              "source": "36氪",
+              "title": "朗科智能：拟受让朗固科技35%股权，取得其控制权",
+              "url": "https://36kr.com/newsflashes/3899655138396038?f=rss",
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "微软 9 月停运 Outlook 会议洞察功能，Copilot AI 接棒",
+              "url": "https://www.ithome.com/0/978/350.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 回应 GPT-5.6 Sol AI 意外删除用户文件：已采取措施降低风险",
+              "url": "https://www.ithome.com/0/978/347.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "超 4500 名员工联名致信谷歌皮查伊，要求 AI 浪潮中保障被裁员者权益",
+              "url": "https://www.ithome.com/0/978/345.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "“反 AI”情绪愈演愈烈，多家头部 AI 公司加强高管安保",
+              "url": "https://www.ithome.com/0/978/344.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为昇腾 950 超节点荣获 2026 世界人工智能大会最高荣誉 SAIL 奖",
+              "url": "https://www.ithome.com/0/978/338.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国旧金山检方要求苹果 App Store、谷歌 Play 商店下架 13 款“AI 脱衣”App",
+              "url": "https://www.ithome.com/0/978/337.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达发布 Nemotron 3 Embed 系列 AI 模型，8B 版斩获 RTEB 榜首",
+              "url": "https://www.ithome.com/0/978/334.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称马斯克旗下 SpaceX 正与美国五角大楼洽谈 AI 算力供应，拟通过低价抢市场",
+              "url": "https://www.ithome.com/0/978/333.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 DeepMind CEO 哈萨比斯：AI 不会令科学、技术、工程、数学专业失去价值",
+              "url": "https://www.ithome.com/0/978/332.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称字节新一代豆包手机备货数十万台，AI 不再直接操作头部应用",
+              "url": "https://www.ithome.com/0/978/312.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
+              "url": "https://www.qbitai.com/2026/07/453467.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
+              "url": "https://www.qbitai.com/2026/07/453352.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
+              "url": "https://www.qbitai.com/2026/07/453245.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？",
+              "url": "https://www.qbitai.com/2026/07/453246.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式",
+              "url": "https://www.qbitai.com/2026/07/453237.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？",
+              "url": "https://www.qbitai.com/2026/07/453217.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
+              "url": "https://www.qbitai.com/2026/07/453211.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”",
+              "url": "https://www.qbitai.com/2026/07/453208.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即",
+              "url": "https://www.qbitai.com/2026/07/453203.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
+              "url": "https://www.qbitai.com/2026/07/453084.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "文远发布物理AI大模型WITT：让每一公里都变成模型能力",
+              "url": "https://www.qbitai.com/2026/07/452961.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC 2026：全球DAA将达7940万个百度AI重磅升级发布",
+              "url": "https://www.qbitai.com/2026/07/452956.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+              "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+              "date": "Fri, 17 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Newer Models, Same Advantage",
+              "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+              "date": "Thu, 16 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Security incident disclosure — July 2026",
+              "url": "https://huggingface.co/blog/security-incident-july-2026",
+              "date": "Thu, 16 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What building Shippy taught us about building agents",
+              "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Model Routing Is Simple. Until It Isn’t.",
+              "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Inkling by Thinking Machines",
+              "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+              "url": "https://huggingface.co/blog/real-world-voiceeq",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+              "url": "https://huggingface.co/blog/torch-attention-profile",
+              "date": "Fri, 10 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
