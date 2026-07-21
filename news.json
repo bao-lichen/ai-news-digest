@@ -19039,6 +19039,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-21",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
+              "url": "https://36kr.com/p/3903710346790535?f=rss",
+              "date": "2026-07-20"
+            },
+            {
+              "source": "36氪",
+              "title": "WAIC上，AI开始接管人类的欲望",
+              "url": "https://36kr.com/p/3903687507904387?f=rss",
+              "date": "2026-07-20"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
+              "url": "https://36kr.com/p/3903761449617027?f=rss",
+              "date": "2026-07-20"
+            },
+            {
+              "source": "36氪",
+              "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+              "url": "https://36kr.com/p/3903396279125888?f=rss",
+              "date": "2026-07-20"
+            },
+            {
+              "source": "36氪",
+              "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+              "url": "https://36kr.com/p/3903383663478403?f=rss",
+              "date": "2026-07-20"
+            },
+            {
+              "source": "36氪",
+              "title": "冲刺“人形机器人第一城”，深圳何以跑成“机圈顶流”",
+              "url": "https://36kr.com/newsflashes/3904672876332932?f=rss",
+              "date": "2026-07-21"
+            },
+            {
+              "source": "36氪",
+              "title": "AI基建推高光纤光缆景气度，产业链公司扩产忙",
+              "url": "https://36kr.com/newsflashes/3904664439539587?f=rss",
+              "date": "2026-07-21"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：AI下游、长鑫产业链、券商、医药生物的主题热情有望升温",
+              "url": "https://36kr.com/newsflashes/3904643050211202?f=rss",
+              "date": "2026-07-21"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：月之暗面发布Kimi K3 看好国产AI产业链",
+              "url": "https://36kr.com/newsflashes/3904642643036041?f=rss",
+              "date": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "消息称智谱建成大型 AI 数据中心：全部采用国产芯片",
+              "url": "https://www.ithome.com/0/979/301.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软 Win10/Win11 经典版 Outlook 今年将整合 Copilot AI 起草邮件功能",
+              "url": "https://www.ithome.com/0/979/297.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 41 页指控 OpenAI“偷师”：古尔曼剖析未点名前 Apple 设计师伊夫原因",
+              "url": "https://www.ithome.com/0/979/292.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "上任仅 3 个月，美国 AI 测试机构负责人克里斯 · 福尔宣布辞职",
+              "url": "https://www.ithome.com/0/979/288.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达被曝大规模收购美国暗光纤资源，潜在带宽达 7.6 Pb/s",
+              "url": "https://www.ithome.com/0/979/290.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 macOS 27 隐藏新特性：调用 Siri AI 内容创作",
+              "url": "https://www.ithome.com/0/979/280.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 董事会主席布雷特 · 泰勒大胆预测：一年后企业将不再担心 Token 成本",
+              "url": "https://www.ithome.com/0/979/279.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0721：市监总局推动平台企业降佣；我国人形机器人整机产品超全球半数；硅谷多方驳斥 OpenAI 高管批 Kimi K3 开源言论；3 万元起张雪预告首款电摩...",
+              "url": "https://www.ithome.com/0/979/278.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "169 元绿联 Max5s 头戴式耳机开售：号称 AI 功能终身免费，续航 112 小时",
+              "url": "https://www.ithome.com/0/979/274.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Adobe 相机应用 Project Indigo 测试新功能：AI 指导你怎么拍更出片",
+              "url": "https://www.ithome.com/0/979/273.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+              "url": "https://www.qbitai.com/2026/07/455963.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+              "url": "https://www.qbitai.com/2026/07/455791.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
+              "url": "https://www.qbitai.com/2026/07/455729.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+              "url": "https://www.qbitai.com/2026/07/455730.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
+              "url": "https://www.qbitai.com/2026/07/455658.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
+              "url": "https://www.qbitai.com/2026/07/455596.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GMI Cloud  “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！",
+              "url": "https://www.qbitai.com/2026/07/455593.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
+              "url": "https://www.qbitai.com/2026/07/455517.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC之外，一张AI人才图谱正在知乎形成",
+              "url": "https://www.qbitai.com/2026/07/455496.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础",
+              "url": "https://www.qbitai.com/2026/07/455438.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1",
+              "url": "https://www.qbitai.com/2026/07/455434.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "「仿真派」落地真产线！苏度WAIC首秀，CEO韩铮：99%+成功率",
+              "url": "https://www.qbitai.com/2026/07/455400.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Cosmos 3 Edge",
+              "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+              "date": "Mon, 20 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Newer Models, Same Advantage",
+              "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+              "date": "Thu, 16 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Security incident disclosure — July 2026",
+              "url": "https://huggingface.co/blog/security-incident-july-2026",
+              "date": "Thu, 16 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What building Shippy taught us about building agents",
+              "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Model Routing Is Simple. Until It Isn’t.",
+              "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Inkling by Thinking Machines",
+              "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+              "url": "https://huggingface.co/blog/real-world-voiceeq",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+              "url": "https://huggingface.co/blog/torch-attention-profile",
+              "date": "Fri, 10 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
