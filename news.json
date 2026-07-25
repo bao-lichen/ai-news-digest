@@ -20002,6 +20002,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-25",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+              "url": "https://36kr.com/p/3910351337821318?f=rss",
+              "date": "2026-07-25"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
+              "url": "https://36kr.com/p/3909160840451465?f=rss",
+              "date": "2026-07-24"
+            },
+            {
+              "source": "36氪",
+              "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
+              "url": "https://36kr.com/p/3909358392988806?f=rss",
+              "date": "2026-07-24"
+            },
+            {
+              "source": "36氪",
+              "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+              "url": "https://36kr.com/p/3909033052722310?f=rss",
+              "date": "2026-07-24"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜马斯克：FSD是拉动特斯拉汽车需求的核心驱动力；字节跳动在中卫成立新科技公司，注册资本22亿",
+              "url": "https://36kr.com/p/3908051015488640?f=rss",
+              "date": "2026-07-23"
+            },
+            {
+              "source": "36氪",
+              "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+              "url": "https://36kr.com/p/3908027308823684?f=rss",
+              "date": "2026-07-23"
+            },
+            {
+              "source": "36氪",
+              "title": "热门中概股美股盘前普跌，阿里巴巴跌超1%",
+              "url": "https://36kr.com/newsflashes/3909642046412167?f=rss",
+              "date": "2026-07-24"
+            },
+            {
+              "source": "36氪",
+              "title": "新晋菲尔兹奖得主雅各布宣布加入OpenAI",
+              "url": "https://36kr.com/newsflashes/3909592817833349?f=rss",
+              "date": "2026-07-24"
+            },
+            {
+              "source": "36氪",
+              "title": "三星、SK海力士据悉将与美国企业签署大额芯片供应协议",
+              "url": "https://36kr.com/newsflashes/3909567728522373?f=rss",
+              "date": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "打击 AI 生成虚假账号，Meta 推出“Facebook Verified”免费徽章",
+              "url": "https://www.ithome.com/0/981/426.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称英特尔将代工封装英伟达 Feynman GPU，量产指向 2028 年",
+              "url": "https://www.ithome.com/0/981/425.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "黄仁勋入驻 X 首条推文：英伟达等 25 家公司力挺开源 AI",
+              "url": "https://www.ithome.com/0/981/423.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "性能优势高于预期：AMD 称 Venice 处理器比英伟达 Vera 快约 20%",
+              "url": "https://www.ithome.com/0/981/418.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克：当初帮忙创立 OpenAI 却意外加速了 AI 竞赛，这并非我本意",
+              "url": "https://www.ithome.com/0/981/416.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克推动 X 全面开源，称“完全透明才能赢得信任”",
+              "url": "https://www.ithome.com/0/981/413.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 CEO 黄仁勋：“AI 末日论”该翻篇了，行业别再吓人了",
+              "url": "https://www.ithome.com/0/981/412.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "用户强烈反对后，Meta 暂缓旗下智能眼镜“对话聚焦”无障碍功能收费计划",
+              "url": "https://www.ithome.com/0/981/410.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "“氛围编程”命名人卡帕西提高 AI 回答质量的窍门：与它闲聊 10 分钟",
+              "url": "https://www.ithome.com/0/981/407.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 macOS 27 邮件应用测试新撰写窗口，整合 Siri AI 交互",
+              "url": "https://www.ithome.com/0/981/404.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+              "url": "https://www.qbitai.com/2026/07/460154.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+              "url": "https://www.qbitai.com/2026/07/460041.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "菲尔兹奖得主王虹，也发过NeurIPS",
+              "url": "https://www.qbitai.com/2026/07/460042.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
+              "url": "https://www.qbitai.com/2026/07/459432.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场",
+              "url": "https://www.qbitai.com/2026/07/459402.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+              "url": "https://www.qbitai.com/2026/07/459262.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
+              "url": "https://www.qbitai.com/2026/07/458617.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限",
+              "url": "https://www.qbitai.com/2026/07/458864.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "嚯！35家大型央国企实测后，因果世界模型落地了",
+              "url": "https://www.qbitai.com/2026/07/458357.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+              "url": "https://www.qbitai.com/2026/07/458348.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李飞飞学生发起国际具身人类数据标准，光轮智能成唯一参与中国企业",
+              "url": "https://www.qbitai.com/2026/07/457920.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
+              "url": "https://www.qbitai.com/2026/07/457792.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+              "url": "https://huggingface.co/blog/nunchaku-diffusers",
+              "date": "Thu, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The State of Simulation for Physical AI: An Overview",
+              "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+              "date": "Tue, 21 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Grabette: an open system to record robot-manipulation data",
+              "url": "https://huggingface.co/blog/grabette",
+              "date": "Tue, 21 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Newer Models, Same Advantage",
+              "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+              "date": "Thu, 16 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Security incident disclosure — July 2026",
+              "url": "https://huggingface.co/blog/security-incident-july-2026",
+              "date": "Thu, 16 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What building Shippy taught us about building agents",
+              "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Model Routing Is Simple. Until It Isn’t.",
+              "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Inkling by Thinking Machines",
+              "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+              "date": "Wed, 15 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
