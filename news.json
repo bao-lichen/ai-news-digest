@@ -20779,6 +20779,204 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-28",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+              "url": "https://36kr.com/p/3913320648971395?f=rss",
+              "date": "2026-07-27"
+            },
+            {
+              "source": "36氪",
+              "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+              "url": "https://36kr.com/p/3913706151400583?f=rss",
+              "date": "2026-07-27"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
+              "url": "https://36kr.com/p/3913490184754313?f=rss",
+              "date": "2026-07-27"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+              "url": "https://36kr.com/p/3913118530819457?f=rss",
+              "date": "2026-07-27"
+            },
+            {
+              "source": "36氪",
+              "title": "阿里云真武超节点适配Kimi K3",
+              "url": "https://36kr.com/newsflashes/3914601205011587?f=rss",
+              "date": "2026-07-28"
+            },
+            {
+              "source": "36氪",
+              "title": "SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕",
+              "url": "https://36kr.com/newsflashes/3914585364813189?f=rss",
+              "date": "2026-07-28"
+            },
+            {
+              "source": "36氪",
+              "title": "百度香港主要上市转换再提速，8月26日将召开股东特别大会",
+              "url": "https://36kr.com/newsflashes/3914573844190597?f=rss",
+              "date": "2026-07-28"
+            },
+            {
+              "source": "36氪",
+              "title": "海外大模型Token代理产业快速走红，治理与监管存难题",
+              "url": "https://36kr.com/newsflashes/3914573497095305?f=rss",
+              "date": "2026-07-28"
+            },
+            {
+              "source": "36氪",
+              "title": "国金证券：AI光模块+NV-CoWoP预计将带动mSAP-PCB快速扩容",
+              "url": "https://36kr.com/newsflashes/3914546874094985?f=rss",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+              "url": "https://www.qbitai.com/2026/07/461444.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+              "url": "https://www.qbitai.com/2026/07/461398.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+              "url": "https://www.qbitai.com/2026/07/461392.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "老黄「开源协议」就剩一家没签，是谁啊好难猜啊",
+              "url": "https://www.qbitai.com/2026/07/461341.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI最尴尬的短板，中国科学院出手了",
+              "url": "https://www.qbitai.com/2026/07/461160.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek被曝主动叫停了第二轮融资签约",
+              "url": "https://www.qbitai.com/2026/07/461220.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "企业出海，被中国信通院和腾讯重新定义了一次",
+              "url": "https://www.qbitai.com/2026/07/461153.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+              "url": "https://www.qbitai.com/2026/07/461149.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+              "url": "https://www.qbitai.com/2026/07/460186.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+              "url": "https://www.qbitai.com/2026/07/460174.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+              "url": "https://www.qbitai.com/2026/07/460154.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+              "url": "https://www.qbitai.com/2026/07/460041.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+              "url": "https://huggingface.co/blog/nunchaku-diffusers",
+              "date": "Thu, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Grabette: an open system to record robot-manipulation data",
+              "url": "https://huggingface.co/blog/grabette",
+              "date": "Tue, 21 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Newer Models, Same Advantage",
+              "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+              "date": "Thu, 16 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Security incident disclosure — July 2026",
+              "url": "https://huggingface.co/blog/security-incident-july-2026",
+              "date": "Thu, 16 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What building Shippy taught us about building agents",
+              "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Model Routing Is Simple. Until It Isn’t.",
+              "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+              "date": "Wed, 15 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Inkling by Thinking Machines",
+              "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+              "date": "Wed, 15 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
