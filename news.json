@@ -21242,6 +21242,210 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-30",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨超1100名AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资",
+              "url": "https://36kr.com/p/3917362478148993?f=rss",
+              "date": "2026-07-30"
+            },
+            {
+              "source": "36氪",
+              "title": "让AI先吃，这个国民级健康难题有解了",
+              "url": "https://36kr.com/p/3916800672656773?f=rss",
+              "date": "2026-07-29"
+            },
+            {
+              "source": "36氪",
+              "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
+              "url": "https://36kr.com/p/3916187215408776?f=rss",
+              "date": "2026-07-29"
+            },
+            {
+              "source": "36氪",
+              "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
+              "url": "https://36kr.com/p/3916108853521792?f=rss",
+              "date": "2026-07-29"
+            },
+            {
+              "source": "36氪",
+              "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+              "url": "https://36kr.com/p/3916202023660929?f=rss",
+              "date": "2026-07-29"
+            },
+            {
+              "source": "36氪",
+              "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+              "url": "https://36kr.com/p/3878652674715905?f=rss",
+              "date": "2026-07-29"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+              "url": "https://36kr.com/p/3915953688604296?f=rss",
+              "date": "2026-07-29"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+              "url": "https://36kr.com/p/3915066350327176?f=rss",
+              "date": "2026-07-29"
+            },
+            {
+              "source": "36氪",
+              "title": "强生以25.8亿美元收购Sail Biomedicines独家期权",
+              "url": "https://36kr.com/newsflashes/3917399470714497?f=rss",
+              "date": "2026-07-30"
+            },
+            {
+              "source": "36氪",
+              "title": "英特尔罕见向陈立武共同投资人的初创公司开放芯片技术",
+              "url": "https://36kr.com/newsflashes/3917389787754112?f=rss",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "这这这…翁荔光速回OpenAI上班了",
+              "url": "https://www.qbitai.com/2026/07/462947.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+              "url": "https://www.qbitai.com/2026/07/462943.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+              "url": "https://www.qbitai.com/2026/07/462447.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+              "url": "https://www.qbitai.com/2026/07/462380.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "空中具身操作：让蜘蛛侠们安全落地",
+              "url": "https://www.qbitai.com/2026/07/462301.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo",
+              "url": "https://www.qbitai.com/2026/07/462071.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
+              "url": "https://www.qbitai.com/2026/07/462065.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
+              "url": "https://www.qbitai.com/2026/07/462062.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
+              "url": "https://www.qbitai.com/2026/07/462058.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+              "url": "https://www.qbitai.com/2026/07/461949.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "当AI学会“仿真思维”，教师才能回归育人本质",
+              "url": "https://www.qbitai.com/2026/07/461939.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
+              "url": "https://www.qbitai.com/2026/07/461911.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+              "date": "Tue, 28 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+              "date": "Tue, 28 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+              "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+              "url": "https://huggingface.co/blog/nunchaku-diffusers",
+              "date": "Thu, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Grabette: an open system to record robot-manipulation data",
+              "url": "https://huggingface.co/blog/grabette",
+              "date": "Tue, 21 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Newer Models, Same Advantage",
+              "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+              "date": "Thu, 16 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Security incident disclosure — July 2026",
+              "url": "https://huggingface.co/blog/security-incident-july-2026",
+              "date": "Thu, 16 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
