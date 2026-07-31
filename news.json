@@ -21446,6 +21446,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-31",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
+              "url": "https://36kr.com/p/3918250549931394?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
+              "url": "https://36kr.com/p/3918776472022402?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+              "url": "https://36kr.com/p/3917972674735747?f=rss",
+              "date": "2026-07-30"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
+              "url": "https://36kr.com/p/3917984470576769?f=rss",
+              "date": "2026-07-30"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨超1100��AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资",
+              "url": "https://36kr.com/p/3917362478148993?f=rss",
+              "date": "2026-07-30"
+            },
+            {
+              "source": "36氪",
+              "title": "黑芝麻智能：上半年收入预计超4.58亿元，同比增长超81.1%",
+              "url": "https://36kr.com/newsflashes/3918835841936775?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线",
+              "url": "https://36kr.com/newsflashes/3918830343859843?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "高端算力持续涨价，头部企业探索“Token工厂”新模式",
+              "url": "https://36kr.com/newsflashes/3918818162306694?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "亚马逊CEO：算力强劲需求将持持续至2028年",
+              "url": "https://36kr.com/newsflashes/3918817466199681?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "工信部：推动新一代动力电池、车规级芯片、车用操作系统创新应用",
+              "url": "https://36kr.com/newsflashes/3918816534130057?f=rss",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "印度人工智能企业 Sarvam AI 将开发 T 级模型",
+              "url": "https://www.ithome.com/0/983/936.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "雅虎天气改版：预报更智能、信息更丰富，宣传主打“派对天气”",
+              "url": "https://www.ithome.com/0/983/931.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "新研究：AI 对就业市场的真正威胁不是失业，而是让加薪更困难",
+              "url": "https://www.ithome.com/0/983/930.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "暂未上线测试的 5 项苹果 iOS 27 功能汇总：接入更多 AI、升级健康应用等",
+              "url": "https://www.ithome.com/0/983/927.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力",
+              "url": "https://www.ithome.com/0/983/925.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 借助 AI 大幅缩短应用开发周期，更多新应用已在路上",
+              "url": "https://www.ithome.com/0/983/923.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "库克暗示苹果将为高频使用 AI 的 iOS 27 用户增加 iCloud+ 订阅层级",
+              "url": "https://www.ithome.com/0/983/920.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "打击低质量 AI 内容，领英现允许用户举报 AI 垃圾帖文",
+              "url": "https://www.ithome.com/0/983/918.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0731：市值暴增 4500 亿美元微软创近 18 年以来最大单日涨幅；GPT-5.6 Luna 降价 80%；携程回应 1.5 万元机票全额退还；小米澎程 N90/N70 预售价公布...",
+              "url": "https://www.ithome.com/0/983/917.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌：多亏人工智能，6 月修复的 Chrome 漏洞比过去两年总和还多",
+              "url": "https://www.ithome.com/0/983/916.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+              "url": "https://www.qbitai.com/2026/07/463297.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李飞飞的世界模型，终于开始训练机器人了",
+              "url": "https://www.qbitai.com/2026/07/463217.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
+              "url": "https://www.qbitai.com/2026/07/463012.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+              "url": "https://www.qbitai.com/2026/07/463123.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WorkBuddy重大升级，AI时代的Office来了",
+              "url": "https://www.qbitai.com/2026/07/462979.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "这这这…翁荔光速回OpenAI上班了",
+              "url": "https://www.qbitai.com/2026/07/462947.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+              "url": "https://www.qbitai.com/2026/07/462943.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+              "url": "https://www.qbitai.com/2026/07/462447.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+              "url": "https://www.qbitai.com/2026/07/462380.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "空中具身操作：让蜘蛛侠们安全落地",
+              "url": "https://www.qbitai.com/2026/07/462301.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo",
+              "url": "https://www.qbitai.com/2026/07/462071.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
+              "url": "https://www.qbitai.com/2026/07/462065.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+              "date": "Thu, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+              "date": "Tue, 28 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+              "date": "Tue, 28 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+              "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+              "url": "https://huggingface.co/blog/nunchaku-diffusers",
+              "date": "Thu, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Grabette: an open system to record robot-manipulation data",
+              "url": "https://huggingface.co/blog/grabette",
+              "date": "Tue, 21 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Newer Models, Same Advantage",
+              "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+              "date": "Thu, 16 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
