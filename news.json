@@ -21711,6 +21711,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-01",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+              "url": "https://36kr.com/p/3919386961177985?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+              "url": "https://36kr.com/p/3910776673064073?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+              "url": "https://36kr.com/p/3919378312670857?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "开云的转折：在中国，做一个AI乐观派",
+              "url": "https://36kr.com/p/3919225763540611?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+              "url": "https://36kr.com/p/3919137999957382?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+              "url": "https://36kr.com/p/3917874427555457?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+              "url": "https://36kr.com/newsflashes/3919556554305154?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
+              "url": "https://36kr.com/newsflashes/3919553547038343?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "上半年上海智能车载设备、机器人销售收入同比增长61.5%和17.5%",
+              "url": "https://36kr.com/newsflashes/3919510952291713?f=rss",
+              "date": "2026-07-31"
+            },
+            {
+              "source": "36氪",
+              "title": "欧盟8月2日起执行《人工智能法》相关规定，新增AI透明度要求",
+              "url": "https://36kr.com/newsflashes/3919473270812290?f=rss",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "OpenAI 奥尔特曼推介 Astra 模型：协同 AI 智能体工作，主打长周期任务能力",
+              "url": "https://www.ithome.com/0/984/421.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "“华尔街 AI 股神”的对冲基金高杠杆爆仓出局，规模从 450 亿美元缩水至 100 亿美元",
+              "url": "https://www.ithome.com/0/984/420.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "DeepSeek-V4-Flash 正式版跑分报告：约 98% 缓存命中打造 AI 极致性价比",
+              "url": "https://www.ithome.com/0/984/417.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "能无限制生成“灾难”图片，谷歌地球 AI 生图功能上线不到一天就下架",
+              "url": "https://www.ithome.com/0/984/415.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小米 REDMI Note 17 Pro Max 手机曝光：9210mAh 硅碳电池、骁龙 6 Gen 5 芯片",
+              "url": "https://www.ithome.com/0/984/413.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "蒲得宇预估苹果 2027Q1 发布 iPhone Air 2：新增 4800 万超广角、A20 Pro 芯片",
+              "url": "https://www.ithome.com/0/984/407.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "蒲得宇：芯片和内存成本飙升，苹果 iPhone 18 Pro / Max 恐涨价 250~300 美元",
+              "url": "https://www.ithome.com/0/984/406.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小米米家智能茶吧机台面式预售：3 秒即热出水，预售 599 元",
+              "url": "https://www.ithome.com/0/984/396.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "开源鸿蒙 OpenHarmony 6.1 LTS 发布：新增展锐 P7885 开发板",
+              "url": "https://www.ithome.com/0/984/395.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "索尼 PlayStation 乐高套装被曝 10 月 1 日发售，同步推出《宇宙机器人》赠品",
+              "url": "https://www.ithome.com/0/984/393.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+              "url": "https://www.qbitai.com/2026/07/464328.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+              "url": "https://www.qbitai.com/2026/07/464329.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
+              "url": "https://www.qbitai.com/2026/07/464277.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "姚顺雨拿50年数学难题成绩单，招人了",
+              "url": "https://www.qbitai.com/2026/07/464100.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "学习强国做了个AI社区，两周铺进68座城市",
+              "url": "https://www.qbitai.com/2026/07/463727.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+              "url": "https://www.qbitai.com/2026/07/463297.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李飞飞的世界模型，终于开始训练机器人了",
+              "url": "https://www.qbitai.com/2026/07/463217.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
+              "url": "https://www.qbitai.com/2026/07/463012.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+              "url": "https://www.qbitai.com/2026/07/463123.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一年连融三轮数亿元！字节+清华姚班，重构企业软件工程",
+              "url": "https://www.qbitai.com/2026/07/463013.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WorkBuddy重大升级，AI时代的Office来了",
+              "url": "https://www.qbitai.com/2026/07/462979.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "这这这…翁荔光速回OpenAI上班了",
+              "url": "https://www.qbitai.com/2026/07/462947.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+              "date": "Thu, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+              "date": "Tue, 28 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+              "date": "Tue, 28 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+              "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+              "url": "https://huggingface.co/blog/nunchaku-diffusers",
+              "date": "Thu, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Grabette: an open system to record robot-manipulation data",
+              "url": "https://huggingface.co/blog/grabette",
+              "date": "Tue, 21 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Newer Models, Same Advantage",
+              "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+              "date": "Thu, 16 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
