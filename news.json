@@ -22964,6 +22964,253 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-06",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "以 AI 赋能名中医传承教育：韩学杰传承工作室与传神素问在京签约",
+              "url": "https://36kr.com/p/3926621101422721?f=rss",
+              "date": "2026-08-05"
+            },
+            {
+              "source": "36氪",
+              "title": "早期项目 | 从智能喂养切入，一家创业公司想搭建母婴AI生态",
+              "url": "https://36kr.com/p/3926013599086727?f=rss",
+              "date": "2026-08-05"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+              "url": "https://36kr.com/p/3926003098843272?f=rss",
+              "date": "2026-08-05"
+            },
+            {
+              "source": "36氪",
+              "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
+              "url": "https://36kr.com/p/3925067918227591?f=rss",
+              "date": "2026-08-04"
+            },
+            {
+              "source": "36氪",
+              "title": "亚马逊旗下Zoox将在美国拉斯维加斯启动付费自动驾驶出行服务",
+              "url": "https://36kr.com/newsflashes/3927328673380483?f=rss",
+              "date": "2026-08-06"
+            },
+            {
+              "source": "36氪",
+              "title": "外资机构密集发声，AI资本开支拐点隐现",
+              "url": "https://36kr.com/newsflashes/3927317433841800?f=rss",
+              "date": "2026-08-06"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：中国光模块龙头企业有望在全球算力供应链中持续巩固领先地位",
+              "url": "https://36kr.com/newsflashes/3927312070736006?f=rss",
+              "date": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "揪出导致应用变慢根源，微软 Win11 性能分析工具测试接入 AI",
+              "url": "https://www.ithome.com/0/986/292.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "“女生洗澡，大叔帮搓背”：苏泊尔 AI 广告引争议，已紧急下架",
+              "url": "https://www.ithome.com/0/986/291.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌：2027 年 1 月起 Gmail 不再支持第三方邮箱代发邮件",
+              "url": "https://www.ithome.com/0/986/289.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "称要超越维基百科，马斯克的 AI 百科 Grokipedia 已三个多月无更新",
+              "url": "https://www.ithome.com/0/986/288.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "AMD 参加 IFA 2026 展会：Jack Huynh 将发表“个人 AI 时代”主题演讲",
+              "url": "https://www.ithome.com/0/986/283.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小鹏 G9L 全球首发 AI 主动贴合零重力座椅，支持一键成床",
+              "url": "https://www.ithome.com/0/986/276.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "继 OpenAI、Anthropic 之后，Meta AI 模型测试期间也发生“越界”事件",
+              "url": "https://www.ithome.com/0/986/269.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "挑战 Codex 等，Meta 推出其首个编程 AI 智能体工具 Muse Code",
+              "url": "https://www.ithome.com/0/986/268.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 DeepMind 重组：哈萨比斯转任首席科学家，聚焦通用人工智能应用",
+              "url": "https://www.ithome.com/0/986/265.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "RTX 5090 显卡涨价后华硕拒按原价发货：英伟达官方商城直接砍单，重购需多花 553 美元",
+              "url": "https://www.ithome.com/0/986/259.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+              "url": "https://www.qbitai.com/2026/08/467196.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
+              "url": "https://www.qbitai.com/2026/08/467034.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
+              "url": "https://www.qbitai.com/2026/08/467036.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "又一家AI基金暴雷了",
+              "url": "https://www.qbitai.com/2026/08/467001.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
+              "url": "https://www.qbitai.com/2026/08/466998.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+              "url": "https://www.qbitai.com/2026/08/466739.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
+              "url": "https://www.qbitai.com/2026/08/466553.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+              "url": "https://www.qbitai.com/2026/08/466386.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+              "url": "https://www.qbitai.com/2026/08/465792.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
+              "url": "https://www.qbitai.com/2026/08/466262.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+              "url": "https://www.qbitai.com/2026/08/466032.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+              "url": "https://www.qbitai.com/2026/08/465973.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+              "date": "Tue, 04 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+              "date": "Thu, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+              "date": "Tue, 28 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+              "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+              "url": "https://huggingface.co/blog/nunchaku-diffusers",
+              "date": "Thu, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Grabette: an open system to record robot-manipulation data",
+              "url": "https://huggingface.co/blog/grabette",
+              "date": "Tue, 21 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Newer Models, Same Advantage",
+              "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+              "date": "Thu, 16 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
