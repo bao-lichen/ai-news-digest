@@ -23717,6 +23717,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-09",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "吃完就后悔的年轻人，把凌晨2点的AI当成了减肥树洞｜2026年轻人减重报告",
+              "url": "https://36kr.com/p/3930427173682304?f=rss",
+              "date": "2026-08-08"
+            },
+            {
+              "source": "36氪",
+              "title": "不等了！一个盲人上手造了个导盲机器人",
+              "url": "https://36kr.com/p/3929352336587906?f=rss",
+              "date": "2026-08-07"
+            },
+            {
+              "source": "36氪",
+              "title": "中国游戏，进入「与AI同游」时代",
+              "url": "https://36kr.com/p/3929147779136896?f=rss",
+              "date": "2026-08-07"
+            },
+            {
+              "source": "36氪",
+              "title": "赋予机器人“空间直觉”，「Ommo Technologies」获数千万美元A轮融资｜36氪首发",
+              "url": "https://36kr.com/p/3927419946629256?f=rss",
+              "date": "2026-08-07"
+            },
+            {
+              "source": "36氪",
+              "title": "十周年“新物种爆炸”发布会登陆香港，吴声发布六大AI商业预判",
+              "url": "https://36kr.com/newsflashes/3930928095837315?f=rss",
+              "date": "2026-08-08"
+            },
+            {
+              "source": "36氪",
+              "title": "Apple智能可配合阿里千问模型工作",
+              "url": "https://36kr.com/newsflashes/3930655950060672?f=rss",
+              "date": "2026-08-08"
+            },
+            {
+              "source": "36氪",
+              "title": "景林资产二季度大举清仓美股科技巨头，转投半导体上游设备与算力基建",
+              "url": "https://36kr.com/newsflashes/3930567571668096?f=rss",
+              "date": "2026-08-08"
+            },
+            {
+              "source": "36氪",
+              "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
+              "url": "https://36kr.com/newsflashes/3930312545991810?f=rss",
+              "date": "2026-08-08"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "小米汽车：澎程 N90 Max 四门可选智能电动门，支持开门杀预警和避障",
+              "url": "https://www.ithome.com/0/987/479.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎",
+              "url": "https://www.ithome.com/0/987/474.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果中国官网删除 Apple 智能接入阿里千问使用手册",
+              "url": "https://www.ithome.com/0/987/467.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
+              "url": "https://www.ithome.com/0/987/465.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
+              "url": "https://www.ithome.com/0/987/455.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+              "url": "https://www.ithome.com/0/987/452.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "曝亚马逊利用 45 年前规划绕过社区投票建设 AI 数据中心，美国加州吉尔罗伊市民不满",
+              "url": "https://www.ithome.com/0/987/449.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "vivo 神秘新机现身 Geekbench，天玑 7500 芯片",
+              "url": "https://www.ithome.com/0/987/447.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "内部“一路绿灯”：消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一",
+              "url": "https://www.ithome.com/0/987/446.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OPPO 首次推出 FatMax 超燃脂模式：自研算法计算专属燃脂心率区间，9 月随 Watch S2 首发上线",
+              "url": "https://www.ithome.com/0/987/440.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+              "url": "https://www.qbitai.com/2026/08/468631.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+              "url": "https://www.qbitai.com/2026/08/468555.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+              "url": "https://www.qbitai.com/2026/08/468462.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+              "url": "https://www.qbitai.com/2026/08/468324.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+              "url": "https://www.qbitai.com/2026/08/466738.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+              "url": "https://www.qbitai.com/2026/08/468305.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+              "url": "https://www.qbitai.com/2026/08/467877.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+              "url": "https://www.qbitai.com/2026/08/467879.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+              "url": "https://www.qbitai.com/2026/08/467871.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI SSD：大模型推理的存储范式转移",
+              "url": "https://www.qbitai.com/2026/08/467840.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+              "url": "https://www.qbitai.com/2026/08/467834.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智元下架了首席科学家罗剑岚",
+              "url": "https://www.qbitai.com/2026/08/467730.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+              "url": "https://huggingface.co/blog/allenai/tutormoments",
+              "date": "Fri, 07 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Baseten on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/baseten",
+              "date": "Thu, 06 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+              "date": "Tue, 04 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+              "date": "Thu, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+              "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+              "date": "Mon, 27 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+              "url": "https://huggingface.co/blog/nunchaku-diffusers",
+              "date": "Thu, 23 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Grabette: an open system to record robot-manipulation data",
+              "url": "https://huggingface.co/blog/grabette",
+              "date": "Tue, 21 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
