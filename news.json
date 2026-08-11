@@ -24211,6 +24211,210 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-11",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜搜狐：2026年Q2总收入1.36亿美元，同比增长7%；千问开放平台上线；高盛：全球AI投资今年将突破10000亿美元，美国投资接近6000亿美元",
+              "url": "https://36kr.com/p/3933544245771395?f=rss",
+              "date": "2026-08-10"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发｜开放式AI助听器完成数千万元天使轮融资，海外市场已众筹数百万美金",
+              "url": "https://36kr.com/p/3933467328413064?f=rss",
+              "date": "2026-08-10"
+            },
+            {
+              "source": "36氪",
+              "title": "最前线｜不只是机器人比赛，RoboMaster正在成为工程师训练场",
+              "url": "https://36kr.com/p/3933464098520456?f=rss",
+              "date": "2026-08-10"
+            },
+            {
+              "source": "36氪",
+              "title": "对话前华为智驾AI一号位黄青虬：数据质量第一，模型架构第二",
+              "url": "https://36kr.com/p/3933268031012227?f=rss",
+              "date": "2026-08-10"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 天使++轮融资5亿，前华为生成式大模型负责人把家务机器人折进40厘米",
+              "url": "https://36kr.com/p/3933076448558212?f=rss",
+              "date": "2026-08-10"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发 | 北航系AI新材料团队获数千万融资，AI大脑+机器人自主实验室已商业化",
+              "url": "https://36kr.com/p/3931004388162953?f=rss",
+              "date": "2026-08-10"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：算力突破电力边界，SST开启硅进铜退新周期",
+              "url": "https://36kr.com/newsflashes/3934379101404291?f=rss",
+              "date": "2026-08-11"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：基础模型竞争正由产品探索逐步走向高价值场景、企业市场与使用量驱动的商业化竞争",
+              "url": "https://36kr.com/newsflashes/3934378189995400?f=rss",
+              "date": "2026-08-11"
+            },
+            {
+              "source": "36氪",
+              "title": "Anthropic据悉与Riot Platforms达成超90亿美元算力协议",
+              "url": "https://36kr.com/newsflashes/3934373233720451?f=rss",
+              "date": "2026-08-11"
+            },
+            {
+              "source": "36氪",
+              "title": "中国AI产业链凸显增长韧性，国际资本借道ETF加力布局",
+              "url": "https://36kr.com/newsflashes/3934371354033543?f=rss",
+              "date": "2026-08-11"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+              "url": "https://www.qbitai.com/2026/08/469860.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI倒查论文100年！99.2%的顶刊都有问题&#8230;",
+              "url": "https://www.qbitai.com/2026/08/469795.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "模型路线趋同之后，Physical AI的胜负手变了",
+              "url": "https://www.qbitai.com/2026/08/469544.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+              "url": "https://www.qbitai.com/2026/08/469520.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+              "url": "https://www.qbitai.com/2026/08/469500.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+              "url": "https://www.qbitai.com/2026/08/469493.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
+              "url": "https://www.qbitai.com/2026/08/469475.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+              "url": "https://www.qbitai.com/2026/08/469454.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+              "url": "https://www.qbitai.com/2026/08/469213.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+              "url": "https://www.qbitai.com/2026/08/469076.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "范式与华夏金融订立服务器售后回租安排 盘活算力资产 赋能业务长效发展",
+              "url": "https://www.qbitai.com/2026/08/469719.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "180万刀，连亚马逊都烧不起Claude了",
+              "url": "https://www.qbitai.com/2026/08/469010.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+              "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+              "url": "https://huggingface.co/blog/muse-glimmer",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+              "url": "https://huggingface.co/blog/allenai/tutormoments",
+              "date": "Fri, 07 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Baseten on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/baseten",
+              "date": "Thu, 06 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+              "date": "Tue, 04 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+              "date": "Thu, 30 Ju"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+              "date": "Mon, 27 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
