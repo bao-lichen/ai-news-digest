@@ -24415,6 +24415,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域；两大能源央企参投宇树科技；入职未满一年，OpenAI伦理负责人宣布离职",
+              "url": "https://36kr.com/p/3935139481631880?f=rss",
+              "date": "2026-08-11"
+            },
+            {
+              "source": "36氪",
+              "title": "继Seed、Flow后，字节又成立一个AI一级部门，直指「数据」｜36氪独家",
+              "url": "https://36kr.com/p/3934936980667776?f=rss",
+              "date": "2026-08-11"
+            },
+            {
+              "source": "36氪",
+              "title": "自研微米级工业具身机器人，已进入博世产线，「国奥科技」完成近亿元A+轮融资 | 36氪首发",
+              "url": "https://36kr.com/p/3934853676088448?f=rss",
+              "date": "2026-08-11"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 前大疆、影石产品负责人做智能两轮，获弘晖、Brizan等超亿元融资",
+              "url": "https://36kr.com/p/3934759598308744?f=rss",
+              "date": "2026-08-11"
+            },
+            {
+              "source": "36氪",
+              "title": "又融了1亿美金的AI公司，说AlphaFold不是生物世界天花板",
+              "url": "https://36kr.com/p/3933494167108738?f=rss",
+              "date": "2026-08-11"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 布局“视触觉+压阻”组合方案，机器人触觉传感企业完成数千万元融资",
+              "url": "https://36kr.com/p/3934529840659842?f=rss",
+              "date": "2026-08-11"
+            },
+            {
+              "source": "36氪",
+              "title": "Anthropic将在AI生成文本中嵌入隐形水印",
+              "url": "https://36kr.com/newsflashes/3935829215100034?f=rss",
+              "date": "2026-08-12"
+            },
+            {
+              "source": "36氪",
+              "title": "面壁智能启动IPO",
+              "url": "https://36kr.com/newsflashes/3935825542610055?f=rss",
+              "date": "2026-08-12"
+            },
+            {
+              "source": "36氪",
+              "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战",
+              "url": "https://36kr.com/newsflashes/3935776026623364?f=rss",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "AI 公司面壁智能启动 IPO",
+              "url": "https://www.ithome.com/0/988/581.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称小红书打造全新“AI 导购”功能",
+              "url": "https://www.ithome.com/0/988/579.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为 nova16 SE 手机今日开售：麒麟 8020 芯片、8500mAh 电池，2499 元起",
+              "url": "https://www.ithome.com/0/988/576.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "多个 AI 智能体协同干活，马斯克旗下 SpaceXAI 推出 Grok Bot",
+              "url": "https://www.ithome.com/0/988/570.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "举债重金押注 AI 基建，消息称甲骨文正制定新一轮裁员计划",
+              "url": "https://www.ithome.com/0/988/567.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 推出预览版 ChatGPT for Linux 桌面端应用",
+              "url": "https://www.ithome.com/0/988/562.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "三星 Galaxy Tab S12+/S12 Ultra 平板曝光：天玑 9500 芯片",
+              "url": "https://www.ithome.com/0/988/558.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
+              "url": "https://www.ithome.com/0/988/556.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
+              "url": "https://www.ithome.com/0/988/555.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Sonos Ace Ultra 高端耳机曝光：预计 9 月发布，融入 AI 能力",
+              "url": "https://www.ithome.com/0/988/554.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+              "url": "https://www.qbitai.com/2026/08/470674.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+              "url": "https://www.qbitai.com/2026/08/470576.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+              "url": "https://www.qbitai.com/2026/08/470485.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "宇树会破发吗？王兴兴回应了",
+              "url": "https://www.qbitai.com/2026/08/470307.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+              "url": "https://www.qbitai.com/2026/08/470254.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+              "url": "https://www.qbitai.com/2026/08/470228.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+              "url": "https://www.qbitai.com/2026/08/469880.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+              "url": "https://www.qbitai.com/2026/08/469869.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+              "url": "https://www.qbitai.com/2026/08/469860.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI倒查论文100年！99.2%的顶刊都有问题&#8230;",
+              "url": "https://www.qbitai.com/2026/08/469795.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "模型路线趋同之后，Physical AI的胜负手变了",
+              "url": "https://www.qbitai.com/2026/08/469544.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+              "url": "https://www.qbitai.com/2026/08/469520.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+              "date": "Tue, 11 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+              "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+              "url": "https://huggingface.co/blog/muse-glimmer",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+              "url": "https://huggingface.co/blog/allenai/tutormoments",
+              "date": "Fri, 07 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Baseten on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/baseten",
+              "date": "Thu, 06 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+              "date": "Tue, 04 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+              "date": "Thu, 30 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
