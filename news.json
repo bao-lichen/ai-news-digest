@@ -24674,6 +24674,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-13",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨星巴克中国否认为降成本取消14薪；DeepSeek V4 Pro正式版上线；“阿里最年轻P10”林俊旸创业，新公司估值20亿美元",
+              "url": "https://36kr.com/p/3937187153132680?f=rss",
+              "date": "2026-08-13"
+            },
+            {
+              "source": "36氪",
+              "title": "最前线｜3999元起，影石发布X6：全景相机开始把更多创作交给AI",
+              "url": "https://36kr.com/p/3936487630650758?f=rss",
+              "date": "2026-08-12"
+            },
+            {
+              "source": "36氪",
+              "title": "Seedance 2.5测评｜ 七维实测，AI视频从片段到叙事，到底进步了多少？",
+              "url": "https://36kr.com/p/3936379078409606?f=rss",
+              "date": "2026-08-12"
+            },
+            {
+              "source": "36氪",
+              "title": "25岁，2亿估值，Funloom AI用AI原生RPG重构游戏创作流程",
+              "url": "https://36kr.com/p/3936164243914115?f=rss",
+              "date": "2026-08-12"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 腾讯、百度背景团队做具身数据基础设施，再获顺为等数亿元融资",
+              "url": "https://36kr.com/p/3935994997407107?f=rss",
+              "date": "2026-08-12"
+            },
+            {
+              "source": "36氪",
+              "title": "AI服务器需求持续放量，MLCC板块迎景气行情",
+              "url": "https://36kr.com/newsflashes/3937238475439492?f=rss",
+              "date": "2026-08-13"
+            },
+            {
+              "source": "36氪",
+              "title": "CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难",
+              "url": "https://36kr.com/newsflashes/3937237486222467?f=rss",
+              "date": "2026-08-13"
+            },
+            {
+              "source": "36氪",
+              "title": "AI不缺需求缺算力，摩根士丹利警告供应瓶颈或持续数年",
+              "url": "https://36kr.com/newsflashes/3937224303836548?f=rss",
+              "date": "2026-08-13"
+            },
+            {
+              "source": "36氪",
+              "title": "韩国承诺放宽监管以支持以芯片和AI为核心的三大重点项目",
+              "url": "https://36kr.com/newsflashes/3937214363614600?f=rss",
+              "date": "2026-08-13"
+            },
+            {
+              "source": "36氪",
+              "title": "AI服务器液冷投资向零部件纵深传导，液冷产业链迎订单验证关键窗口",
+              "url": "https://36kr.com/newsflashes/3937206659251589?f=rss",
+              "date": "2026-08-13"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "谷歌 AI 重组内幕曝光：布林不满落后 Anthropic，要求全力投入 Gemini 模型",
+              "url": "https://www.ithome.com/0/989/035.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Twitch 证实亚马逊正利用其直播内容训练 AI 模型，用户强烈不满",
+              "url": "https://www.ithome.com/0/989/032.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Mistral AI 自家平台开放第三方模型接入：首个为智谱 GLM-5.2",
+              "url": "https://www.ithome.com/0/989/031.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic 为 Claude 生成 AI 内容添加水印，网友吵翻了",
+              "url": "https://www.ithome.com/0/989/030.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "联想来酷 Air 14 2026 笔记本新增酷睿 3-304/5-320 处理器版本，3999 元起",
+              "url": "https://www.ithome.com/0/989/026.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "维基百科信息遭恶意篡改，谷歌搜索误显示 OpenAI CEO 奥尔特曼死讯",
+              "url": "https://www.ithome.com/0/989/024.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 Mac 平台最强效率工具：Raycast 0.71 发布，让 AI 直接“看懂”你的屏幕",
+              "url": "https://www.ithome.com/0/989/022.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称苹果拟向出版商支付最高数亿美元，获取新闻内容以改进 AI 版 Siri",
+              "url": "https://www.ithome.com/0/989/014.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Counterpoint：2026 年二季度美国智能手机销量同比降 5%，低端市场承压",
+              "url": "https://www.ithome.com/0/989/003.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "腾讯微信公布 WeLM 模型：80B 版已在 AI 助手小微上应用，617B 版正在开发",
+              "url": "https://www.ithome.com/0/989/007.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
+              "url": "https://www.qbitai.com/2026/08/471254.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
+              "url": "https://www.qbitai.com/2026/08/471162.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+              "url": "https://www.qbitai.com/2026/08/471049.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+              "url": "https://www.qbitai.com/2026/08/471030.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+              "url": "https://www.qbitai.com/2026/08/470901.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+              "url": "https://www.qbitai.com/2026/08/470874.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，Manus恢复独立运营",
+              "url": "https://www.qbitai.com/2026/08/470805.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+              "url": "https://www.qbitai.com/2026/08/470674.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+              "url": "https://www.qbitai.com/2026/08/470576.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+              "url": "https://www.qbitai.com/2026/08/470485.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "宇树会破发吗？王兴兴回应了",
+              "url": "https://www.qbitai.com/2026/08/470307.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+              "url": "https://www.qbitai.com/2026/08/470254.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+              "date": "Wed, 12 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+              "date": "Wed, 12 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+              "date": "Tue, 11 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+              "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+              "url": "https://huggingface.co/blog/muse-glimmer",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Baseten on Hugging Face Inference Providers 🔥",
+              "url": "https://huggingface.co/blog/baseten",
+              "date": "Thu, 06 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+              "date": "Thu, 30 Ju"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
