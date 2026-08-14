@@ -24939,6 +24939,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-14",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜美国消费者就关税退税起诉丰田和索尼等日本公司；SpaceX AI：推出Grok 4.6；苹果聘请美国航空前高管出任政府事务负责人",
+              "url": "https://36kr.com/p/3937699820715141?f=rss",
+              "date": "2026-08-13"
+            },
+            {
+              "source": "36氪",
+              "title": "AI究竟能帮游戏做什么？我们和阿里云、TapTap制造聊了聊 | ChinaJoy2026现场局",
+              "url": "https://36kr.com/p/3937335101996164?f=rss",
+              "date": "2026-08-13"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨星巴克中国否认为降成本取消14薪；DeepSeek V4 Pro正式版上线；“阿里最年轻P10”林俊旸创业，新公司估值20亿美元",
+              "url": "https://36kr.com/p/3937187153132680?f=rss",
+              "date": "2026-08-13"
+            },
+            {
+              "source": "36氪",
+              "title": "最前线｜3999元起，影石发布X6：全景相机开始把更多创作交给AI",
+              "url": "https://36kr.com/p/3936487630650758?f=rss",
+              "date": "2026-08-12"
+            },
+            {
+              "source": "36氪",
+              "title": "Seedance 2.5测评｜ 七维实测，AI视频从片段到叙事，到底进步了多少？",
+              "url": "https://36kr.com/p/3936379078409606?f=rss",
+              "date": "2026-08-12"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：算力升级下AI电源或呈现四大趋势",
+              "url": "https://36kr.com/newsflashes/3938637125057668?f=rss",
+              "date": "2026-08-14"
+            },
+            {
+              "source": "36氪",
+              "title": "美国数据及人工智能公司Databricks完成50亿美元融资",
+              "url": "https://36kr.com/newsflashes/3938636142493060?f=rss",
+              "date": "2026-08-14"
+            },
+            {
+              "source": "36氪",
+              "title": "​中信证券：随着国产手术机器人与通用人形机器人的快速发展，行业有望迎来系统性降本",
+              "url": "https://36kr.com/newsflashes/3938631341538432?f=rss",
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "不再依赖截图记录活动：Mac 版 ChatGPT 新增 Computer History AI 功能",
+              "url": "https://www.ithome.com/0/989/518.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为 WATCH GT 7 智能手表首销：41mm/46mm 可选，1588 元起",
+              "url": "https://www.ithome.com/0/989/517.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "开发者反馈苹果 App Store 存在部分欺诈应用：AI 包装成好口碑，假截图 / 评论误导用户",
+              "url": "https://www.ithome.com/0/989/515.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为续航最长平板 MatePad Pro 2026 首销：麒麟 T93 芯片，5999 元起",
+              "url": "https://www.ithome.com/0/989/513.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 Apple Glasses 专利获批：音频提示规避智能眼镜被劫持风险",
+              "url": "https://www.ithome.com/0/989/511.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "自动驾驶公司文远知行 2026 上半年营收 3.5 亿同比增长 73%，Robotaxi 超 1800 辆",
+              "url": "https://www.ithome.com/0/989/504.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "洛图科技：2026 年上半年中国智能眼镜市场销量同比增长 85.5%，销售额接近翻倍",
+              "url": "https://www.ithome.com/0/989/502.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌推出 Gemini 3.7 Flash 模型，首发优惠价为原 3.6 Flash 的一半",
+              "url": "https://www.ithome.com/0/989/497.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小米推出米家智能吸油烟机 3 欧式：25 m³/min 吸力，售 1499 元",
+              "url": "https://www.ithome.com/0/989/495.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "最高每秒生成 750 个词元：OpenAI 推 Ultrafast 模式，GPT-5.6 Sol AI 提速 14 倍",
+              "url": "https://www.ithome.com/0/989/492.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+              "url": "https://www.qbitai.com/2026/08/472208.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+              "url": "https://www.qbitai.com/2026/08/472059.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+              "url": "https://www.qbitai.com/2026/08/472067.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+              "url": "https://www.qbitai.com/2026/08/472060.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+              "url": "https://www.qbitai.com/2026/08/472016.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
+              "url": "https://www.qbitai.com/2026/08/471893.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
+              "url": "https://www.qbitai.com/2026/08/471884.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚！Ilya首个模型曝光了",
+              "url": "https://www.qbitai.com/2026/08/471701.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+              "url": "https://www.qbitai.com/2026/08/471697.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
+              "url": "https://www.qbitai.com/2026/08/471642.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
+              "url": "https://www.qbitai.com/2026/08/471624.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+              "url": "https://www.qbitai.com/2026/08/471451.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+              "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What We Learned by Reproducing 2,200 papers from ICML",
+              "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+              "date": "Wed, 12 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+              "date": "Wed, 12 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+              "date": "Tue, 11 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+              "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+              "url": "https://huggingface.co/blog/muse-glimmer",
+              "date": "Mon, 10 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
