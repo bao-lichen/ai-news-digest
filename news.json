@@ -25192,6 +25192,198 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-15",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜五粮液出手稳价；谷歌推出Gemini 3.7 Flash模型；7月贷款利率保持低位水平",
+              "url": "https://36kr.com/p/3939192336465028?f=rss",
+              "date": "2026-08-14"
+            },
+            {
+              "source": "36氪",
+              "title": "独家 | 腾讯混元徐灿转岗微信WeLM，微信AI进入加速阶段",
+              "url": "https://36kr.com/p/3939234424700041?f=rss",
+              "date": "2026-08-14"
+            },
+            {
+              "source": "36氪",
+              "title": "阿里灵犀再传15亿美元出售，或许这就是中国游戏行业的现实",
+              "url": "https://36kr.com/p/3939187139935369?f=rss",
+              "date": "2026-08-14"
+            },
+            {
+              "source": "36氪",
+              "title": "月之暗面IPO，大模型「第二股」需要新叙事",
+              "url": "https://36kr.com/p/3938853888097409?f=rss",
+              "date": "2026-08-14"
+            },
+            {
+              "source": "36氪",
+              "title": "业绩快报 | 迈富时2026年中报：经营现金流净流入达5亿元，AI原生布局驱动业绩倍增",
+              "url": "https://36kr.com/p/3938112386858115?f=rss",
+              "date": "2026-08-14"
+            },
+            {
+              "source": "36氪",
+              "title": "不蒸馏，大模型公司的代价是什么？",
+              "url": "https://36kr.com/p/3938270868553093?f=rss",
+              "date": "2026-08-14"
+            },
+            {
+              "source": "36氪",
+              "title": "华强北AI眼镜销量暴涨100%",
+              "url": "https://36kr.com/newsflashes/3939337442770306?f=rss",
+              "date": "2026-08-14"
+            },
+            {
+              "source": "36氪",
+              "title": "2026年上半年超935亿元涌入具身智能赛道",
+              "url": "https://36kr.com/newsflashes/3939323205746051?f=rss",
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+              "url": "https://www.qbitai.com/2026/08/473379.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+              "url": "https://www.qbitai.com/2026/08/473153.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+              "url": "https://www.qbitai.com/2026/08/473149.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+              "url": "https://www.qbitai.com/2026/08/473144.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+              "url": "https://www.qbitai.com/2026/08/472722.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+              "url": "https://www.qbitai.com/2026/08/472718.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+              "url": "https://www.qbitai.com/2026/08/472208.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+              "url": "https://www.qbitai.com/2026/08/472059.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+              "url": "https://www.qbitai.com/2026/08/472067.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+              "url": "https://www.qbitai.com/2026/08/472060.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+              "url": "https://www.qbitai.com/2026/08/472016.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
+              "url": "https://www.qbitai.com/2026/08/471893.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "State of Open Models: Summer 2026 Observations",
+              "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+              "date": "Fri, 14 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+              "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What We Learned by Reproducing 2,200 papers from ICML",
+              "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+              "date": "Wed, 12 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+              "date": "Wed, 12 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+              "date": "Tue, 11 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+              "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+              "date": "Mon, 10 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+              "date": "Mon, 10 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
