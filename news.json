@@ -25896,6 +25896,253 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-18",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "硬氪首发 | 机器人力传感器企业完成数亿元D轮融资，广汽领投、红杉押注，市占率超70%",
+              "url": "https://36kr.com/p/3943183864560776?f=rss",
+              "date": "2026-08-17"
+            },
+            {
+              "source": "36氪",
+              "title": "AI虚拟角色蜂拥而至，但更多人忘不掉陪伴十四年的她",
+              "url": "https://36kr.com/p/3942027561876870?f=rss",
+              "date": "2026-08-17"
+            },
+            {
+              "source": "36氪",
+              "title": "美国电影协会与字节跳动达成协议，加强生成式AI知识产权保护",
+              "url": "https://36kr.com/newsflashes/3944329757064581?f=rss",
+              "date": "2026-08-18"
+            },
+            {
+              "source": "36氪",
+              "title": "上半年业绩翻倍的人形机器人概念股梳理",
+              "url": "https://36kr.com/newsflashes/3944322134228098?f=rss",
+              "date": "2026-08-18"
+            },
+            {
+              "source": "36氪",
+              "title": "韩国否认正在讨论将芯片作为首个对美投资项目的报道",
+              "url": "https://36kr.com/newsflashes/3944317786717573?f=rss",
+              "date": "2026-08-18"
+            },
+            {
+              "source": "36氪",
+              "title": "商务部等9部门：大力支持新能源汽车、绿色智能产品、绿色建材等下乡",
+              "url": "https://36kr.com/newsflashes/3944308504902787?f=rss",
+              "date": "2026-08-18"
+            },
+            {
+              "source": "36氪",
+              "title": "商务部等9部门：鼓励有条件的地方发展虚拟现实、沉浸式体验、“人工智能+消费”等",
+              "url": "https://36kr.com/newsflashes/3944307526974600?f=rss",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "商务部等 9 部门发文活跃县域消费，大力支持新能源汽车、绿色智能产品、绿色建材等下乡",
+              "url": "https://www.ithome.com/0/990/901.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称特斯拉筹备推出 Cybercab 自动驾驶出租车服务，最快本月在奥斯汀上线",
+              "url": "https://www.ithome.com/0/990/899.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Mac 版 AirBuddy 3 发布：增强苹果 AirPods 管理，带来 150+ 项改动",
+              "url": "https://www.ithome.com/0/990/896.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "编造智驾事故、AI 生成假车祸视频，多人因编造涉企谣言被罚",
+              "url": "https://www.ithome.com/0/990/895.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0818：阿里出售游戏业务灵犀互娱；李书福辞任吉利汽车董事会主席；小米 SU7 系列 28.5 个月交付突破 50 万台；岚图邵明峰回应追光 S 撞脸小米 YU7...",
+              "url": "https://www.ithome.com/0/990/891.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达将为 OpenAI 俄亥俄州数据中心提供最高 1050 亿美元担保",
+              "url": "https://www.ithome.com/0/990/890.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "开源多媒体框架 FFmpeg 优化 H.265/HEVC 视频编码能力，实现性能“基本追平 H.264”",
+              "url": "https://www.ithome.com/0/990/889.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "幸运用户捡到可正常工作的英伟达 RTX 2080 SUPER 显卡，更换导热硅脂和导热垫后待机温度约 35℃",
+              "url": "https://www.ithome.com/0/990/886.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国 2 名女子起诉苹果公司，称 AirTag 反跟踪警报未能提供有效保护",
+              "url": "https://www.ithome.com/0/990/884.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 Siri AI 集体诉讼和解案“最终批准听证会”定于明年 2 月，符合条件美国 iPhone 用户可获赔偿金",
+              "url": "https://www.ithome.com/0/990/869.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+              "url": "https://www.qbitai.com/2026/08/474537.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+              "url": "https://www.qbitai.com/2026/08/474381.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+              "url": "https://www.qbitai.com/2026/08/474361.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+              "url": "https://www.qbitai.com/2026/08/474334.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李飞飞最新访谈：AI咋能代替人呢？",
+              "url": "https://www.qbitai.com/2026/08/474140.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+              "url": "https://www.qbitai.com/2026/08/474064.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+              "url": "https://www.qbitai.com/2026/08/473947.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+              "url": "https://www.qbitai.com/2026/08/473876.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+              "url": "https://www.qbitai.com/2026/08/473866.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+              "url": "https://www.qbitai.com/2026/08/473669.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+              "url": "https://www.qbitai.com/2026/08/473597.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+              "url": "https://www.qbitai.com/2026/08/473407.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+              "date": "Mon, 17 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "State of Open Models: Summer 2026 Observations",
+              "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+              "date": "Fri, 14 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+              "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What We Learned by Reproducing 2,200 papers from ICML",
+              "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+              "date": "Wed, 12 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+              "date": "Wed, 12 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+              "date": "Tue, 11 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+              "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+              "date": "Mon, 10 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
