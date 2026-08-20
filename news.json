@@ -26390,6 +26390,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-20",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜台积电先进封装CoWoS产能供不应求，订单爆满；小米新一代人形机器人剧透：双足、1.7米左右、全身66个自由度；《全民医疗保障“十五五”规划》发布",
+              "url": "https://36kr.com/p/3946071336287361?f=rss",
+              "date": "2026-08-19"
+            },
+            {
+              "source": "36氪",
+              "title": "从矿山到动力电池｜清研精准第二个具身智能垂类中试场景落地",
+              "url": "https://36kr.com/p/3946264412339335?f=rss",
+              "date": "2026-08-19"
+            },
+            {
+              "source": "36氪",
+              "title": "美债到5%，吓坏了AI投资者",
+              "url": "https://36kr.com/p/3946058108370057?f=rss",
+              "date": "2026-08-19"
+            },
+            {
+              "source": "36氪",
+              "title": "科氪 | 当AI走进厨房，老板电器加速迈向AI烹饪科技企业",
+              "url": "https://36kr.com/p/3945943299783812?f=rss",
+              "date": "2026-08-19"
+            },
+            {
+              "source": "36氪",
+              "title": "对话宇树早期投资人：未来具身赛道可能只有三家过得好，十家过得去，剩下的活不下去｜硬氪专访",
+              "url": "https://36kr.com/p/3942012454419592?f=rss",
+              "date": "2026-08-19"
+            },
+            {
+              "source": "36氪",
+              "title": "平安好医生：企业健管稳健增长，AI业务兑现业绩",
+              "url": "https://36kr.com/p/3945024705657988?f=rss",
+              "date": "2026-08-18"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报 ｜小米集团二季度智能电动汽车及AI等创新业务收入249亿元；百度二季度总营收313亿元，AI业务收入占比连续过半；我国在量子技术国际标准领域取得新进展",
+              "url": "https://36kr.com/p/3944909708393602?f=rss",
+              "date": "2026-08-18"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI称ChatGPT.com注册和登录功能无法使用，正在修复中",
+              "url": "https://36kr.com/newsflashes/3947135767100551?f=rss",
+              "date": "2026-08-20"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：国产算力订单预期清晰度有望进一步增强，建议关注国产算力产业链头部厂商",
+              "url": "https://36kr.com/newsflashes/3947135105842564?f=rss",
+              "date": "2026-08-20"
+            },
+            {
+              "source": "36氪",
+              "title": "中金：AI算力驱动迭代，服务器液冷泵开启新增长极",
+              "url": "https://36kr.com/newsflashes/3947110766017664?f=rss",
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "国产液电混驱超人形机器人首秀：身高达 4 米，突破从公斤级到千吨级力量限制",
+              "url": "https://www.ithome.com/0/991/899.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "ChatGPT 突发全球大规模服务中断，OpenAI 称正在修复",
+              "url": "https://www.ithome.com/0/991/891.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "自动化采血机器人 Aletta 获 FDA 批准上市，采血成功率不输人工",
+              "url": "https://www.ithome.com/0/991/890.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "CounterPoint 称智能眼镜、智能戒指和智能吊坠将成可穿戴设备增长最快品类",
+              "url": "https://www.ithome.com/0/991/889.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+              "url": "https://www.ithome.com/0/991/886.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片",
+              "url": "https://www.ithome.com/0/991/876.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "古尔曼：苹果带摄像头的 AirPods Pro 3 增强版耳机延至 2027 年发布",
+              "url": "https://www.ithome.com/0/991/874.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面",
+              "url": "https://www.ithome.com/0/991/871.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
+              "url": "https://www.ithome.com/0/991/868.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写",
+              "url": "https://www.ithome.com/0/991/866.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+              "url": "https://www.qbitai.com/2026/08/475931.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+              "url": "https://www.qbitai.com/2026/08/475907.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+              "url": "https://www.qbitai.com/2026/08/475901.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "MiniMax核心工程负责人阿岛离职",
+              "url": "https://www.qbitai.com/2026/08/475869.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+              "url": "https://www.qbitai.com/2026/08/475477.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑",
+              "url": "https://www.qbitai.com/2026/08/475460.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
+              "url": "https://www.qbitai.com/2026/08/475332.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "郭富城换车，30万级顶配华为全家桶",
+              "url": "https://www.qbitai.com/2026/08/475009.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
+              "url": "https://www.qbitai.com/2026/08/474907.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
+              "url": "https://www.qbitai.com/2026/08/474868.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "网易传媒发布&#8221;蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+              "url": "https://www.qbitai.com/2026/08/474857.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
+              "url": "https://www.qbitai.com/2026/08/474838.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+              "url": "https://huggingface.co/blog/LiquidAI/qad",
+              "date": "Wed, 19 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Much Memory Does Your Agent Actually Need?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+              "date": "Tue, 18 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+              "url": "https://huggingface.co/blog/multi-vector-encoder",
+              "date": "Tue, 18 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+              "date": "Mon, 17 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "State of Open Models: Summer 2026 Observations",
+              "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+              "date": "Fri, 14 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+              "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What We Learned by Reproducing 2,200 papers from ICML",
+              "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+              "date": "Wed, 12 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
