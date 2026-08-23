@@ -27009,6 +27009,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-23",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "都是谁在买WRC上的机器人啊！",
+              "url": "https://36kr.com/p/3950374720306563?f=rss",
+              "date": "2026-08-22"
+            },
+            {
+              "source": "36氪",
+              "title": "9点1氪丨有医院能领结婚证了，与婚前检查无缝衔接；阿里巴巴发布财报，2027财年Q1营收2690亿；OpenAI进一步开放Codex的底层能力",
+              "url": "https://36kr.com/p/3949992200928641?f=rss",
+              "date": "2026-08-22"
+            },
+            {
+              "source": "36氪",
+              "title": "氪星晚报｜中科曙光超节点产品亮相安徽算力大会；广州市中级人民法院依法受理恒大地产集团有限公司破产清算案；科大讯飞：将于今年全球1024开发者节推出全新主力通用大模型",
+              "url": "https://36kr.com/p/3946071687921026?f=rss",
+              "date": "2026-08-21"
+            },
+            {
+              "source": "36氪",
+              "title": "东山精密加码AI光芯片光模块扩产，项目总投资上调至17亿美元",
+              "url": "https://36kr.com/newsflashes/3950182513884297?f=rss",
+              "date": "2026-08-22"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI将GPT-5.6 Sol模型API定价下调两成以上",
+              "url": "https://36kr.com/newsflashes/3950062675377280?f=rss",
+              "date": "2026-08-22"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
+              "url": "https://www.ithome.com/0/993/136.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
+              "url": "https://www.ithome.com/0/993/133.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "哈佛商学院推出 699 美元创业训练营，讲师 AI 数字分身提供路演反馈",
+              "url": "https://www.ithome.com/0/993/131.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役",
+              "url": "https://www.ithome.com/0/993/126.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业",
+              "url": "https://www.ithome.com/0/993/124.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "凯迪拉克全新 XT5 PHEV 首秀成都车展：Momenta R7 世界模型，预计 9 月初上市",
+              "url": "https://www.ithome.com/0/993/123.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "利用 AI 合成虚假影像骚扰他人，四川一男子被行拘",
+              "url": "https://www.ithome.com/0/993/110.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "中诚华隆 HL200 推理芯片发布：能效比 5.12 TFLOPS/W、集群最高可扩展至万卡",
+              "url": "https://www.ithome.com/0/993/108.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "全球首款全自主打网球机器人亮相，与运动员开展人机混双对打",
+              "url": "https://www.ithome.com/0/993/107.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚“冰丝带”，666 支队伍竞技 51 赛项",
+              "url": "https://www.ithome.com/0/993/105.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+              "url": "https://www.qbitai.com/2026/08/477253.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+              "url": "https://www.qbitai.com/2026/08/477246.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+              "url": "https://www.qbitai.com/2026/08/477155.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+              "url": "https://www.qbitai.com/2026/08/477090.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+              "url": "https://www.qbitai.com/2026/08/476965.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+              "url": "https://www.qbitai.com/2026/08/476930.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+              "url": "https://www.qbitai.com/2026/08/476778.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+              "url": "https://www.qbitai.com/2026/08/476733.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+              "url": "https://www.qbitai.com/2026/08/476628.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+              "url": "https://www.qbitai.com/2026/08/476596.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+              "url": "https://www.qbitai.com/2026/08/476591.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
+              "url": "https://www.qbitai.com/2026/08/476532.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Measuring benchmark optimization in speech recognition",
+              "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+              "date": "Thu, 20 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Much Memory Does Your Agent Actually Need?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+              "date": "Tue, 18 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+              "url": "https://huggingface.co/blog/multi-vector-encoder",
+              "date": "Tue, 18 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+              "date": "Mon, 17 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "State of Open Models: Summer 2026 Observations",
+              "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+              "date": "Fri, 14 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+              "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What We Learned by Reproducing 2,200 papers from ICML",
+              "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+              "date": "Thu, 13 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
