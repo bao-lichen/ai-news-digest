@@ -27485,6 +27485,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-25",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨“敌敌畏消杀餐厅”事件已成立联合调查组；小鹏机器人首轮融资超9亿美元；东方甄选薪酬少发4个亿",
+              "url": "https://36kr.com/p/3954181545753728?f=rss",
+              "date": "2026-08-25"
+            },
+            {
+              "source": "36氪",
+              "title": "对话昆仑行创始人任庚：车企做具身，未来入场是“战略必然”，现在切入是“战术投机”",
+              "url": "https://36kr.com/p/3953725993991560?f=rss",
+              "date": "2026-08-25"
+            },
+            {
+              "source": "36氪",
+              "title": "字节探索自动驾驶， Seed世界模型团队负责｜36氪独家",
+              "url": "https://36kr.com/p/3953699726343556?f=rss",
+              "date": "2026-08-24"
+            },
+            {
+              "source": "36氪",
+              "title": "这场AI大赛上，年轻人把「人味」拉满了",
+              "url": "https://36kr.com/p/3953254092062085?f=rss",
+              "date": "2026-08-24"
+            },
+            {
+              "source": "36氪",
+              "title": "独家 | 字节AI 生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 \"豆包工作\"",
+              "url": "https://36kr.com/p/3953230805876099?f=rss",
+              "date": "2026-08-24"
+            },
+            {
+              "source": "36氪",
+              "title": "李泽湘投过的商业园林机器人完成数千万融资，瞄准海外绿地智能运维｜硬氪首发",
+              "url": "https://36kr.com/p/3947977664347270?f=rss",
+              "date": "2026-08-24"
+            },
+            {
+              "source": "36氪",
+              "title": "AI时代，长视频要换增长逻辑",
+              "url": "https://36kr.com/p/3952907050613888?f=rss",
+              "date": "2026-08-24"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪专访丨公司退市、裁员10万人，前掌门教育CEO创业家庭机器人，获10亿融资",
+              "url": "https://36kr.com/p/3952867368648073?f=rss",
+              "date": "2026-08-24"
+            },
+            {
+              "source": "36氪",
+              "title": "中金：超节点重塑国产算力，海外AI高景气延续",
+              "url": "https://36kr.com/newsflashes/3954186049322376?f=rss",
+              "date": "2026-08-25"
+            },
+            {
+              "source": "36氪",
+              "title": "中航成飞：西安电测机器人业务上半年快速增长，但对公司整体业绩贡献仍较低",
+              "url": "https://36kr.com/newsflashes/3954216311438727?f=rss",
+              "date": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "京东快递升级校园寄递服务：2026 暑假期间新增 400 个校园服务站、千所高校已部署智能寄件设备",
+              "url": "https://www.ithome.com/0/993/808.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "200 亿美元收购成果落地：英伟达 Groq 3 LPX 机架全面量产，今年上线",
+              "url": "https://www.ithome.com/0/993/803.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软 AI 智能体系统 Aion 曝光：以 Copilot 为核心、重塑桌面体验",
+              "url": "https://www.ithome.com/0/993/798.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克：SpaceX 计划明年第四季度发射搭载英伟达芯片的 AI 卫星",
+              "url": "https://www.ithome.com/0/993/796.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称智能戒指厂商 Oura 拟下月赴美 IPO，目标估值超 160 亿美元",
+              "url": "https://www.ithome.com/0/993/793.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0825：2026 胡润中国品牌榜发布；成都减灾所就预警偏差致歉；小米明确二手手机等产品不属三包范围；小米玄戒 O3、O100、D100 三款自研芯片发布...",
+              "url": "https://www.ithome.com/0/993/792.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "佳明旗下 Fenix 9/Pro 智能手表曝光：可选半反半透屏太阳能充电版本",
+              "url": "https://www.ithome.com/0/993/787.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "研究团队调查发现超七成英语生物医学论文已使用 AI 辅助写作，呼吁业界建立完善监管机制",
+              "url": "https://www.ithome.com/0/993/781.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 AI 服务器内部结构首曝：M5 系列芯片、2U 机架，Mac Studio 负责软件控制",
+              "url": "https://www.ithome.com/0/993/778.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查",
+              "url": "https://www.ithome.com/0/993/777.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+              "url": "https://www.qbitai.com/2026/08/478675.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+              "url": "https://www.qbitai.com/2026/08/478670.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+              "url": "https://www.qbitai.com/2026/08/478568.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+              "url": "https://www.qbitai.com/2026/08/478473.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+              "url": "https://www.qbitai.com/2026/08/478469.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
+              "url": "https://www.qbitai.com/2026/08/478447.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+              "url": "https://www.qbitai.com/2026/08/478427.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+              "url": "https://www.qbitai.com/2026/08/478421.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+              "url": "https://www.qbitai.com/2026/08/478358.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身创业里的香港教授们",
+              "url": "https://www.qbitai.com/2026/08/478289.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+              "url": "https://www.qbitai.com/2026/08/478234.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+              "url": "https://www.qbitai.com/2026/08/478191.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Measuring benchmark optimization in speech recognition",
+              "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+              "date": "Thu, 20 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Much Memory Does Your Agent Actually Need?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+              "date": "Tue, 18 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+              "url": "https://huggingface.co/blog/multi-vector-encoder",
+              "date": "Tue, 18 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+              "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+              "date": "Mon, 17 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "State of Open Models: Summer 2026 Observations",
+              "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+              "date": "Fri, 14 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+              "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+              "date": "Thu, 13 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "What We Learned by Reproducing 2,200 papers from ICML",
+              "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+              "date": "Thu, 13 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
