@@ -27997,6 +27997,198 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-27",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "AI时代的《旅行青蛙》，这款产品正在给出一个新答案",
+              "url": "https://36kr.com/p/3956380165684352?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨苹果宣布9月9日发布首款折叠式手机；英伟达预计下一财年销售额将增长约70%；西藏泥石流已造成265人失联3人遇难",
+              "url": "https://36kr.com/p/3957017574030727?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "中颖电子：当前半导体行业呈现AI与非AI两极分化",
+              "url": "https://36kr.com/newsflashes/3957064828451969?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达正在洽谈以超过130亿美元收购Hugging Face",
+              "url": "https://36kr.com/newsflashes/3957054935760007?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "银行变身“算力伯乐”：Token消耗成为科创企业授信新变量",
+              "url": "https://36kr.com/newsflashes/3957054765612162?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达：AI算力供给短缺格局至少延续至2028财年末",
+              "url": "https://36kr.com/newsflashes/3957040718314880?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达：伴随产品涨价落地与新一代高毛利产品放量，2028财年毛利率将修复至72%-73%",
+              "url": "https://36kr.com/newsflashes/3957040039689606?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：千亿项目全链条落地，国产算力产业链迎来明确增长机遇",
+              "url": "https://36kr.com/newsflashes/3957044825734529?f=rss",
+              "date": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+              "url": "https://www.qbitai.com/2026/08/479919.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI视频应用井喷，美图打开新的增长空间",
+              "url": "https://www.qbitai.com/2026/08/479895.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+              "url": "https://www.qbitai.com/2026/08/479811.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+              "url": "https://www.qbitai.com/2026/08/479834.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
+              "url": "https://www.qbitai.com/2026/08/479808.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
+              "url": "https://www.qbitai.com/2026/08/479634.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+              "url": "https://www.qbitai.com/2026/08/479631.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
+              "url": "https://www.qbitai.com/2026/08/479320.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+              "url": "https://www.qbitai.com/2026/08/479314.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "开源国产8B模型，比肩闭源Image 2了！",
+              "url": "https://www.qbitai.com/2026/08/479192.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+              "url": "https://www.qbitai.com/2026/08/479096.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+              "url": "https://www.qbitai.com/2026/08/478996.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+              "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+              "date": "Wed, 26 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.2 LLMs: How They&apos;re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+              "url": "https://huggingface.co/blog/gradio-workflow-guide",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+              "url": "https://huggingface.co/blog/pwc-search",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Measuring benchmark optimization in speech recognition",
+              "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+              "date": "Thu, 20 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Much Memory Does Your Agent Actually Need?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+              "date": "Tue, 18 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
