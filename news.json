@@ -28189,6 +28189,253 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-28",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "科氪｜34 克、全天候 AI，1996 元起，雷鸟 iO 热卖加速智能眼镜全民普及",
+              "url": "https://36kr.com/p/3957837582286217?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "科大讯飞中报里的AI商业化进度条",
+              "url": "https://36kr.com/p/3957597360438656?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "业绩快报｜安踏体育也做AI了",
+              "url": "https://36kr.com/p/3957560779292037?f=rss",
+              "date": "2026-08-27"
+            },
+            {
+              "source": "36氪",
+              "title": "软银关联企业 DigitalBridge，收购澳大利亚智能电表业务",
+              "url": "https://36kr.com/newsflashes/3958471809416583?f=rss",
+              "date": "2026-08-28"
+            },
+            {
+              "source": "36氪",
+              "title": "科技股调整并非单一美债驱动，AI远期定价成核心博弈主线",
+              "url": "https://36kr.com/newsflashes/3958459437071488?f=rss",
+              "date": "2026-08-28"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：CSP与运营商资本开支共振，关注国内算力基础设施链",
+              "url": "https://36kr.com/newsflashes/3958454138223744?f=rss",
+              "date": "2026-08-28"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI发布公开信，呼吁采取网络防御行动",
+              "url": "https://36kr.com/newsflashes/3958445287570566?f=rss",
+              "date": "2026-08-28"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "华为 Watch GT 7 Pro 智能手表今日开售：21 天续航，2688 元",
+              "url": "https://www.ithome.com/0/995/360.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Omdia 报告：2026 年 Q2 东南亚智能手机市场出货量下降 23%，创 2014 年以来最低水平",
+              "url": "https://www.ithome.com/0/995/354.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高 4K 分辨率",
+              "url": "https://www.ithome.com/0/995/352.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 M6 Mac mini 细节：支持 Thread 智能家居协议，预装 macOS 27 系统",
+              "url": "https://www.ithome.com/0/995/348.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI、微软、谷歌等 116 家公司发联名信，呼吁高度重视 AI 时代的网络安全",
+              "url": "https://www.ithome.com/0/995/346.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "规避反垄断审查，消息称英伟达暂停与多家 AI 公司的收益分成协议",
+              "url": "https://www.ithome.com/0/995/341.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌出手应对 AI“吃内存”，将为安卓 App 内存占用等指标设立新门槛",
+              "url": "https://www.ithome.com/0/995/320.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "驰援西藏吉隆：阿里巴巴追加 1000 万捐款，第二批物资今晚送达",
+              "url": "https://www.ithome.com/0/995/318.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "雷鸟 iO 智能眼镜官宣搭载恒玄科技 BES2800 芯片：6nm 工艺，集成双模蓝牙和低功耗 Wi-Fi 6",
+              "url": "https://www.ithome.com/0/995/309.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Hugging Face 推出新款鸭形机器人：能捡东西、拥有独特音色，399 美元",
+              "url": "https://www.ithome.com/0/995/306.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+              "url": "https://www.qbitai.com/2026/08/480079.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+              "url": "https://www.qbitai.com/2026/08/480005.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+              "url": "https://www.qbitai.com/2026/08/480001.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+              "url": "https://www.qbitai.com/2026/08/479919.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI视频应用井喷，美图打开新的增长空间",
+              "url": "https://www.qbitai.com/2026/08/479895.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+              "url": "https://www.qbitai.com/2026/08/479811.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+              "url": "https://www.qbitai.com/2026/08/479834.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
+              "url": "https://www.qbitai.com/2026/08/479808.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
+              "url": "https://www.qbitai.com/2026/08/479634.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+              "url": "https://www.qbitai.com/2026/08/479631.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
+              "url": "https://www.qbitai.com/2026/08/479320.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+              "url": "https://www.qbitai.com/2026/08/479314.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+              "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+              "date": "Wed, 26 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.2 LLMs: How They&apos;re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+              "url": "https://huggingface.co/blog/gradio-workflow-guide",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+              "url": "https://huggingface.co/blog/pwc-search",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Measuring benchmark optimization in speech recognition",
+              "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+              "date": "Thu, 20 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Much Memory Does Your Agent Actually Need?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+              "date": "Tue, 18 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
