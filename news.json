@@ -28689,6 +28689,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-30",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "拿下中石油体系超百台订单，这家公司为特危化场景提供“巡操一体”机器人丨36氪首发",
+              "url": "https://36kr.com/p/3959929849642113?f=rss",
+              "date": "2026-08-29"
+            },
+            {
+              "source": "36氪",
+              "title": "「聚焦太空内生价值」，算力上天的中国路径与现实切口｜OpenTalk回顾",
+              "url": "https://36kr.com/p/3959033085459844?f=rss",
+              "date": "2026-08-28"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪专访丨几百个投资人不想投的光芯片公司，现在估值快200亿了",
+              "url": "https://36kr.com/p/3958587575975049?f=rss",
+              "date": "2026-08-28"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发｜上科大团队做具身世界模型基础设施，完成千万美元种子轮融资",
+              "url": "https://36kr.com/p/3957651741949056?f=rss",
+              "date": "2026-08-28"
+            },
+            {
+              "source": "36氪",
+              "title": "国家数据局：算力网与“五张网”形成深度耦合",
+              "url": "https://36kr.com/newsflashes/3960186927856775?f=rss",
+              "date": "2026-08-29"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%",
+              "url": "https://www.ithome.com/0/996/073.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Digitimes 称 M6 是苹果 2nm 探路先锋，服务 A20 Pro 芯片量产落地",
+              "url": "https://www.ithome.com/0/996/071.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "少 1 个展开步骤：部分谷歌搜索测试默认进入 AI 模式，下移传统蓝链搜索结果",
+              "url": "https://www.ithome.com/0/996/062.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
+              "url": "https://www.ithome.com/0/996/058.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+              "url": "https://www.ithome.com/0/996/057.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+              "url": "https://www.ithome.com/0/996/053.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "韩国政府计划向全体国民提供免费 AI 服务",
+              "url": "https://www.ithome.com/0/996/050.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 RTX 5090 显卡供电接口熔毁怎么避免？超频团队直接将电源线焊在 PCB 上",
+              "url": "https://www.ithome.com/0/996/045.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软 Win11 原生 WinUI 框架现已开源",
+              "url": "https://www.ithome.com/0/996/042.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+              "url": "https://www.ithome.com/0/996/041.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+              "url": "https://www.qbitai.com/2026/08/481372.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+              "url": "https://www.qbitai.com/2026/08/481075.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+              "url": "https://www.qbitai.com/2026/08/480940.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenClaw：红过，爱过，散了",
+              "url": "https://www.qbitai.com/2026/08/480855.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+              "url": "https://www.qbitai.com/2026/08/480787.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
+              "url": "https://www.qbitai.com/2026/08/480591.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "首款癌症疫苗，一针300万？？？",
+              "url": "https://www.qbitai.com/2026/08/480557.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+              "url": "https://www.qbitai.com/2026/08/480482.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+              "url": "https://www.qbitai.com/2026/08/480487.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
+              "url": "https://www.qbitai.com/2026/08/480236.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+              "url": "https://www.qbitai.com/2026/08/480227.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+              "url": "https://www.qbitai.com/2026/08/480223.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+              "date": "Fri, 28 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+              "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+              "date": "Wed, 26 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.2 LLMs: How They&apos;re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+              "url": "https://huggingface.co/blog/gradio-workflow-guide",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+              "url": "https://huggingface.co/blog/pwc-search",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Measuring benchmark optimization in speech recognition",
+              "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+              "date": "Thu, 20 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
