@@ -29171,6 +29171,204 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-01",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨片仔癀市值蒸发超2100亿；苹果换帅，特努斯接替库克任苹果CEO；Anthropic签署由英伟达支持的350亿美元云计算协议",
+              "url": "https://36kr.com/p/3964101092236803?f=rss",
+              "date": "2026-09-01"
+            },
+            {
+              "source": "36氪",
+              "title": "最前线｜本地大模型 StartLux-27B 通过 MCP-Universe 测评：综合第二，多项专项第一",
+              "url": "https://36kr.com/p/3963345222147335?f=rss",
+              "date": "2026-08-31"
+            },
+            {
+              "source": "36氪",
+              "title": "超千万元天使轮融资落定！ 深圳神奕科技有限公司：AI融合BCI，让脑机智能普惠大众",
+              "url": "https://36kr.com/p/3963142866369923?f=rss",
+              "date": "2026-08-31"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发｜中科大团队做太空智能计算平台获超亿元融资，博华、经纬、高瓴等联合押注",
+              "url": "https://36kr.com/p/3958987031133568?f=rss",
+              "date": "2026-08-31"
+            },
+            {
+              "source": "36氪",
+              "title": "拿下中石油体系超百台订单，这家公司为特危化场景提供“巡操一体”机器人丨36氪首发",
+              "url": "https://36kr.com/p/3959929849642113?f=rss",
+              "date": "2026-08-29"
+            },
+            {
+              "source": "36氪",
+              "title": "百度宣布于香港联交所主板双重主要上市",
+              "url": "https://36kr.com/newsflashes/3964144899316999?f=rss",
+              "date": "2026-09-01"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：AI液冷、测试设备、算力新技术、消费电子新品的主题热情有望升温",
+              "url": "https://36kr.com/newsflashes/3964131385286152?f=rss",
+              "date": "2026-09-01"
+            },
+            {
+              "source": "36氪",
+              "title": "从主题投资到行业价值兑现，人形机器人产业链盈利改善信号明显",
+              "url": "https://36kr.com/newsflashes/3964119275953411?f=rss",
+              "date": "2026-09-01"
+            },
+            {
+              "source": "36氪",
+              "title": "算力需求释放价值红利，上市公司竞逐先进封装",
+              "url": "https://36kr.com/newsflashes/3964103496588544?f=rss",
+              "date": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+              "url": "https://www.qbitai.com/2026/08/481928.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+              "url": "https://www.qbitai.com/2026/08/481923.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+              "url": "https://www.qbitai.com/2026/08/481919.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+              "url": "https://www.qbitai.com/2026/08/481893.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+              "url": "https://www.qbitai.com/2026/08/481759.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+              "url": "https://www.qbitai.com/2026/08/481750.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+              "url": "https://www.qbitai.com/2026/08/481475.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+              "url": "https://www.qbitai.com/2026/08/481372.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+              "url": "https://www.qbitai.com/2026/08/481075.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+              "url": "https://www.qbitai.com/2026/08/480940.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenClaw：红过，爱过，散了",
+              "url": "https://www.qbitai.com/2026/08/480855.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+              "url": "https://www.qbitai.com/2026/08/480787.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+              "date": "Fri, 28 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+              "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+              "date": "Wed, 26 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite 4.2 LLMs: How They&apos;re Built",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+              "url": "https://huggingface.co/blog/gradio-workflow-guide",
+              "date": "Tue, 25 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+              "url": "https://huggingface.co/blog/pwc-search",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Measuring benchmark optimization in speech recognition",
+              "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+              "date": "Fri, 21 Au"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+              "date": "Thu, 20 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
