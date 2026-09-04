@@ -29815,6 +29815,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-04",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨字节跳动被曝获近300亿美元贷款；OpenAI正式发布GPT-6 Astra；英伟达129.3亿美元收购Hugging Face",
+              "url": "https://36kr.com/p/3968346621751812?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "杭州小团队做了台「AI对讲机」，3天众筹了1000%",
+              "url": "https://36kr.com/p/3967445813468681?f=rss",
+              "date": "2026-09-03"
+            },
+            {
+              "source": "36氪",
+              "title": "腾讯WorkBuddy开放平台上线 Agent向更多工作场景延伸",
+              "url": "https://36kr.com/p/3966701687905536?f=rss",
+              "date": "2026-09-03"
+            },
+            {
+              "source": "36氪",
+              "title": "特朗普据悉就设立全国性AI监管机构征求扎克伯格意见，后者表示反对",
+              "url": "https://36kr.com/newsflashes/3968388294324483?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "Thinking Machines Lab据悉寻求以400亿美元估值融资10亿美元，英伟达或追加投资",
+              "url": "https://36kr.com/newsflashes/3968379830071816?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI将召集安全领域负责人，筹备网络安全相关公告",
+              "url": "https://36kr.com/newsflashes/3968373978902786?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "ChatGPT、Grok、Claude集体宕机后服务现已恢复",
+              "url": "https://36kr.com/newsflashes/3968369458721025?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "DeepMind与谷歌研究院推出WeatherNext 3全球气象AI模型",
+              "url": "https://36kr.com/newsflashes/3968362581520646?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "全国首套，先导智能GW级PEM电解槽（湿膜工艺）自动化组装产线发货",
+              "url": "https://36kr.com/newsflashes/3968359613805064?f=rss",
+              "date": "2026-09-04"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "微软给 Copilot AI 智能体加“刹车”：发邮件等操作可先请求审批",
+              "url": "https://www.ithome.com/0/998/252.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+              "url": "https://www.ithome.com/0/998/248.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "开源音频编辑器 Audacity 4.0 发布：Qt 重构界面，改用 .aup4 格式",
+              "url": "https://www.ithome.com/0/998/245.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软最强转录 AI 模型：MAI-Transcribe-2 登场，60 语种平均词错误率 5.2%",
+              "url": "https://www.ithome.com/0/998/241.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 RTX Spark N1X 超级芯片在移动端提供 5120 核 GPU + 18 核 CPU 低配",
+              "url": "https://www.ithome.com/0/998/240.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "铭凡确认 AI 迷你工作站 MS-S1 MAX-P495 九月开售",
+              "url": "https://www.ithome.com/0/998/236.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0904：ChatGPT、Claude 和 Grok 集体宕机近 4 小时；微信回应“好友超 1 万可查看单删好友”；时隔 6 年华为国行 5G 回归；微短剧统一标识苔花标发布...",
+              "url": "https://www.ithome.com/0/998/234.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "HTC 为旗下 AI 智能眼镜 VIVE Eagle 新增全新圆框款式，系列产品同步升级支持 3K 分辨率录像等功能",
+              "url": "https://www.ithome.com/0/998/232.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达开源发布 PAIR：本地跑 AI 新方案，调度 Mac / RTX PC 跨设备推理",
+              "url": "https://www.ithome.com/0/998/229.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "篮球模拟游戏《NBA 2K27》今日发售：Steam 国区 298 元起，首发支持英伟达 DLSS5",
+              "url": "https://www.ithome.com/0/998/224.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+              "url": "https://www.qbitai.com/2026/09/483948.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+              "url": "https://www.qbitai.com/2026/09/483898.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+              "url": "https://www.qbitai.com/2026/09/483786.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+              "url": "https://www.qbitai.com/2026/09/483565.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+              "url": "https://www.qbitai.com/2026/09/483552.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+              "url": "https://www.qbitai.com/2026/09/483462.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "今年最难的机器人Demo，“机器人含量”为0",
+              "url": "https://www.qbitai.com/2026/09/483351.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+              "url": "https://www.qbitai.com/2026/09/483274.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+              "url": "https://www.qbitai.com/2026/09/483104.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+              "url": "https://www.qbitai.com/2026/09/483101.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+              "url": "https://www.qbitai.com/2026/09/483097.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+              "url": "https://www.qbitai.com/2026/09/482652.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "url": "https://huggingface.co/blog/train-to-paint-with-code",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+              "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+              "date": "Wed, 02 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+              "url": "https://huggingface.co/blog/allenai/benchmirt",
+              "date": "Tue, 01 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+              "url": "https://huggingface.co/blog/webgpu-kernels",
+              "date": "Tue, 01 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+              "date": "Fri, 28 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
