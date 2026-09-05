@@ -30074,6 +30074,198 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-05",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "🌟 拒绝单打独斗，来线下“抓”活的AI搭子！36氪AI·OPC全国奇幻漂流发车",
+              "url": "https://36kr.com/p/3968954216821248?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "IFA 2026前线｜蓝海赛道下的内卷现实，科沃斯如何回答全球化与具身智能考题",
+              "url": "https://36kr.com/p/3968822489198851?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "Agent做医生“首席助理”：看片速度快，人机协作仍是最优解",
+              "url": "https://36kr.com/p/3968685170700801?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨字节跳动被曝获近300亿美元贷款；OpenAI正式发布GPT-6 Astra；英伟达129.3亿美元收购Hugging Face",
+              "url": "https://36kr.com/p/3968346621751812?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "热门中概股美股盘前多数上涨，百度涨超2%",
+              "url": "https://36kr.com/newsflashes/3969108120777225?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "沙特人工智能公司推出中企开发的阿拉伯语大模型",
+              "url": "https://36kr.com/newsflashes/3969048191480320?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "龙版传媒：AI视频业务对业绩无显著影响",
+              "url": "https://36kr.com/newsflashes/3969036678361347?f=rss",
+              "date": "2026-09-04"
+            },
+            {
+              "source": "36氪",
+              "title": "美格智能：拟认缴7000万元设立合资公司暨关联交易",
+              "url": "https://36kr.com/newsflashes/3969025537176068?f=rss",
+              "date": "2026-09-04"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+              "url": "https://www.qbitai.com/2026/09/484547.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+              "url": "https://www.qbitai.com/2026/09/484437.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+              "url": "https://www.qbitai.com/2026/09/484293.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+              "url": "https://www.qbitai.com/2026/09/484163.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+              "url": "https://www.qbitai.com/2026/09/484159.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+              "url": "https://www.qbitai.com/2026/09/484155.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+              "url": "https://www.qbitai.com/2026/09/483984.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+              "url": "https://www.qbitai.com/2026/09/483598.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+              "url": "https://www.qbitai.com/2026/09/483948.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+              "url": "https://www.qbitai.com/2026/09/483898.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+              "url": "https://www.qbitai.com/2026/09/483786.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+              "url": "https://www.qbitai.com/2026/09/483565.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "url": "https://huggingface.co/blog/train-to-paint-with-code",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+              "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+              "date": "Wed, 02 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+              "url": "https://huggingface.co/blog/allenai/benchmirt",
+              "date": "Tue, 01 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+              "url": "https://huggingface.co/blog/webgpu-kernels",
+              "date": "Tue, 01 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+              "date": "Fri, 28 Au"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
