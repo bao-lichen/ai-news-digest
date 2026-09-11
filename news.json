@@ -31506,6 +31506,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-11",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨英伟达被调查；罗永浩连用7个“抄的”吐槽苹果折叠屏；欧洲央行将三大关键利率上调25个基点",
+              "url": "https://36kr.com/p/3978247601601280?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "一年融3轮，哈工程海洋工程团队「工至海洋」打造深海机器人，已获亿元意向订单 | 水下项目",
+              "url": "https://36kr.com/p/3977372742250756?f=rss",
+              "date": "2026-09-10"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪直击IFA——AI硬件不再只会回答问题",
+              "url": "https://36kr.com/p/3975817977868549?f=rss",
+              "date": "2026-09-10"
+            },
+            {
+              "source": "36氪",
+              "title": "成立不到一年，AI潮玩品牌「IPTAG」完成千万级战略融资｜36氪首发",
+              "url": "https://36kr.com/p/3977219182342401?f=rss",
+              "date": "2026-09-10"
+            },
+            {
+              "source": "36氪",
+              "title": "一年卖出数十万台E-bike后，这家公司要做AI移动出行｜36氪首发",
+              "url": "https://36kr.com/p/3976975660511751?f=rss",
+              "date": "2026-09-10"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：上半年算力链业绩高增，软硬件表现分化",
+              "url": "https://36kr.com/newsflashes/3978281855367936?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "工信部印发《“人工智能+软件”专项行动实施方案》",
+              "url": "https://36kr.com/newsflashes/3978287306718211?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI宣布暂停ChatGPT Pro 200美元套餐新增订阅，已订用户不受影响",
+              "url": "https://36kr.com/newsflashes/3978274201975558?f=rss",
+              "date": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "工信部印发“AI + 软件”专项行动实施方案：支持软件企业与智能手机、智能家居、智能网联汽车等终端厂商联合创新",
+              "url": "https://www.ithome.com/1/001/103.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "ChatGPT、Claude、Gemini 与 Grok 谈 AI 风险：滥用比主动攻击更现实，生物武器与网络攻击比《终结者》杀手机器人更迫近",
+              "url": "https://www.ithome.com/1/001/102.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 扩大实时语音模型能力：GPT-Live-1 上线 API，支持打断处理、工具调用和电话语音智能体",
+              "url": "https://www.ithome.com/1/001/091.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "环球音乐与 ElevenLabs 达成合作，共同打造授权人工智能音乐平台",
+              "url": "https://www.ithome.com/1/001/089.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克 SpaceXAI 团队将直播用 Grok Bot 从零开始建立一家公司，从创意构思、产品开发到实际工作部署",
+              "url": "https://www.ithome.com/1/001/088.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 watchOS 27 RC 更新日志：新增 Siri Modular 表盘、优化智能叠放",
+              "url": "https://www.ithome.com/1/001/086.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称索尼 PlayStation 实时服务型游戏《Fairgames$》更换马甲，以全新代号“Project Espresso”亮相",
+              "url": "https://www.ithome.com/1/001/083.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "你只是怕了：美国高官公开驳斥 Anthropic“AI 末日论”，称担忧源于对技术革命的恐惧",
+              "url": "https://www.ithome.com/1/001/080.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "商汤科技 AI 办公智能体“小浣熊”移动端 App 上线，提供苹果 iOS / 安卓版本",
+              "url": "https://www.ithome.com/1/001/079.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "“AI 教父”辛顿：AI 灾难越来越近，10% 概率灭掉人类不是危言耸听",
+              "url": "https://www.ithome.com/1/001/076.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+              "url": "https://www.qbitai.com/2026/09/486900.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+              "url": "https://www.qbitai.com/2026/09/486747.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+              "url": "https://www.qbitai.com/2026/09/486716.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+              "url": "https://www.qbitai.com/2026/09/486684.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+              "url": "https://www.qbitai.com/2026/09/486651.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+              "url": "https://www.qbitai.com/2026/09/486436.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+              "url": "https://www.qbitai.com/2026/09/486450.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球疯狂「抢单」，中国智驾黑马浮现：蒋京芳为何选择neueHCT？",
+              "url": "https://www.qbitai.com/2026/09/487015.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+              "url": "https://www.qbitai.com/2026/09/486370.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+              "url": "https://www.qbitai.com/2026/09/486288.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+              "url": "https://www.qbitai.com/2026/09/486052.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "宜宾，一场机器人“招聘会”的产业雄心",
+              "url": "https://www.qbitai.com/2026/09/486038.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+              "url": "https://huggingface.co/blog/gradio-workflow-1111",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+              "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+              "date": "Wed, 09 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+              "date": "Tue, 08 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "url": "https://huggingface.co/blog/train-to-paint-with-code",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+              "url": "https://huggingface.co/blog/allenai/benchmirt",
+              "date": "Tue, 01 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
