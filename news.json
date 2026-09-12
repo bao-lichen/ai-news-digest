@@ -31759,6 +31759,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-12",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "和梁文锋师出同门，浙大00后做世界模型，将再融10亿元｜36氪首发",
+              "url": "https://36kr.com/p/3978921197140998?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "不评判好坏，只鼓励创作：这款AI原生游戏，让人人都享受讲故事",
+              "url": "https://36kr.com/p/3978711556684805?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "「星测未来」连续完成两轮数亿元融资：37张先进制程GPU稳定在轨运行，布局首个云端协同太空算力星座「扶摇计划」",
+              "url": "https://36kr.com/p/3978756821842688?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨英伟达被调查；罗永浩连用7个“抄的”吐槽苹果折叠屏；欧洲央行将三大关键利率上调25个基点",
+              "url": "https://36kr.com/p/3978247601601280?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "一年融3轮，哈工程海洋工程团队「工至海洋」打造深海机器人，已获亿元意向订单 | 水下项目",
+              "url": "https://36kr.com/p/3977372742250756?f=rss",
+              "date": "2026-09-10"
+            },
+            {
+              "source": "36氪",
+              "title": "浪潮信息：拟定增募资不超90亿元投建AI基础设施等项目",
+              "url": "https://36kr.com/newsflashes/3978913441889281?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "爱仕达：具身智能机器人业务尚处于起步阶段，已形成销售收入仅13.72万元",
+              "url": "https://36kr.com/newsflashes/3978906311408384?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "2连板中新赛克：AI应用产品营收占公司整体营收不超过公司上半年营收的2%",
+              "url": "https://36kr.com/newsflashes/3978905492192257?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "国常会：进一步完善算力基础设施，积极推进关键技术和装备研发应用",
+              "url": "https://36kr.com/newsflashes/3978912529005319?f=rss",
+              "date": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "第三方公司基于三星 Galaxy Watch 8 打造 Bark Watch 儿童手表，内置 AI 风险监测功能",
+              "url": "https://www.ithome.com/1/001/505.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "国补后 3499 元起，全新一代华为 MatePad Air / 悦享款平板电脑今日开售",
+              "url": "https://www.ithome.com/1/001/503.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达为 G-Sync Pulsar 显示器推送 1.1.10 固件，240Hz 下 MPRT 响应速度可降至 0.97ms",
+              "url": "https://www.ithome.com/1/001/502.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "DeepSeek 开口说话了：灰度测试 AI 语音对话，支持四种音色",
+              "url": "https://www.ithome.com/1/001/498.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
+              "url": "https://www.ithome.com/1/001/497.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0912：央视曝光 AI 中转站低价灰产；新版充电宝 3C 认证标准落地；36.9 万起特斯拉 Model Y 高性能版上市；哪吒汽车拟获 30 亿元偿债重整...",
+              "url": "https://www.ithome.com/1/001/495.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 承认其 AI 智能体曾对 Ruby 语言包管理器 RubyGems 发起网络攻击",
+              "url": "https://www.ithome.com/1/001/492.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "冲刺史上最大 IPO：英伟达正洽谈为 Anthropic 投资至多 100 亿美元",
+              "url": "https://www.ithome.com/1/001/488.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
+              "url": "https://www.ithome.com/1/001/485.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "2026 年度《时代》杂志全球最佳企业榜单公布：英伟达位居第一、苹果重返排名前三",
+              "url": "https://www.ithome.com/1/001/483.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+              "url": "https://www.qbitai.com/2026/09/487631.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+              "url": "https://www.qbitai.com/2026/09/487573.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不简单，“吃货快乐榜”也全面AI化了",
+              "url": "https://www.qbitai.com/2026/09/487282.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+              "url": "https://www.qbitai.com/2026/09/487273.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+              "url": "https://www.qbitai.com/2026/09/487176.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+              "url": "https://www.qbitai.com/2026/09/487163.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+              "url": "https://www.qbitai.com/2026/09/487092.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+              "url": "https://www.qbitai.com/2026/09/486900.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+              "url": "https://www.qbitai.com/2026/09/486747.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+              "url": "https://www.qbitai.com/2026/09/486716.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+              "url": "https://www.qbitai.com/2026/09/486684.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+              "url": "https://www.qbitai.com/2026/09/486651.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+              "url": "https://huggingface.co/blog/gradio-workflow-1111",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+              "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+              "date": "Wed, 09 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+              "date": "Tue, 08 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "url": "https://huggingface.co/blog/train-to-paint-with-code",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+              "url": "https://huggingface.co/blog/allenai/benchmirt",
+              "date": "Tue, 01 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
