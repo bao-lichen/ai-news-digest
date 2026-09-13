@@ -32018,6 +32018,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-13",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "外滩大会：AI新人类，登场",
+              "url": "https://36kr.com/p/3980309439265793?f=rss",
+              "date": "2026-09-12"
+            },
+            {
+              "source": "36氪",
+              "title": "情感智能珠宝硬件公司完成天使轮融资，荣耀AI Connect生态企业等押注｜硬氪首发",
+              "url": "https://36kr.com/p/3977590035119112?f=rss",
+              "date": "2026-09-12"
+            },
+            {
+              "source": "36氪",
+              "title": "和梁文锋师出同门，浙大00后做世界模型，将再融10亿元｜36氪首发",
+              "url": "https://36kr.com/p/3978921197140998?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "不评判好坏，只鼓励创作：这款AI原生游戏，让人人都享受讲故事",
+              "url": "https://36kr.com/p/3978711556684805?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "「星测未来」连续完成两轮数亿元融资：37张先进制程GPU稳定在轨运行，布局首个云端协同太空算力星座「扶摇计划」",
+              "url": "https://36kr.com/p/3978756821842688?f=rss",
+              "date": "2026-09-11"
+            },
+            {
+              "source": "36氪",
+              "title": "中国银行启动“一网三融”算力金融生态共建行动",
+              "url": "https://36kr.com/newsflashes/3980073056500741?f=rss",
+              "date": "2026-09-12"
+            },
+            {
+              "source": "36氪",
+              "title": "陶哲轩等25位菲尔兹奖得主警告：AI与数学研究目标严重错位",
+              "url": "https://36kr.com/newsflashes/3979862818569223?f=rss",
+              "date": "2026-09-12"
+            },
+            {
+              "source": "36氪",
+              "title": "中国算力平台实现全国一体化算力统筹监测",
+              "url": "https://36kr.com/newsflashes/3979862276209665?f=rss",
+              "date": "2026-09-12"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "绿联海外发布 Nexode Air Slim 100W 超薄充电器，2C+1A",
+              "url": "https://www.ithome.com/1/001/698.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0913：央视探访无堂食外卖后厨看到店员徒手抓烤鸡；全国多所高校买商品房当学生宿舍；DeepSeek 灰度测试 AI 语音对话；“支付宝假 App”上热搜...",
+              "url": "https://www.ithome.com/1/001/688.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
+              "url": "https://www.ithome.com/1/001/685.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "A20 Pro 芯片 AI 跑分曝光：苹果 iPhone 18 Pro NPU 较前代最高增幅 51.53%",
+              "url": "https://www.ithome.com/1/001/675.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "奥尔特曼确认：OpenAI 今年不会上市",
+              "url": "https://www.ithome.com/1/001/669.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "荣耀公布 SmallRig 专业视频拓展套件：适配 Magic9 Pro Max，9 月 28 日发布",
+              "url": "https://www.ithome.com/1/001/657.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "算力词元贷加速全国推广，支持机房建设、GPU 服务器集群采购",
+              "url": "https://www.ithome.com/1/001/656.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板",
+              "url": "https://www.ithome.com/1/001/653.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic CEO 阿莫迪称 AI 行业应当放缓发展速度，并承诺让第三方评估机构获得员工级访问权限",
+              "url": "https://www.ithome.com/1/001/651.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token",
+              "url": "https://www.ithome.com/1/001/650.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+              "url": "https://www.qbitai.com/2026/09/487860.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+              "url": "https://www.qbitai.com/2026/09/487796.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+              "url": "https://www.qbitai.com/2026/09/487701.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+              "url": "https://www.qbitai.com/2026/09/487631.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+              "url": "https://www.qbitai.com/2026/09/487573.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不简单，“吃货快乐榜”也全面AI化了",
+              "url": "https://www.qbitai.com/2026/09/487282.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+              "url": "https://www.qbitai.com/2026/09/487273.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+              "url": "https://www.qbitai.com/2026/09/487176.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+              "url": "https://www.qbitai.com/2026/09/487163.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+              "url": "https://www.qbitai.com/2026/09/487092.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+              "url": "https://www.qbitai.com/2026/09/486934.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+              "url": "https://www.qbitai.com/2026/09/486900.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+              "url": "https://huggingface.co/blog/gradio-workflow-1111",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+              "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+              "date": "Wed, 09 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+              "date": "Tue, 08 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "url": "https://huggingface.co/blog/train-to-paint-with-code",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+              "url": "https://huggingface.co/blog/allenai/benchmirt",
+              "date": "Tue, 01 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
