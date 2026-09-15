@@ -32524,6 +32524,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-15",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨选手赛中失禁污染赛道，HYROX中国宣布整改；机构预计美股明年将暴跌21%；苹果推出Siri人工智能",
+              "url": "https://36kr.com/p/3983906594257667?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "最前线丨从消费电子到AIoT生态，绿联的产品边界突围",
+              "url": "https://36kr.com/p/3983259337800710?f=rss",
+              "date": "2026-09-14"
+            },
+            {
+              "source": "36氪",
+              "title": "中控技术俞海斌：AI，驱动流程工业的下一站 | 36氪 2026产业未来大会",
+              "url": "https://36kr.com/p/3978416117464071?f=rss",
+              "date": "2026-09-14"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪项目推荐周榜｜从AI算力到智能硬件，本周TOP10项目正在寻找下一增长曲线",
+              "url": "https://36kr.com/p/3982971072707332?f=rss",
+              "date": "2026-09-14"
+            },
+            {
+              "source": "36氪",
+              "title": "28年老牌高尔夫科技公司，自研AI模拟器，营收数亿｜Insight全球",
+              "url": "https://36kr.com/p/3962843190738311?f=rss",
+              "date": "2026-09-14"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨创始人及员工被恶意造谣，月之暗面：已报案；25位菲尔兹奖得主就AI侵入数学联合发出警告；智谱宣布融资50亿美元",
+              "url": "https://36kr.com/p/3982504266349314?f=rss",
+              "date": "2026-09-14"
+            },
+            {
+              "source": "36氪",
+              "title": "微软首席执行官纳德拉向员工发布有关人工智能安全的内部警示",
+              "url": "https://36kr.com/newsflashes/3983953928797184?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "三星参与荷兰AI芯片初创公司Euclyd的2亿欧元融资",
+              "url": "https://36kr.com/newsflashes/3983944036072192?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "Waymo计划于2027年在东京推出自动驾驶网约车服务",
+              "url": "https://36kr.com/newsflashes/3983933047683846?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "谷歌允许所有工程师使用Anthropic的Claude",
+              "url": "https://36kr.com/newsflashes/3983925410740997?f=rss",
+              "date": "2026-09-15"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "AI-eSIM 团体标准编制启动，中国移动 / 联通 / 电信三大运营商参与",
+              "url": "https://www.ithome.com/1/002/375.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "联想来酷斗战者 AI NAS 900 系列私有云主机开售：飞牛 fnOS 系统，6999 元起",
+              "url": "https://www.ithome.com/1/002/373.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "请更新：苹果 iOS / iPadOS 27 共修复 126 个安全漏洞，百度等团队参与贡献",
+              "url": "https://www.ithome.com/1/002/368.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 对 Instagram 应用 AI 修图功能新增付费限制，需订阅 Meta One 会员使用",
+              "url": "https://www.ithome.com/1/002/366.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic Claude Opus 5.2 灰度测试曝光：响应更快，告别“偷懒”",
+              "url": "https://www.ithome.com/1/002/365.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0915：苹果 iOS / iPadOS 27.0 正式版发布；荣耀 Magic9 超能版官宣 11000mAh 电池；一汽成广汽第二大股东；曝追觅 6 至 8 月离职裁员约 1 万人...",
+              "url": "https://www.ithome.com/1/002/364.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "CG3M 版微星 Claw 8 EX AI+ 掌机曝光：10 核 Xe3，最高 90 INT8 TOPS",
+              "url": "https://www.ithome.com/1/002/363.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "曝 Glass Imaging 被 OpenAI 收购：前苹果员工创办，其影像技术已用于荣耀手机",
+              "url": "https://www.ithome.com/1/002/359.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "代码显示：苹果 Siri AI 可替换为 Anthropic Claude 或 OpenAI ChatGPT",
+              "url": "https://www.ithome.com/1/002/353.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 iOS 27 家庭 AI 功能强制捆绑 2TB 及以上 iCloud+ 套餐：单摄像头月费 9.99 美元、五摄像头 59.99 美元，引 iPhone 用户不满",
+              "url": "https://www.ithome.com/1/002/348.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+              "url": "https://www.qbitai.com/2026/09/489105.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+              "url": "https://www.qbitai.com/2026/09/489106.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+              "url": "https://www.qbitai.com/2026/09/489037.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "分子之心QuantaMind登Science Advances，让AI给分子世界&#8221;拍电影&#8221;",
+              "url": "https://www.qbitai.com/2026/09/489023.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+              "url": "https://www.qbitai.com/2026/09/488912.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+              "url": "https://www.qbitai.com/2026/09/488875.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+              "url": "https://www.qbitai.com/2026/09/488832.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+              "url": "https://www.qbitai.com/2026/09/488725.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+              "url": "https://www.qbitai.com/2026/09/488699.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智谱提前剧透下一代GLM：完全自训练方法公开了",
+              "url": "https://www.qbitai.com/2026/09/488694.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+              "url": "https://www.qbitai.com/2026/09/488672.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+              "url": "https://www.qbitai.com/2026/09/487860.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+              "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+              "url": "https://huggingface.co/blog/gradio-workflow-1111",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+              "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+              "date": "Wed, 09 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+              "date": "Tue, 08 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "url": "https://huggingface.co/blog/train-to-paint-with-code",
+              "date": "Thu, 03 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
