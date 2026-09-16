@@ -32789,6 +32789,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-16",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨8月一线城市房价上涨；携程上架510万一张的太空旅行船票；字节跳动上半年净利润出现下滑，但海外收入占比再创新高",
+              "url": "https://36kr.com/p/3985321952115717?f=rss",
+              "date": "2026-09-16"
+            },
+            {
+              "source": "36氪",
+              "title": "科氪｜荣耀发布行业首个系统级Agent Harness架构操作系统MagicOS 11  Magic9首发搭载",
+              "url": "https://36kr.com/p/3984824416467976?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "豆包手机明日开卖，AI能帮你操作App了吗？",
+              "url": "https://36kr.com/p/3984764117007111?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "企业案例分享：玉盘量智-离子阱量子计算芯片化集成工程实践 | 36氪 2026产业未来大会",
+              "url": "https://36kr.com/p/3984525481786120?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "芯视界创始人、董事长兼首席科学家鲍捷：十年产业实践，量子感知芯片为物理AI打开物质世界 \"感知入口\" | 2026年36氪产业未来大会",
+              "url": "https://36kr.com/p/3984510448319492?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "圆桌：落地·量子计算的场景涌现——如果量子算力明天就可用，谁会第一个买单 | 36氪 2026产业未来大会",
+              "url": "https://36kr.com/p/3984504530615299?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "圆桌：智能向实，产业向新——AI如何进入真实世界 | 36氪 2026产业未来大会",
+              "url": "https://36kr.com/p/3984496514759689?f=rss",
+              "date": "2026-09-15"
+            },
+            {
+              "source": "36氪",
+              "title": "Meta扎克伯格：保障AI安全应依靠评估人员，而非放缓AI",
+              "url": "https://36kr.com/newsflashes/3985350490979072?f=rss",
+              "date": "2026-09-16"
+            },
+            {
+              "source": "36氪",
+              "title": "Meta据报将推出无摄像头AI眼镜，代号“Luna”",
+              "url": "https://36kr.com/newsflashes/3985332526594822?f=rss",
+              "date": "2026-09-16"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "OpenAI GPT-5.5 将于 10 月 14 日下线：覆盖 ChatGPT 与 Codex，官方建议迁移至新模型",
+              "url": "https://www.ithome.com/1/002/858.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "因丈夫常拍不出理想照片，前 TikTok 高管推出 AI 摆拍姿势相机应用 Superpose",
+              "url": "https://www.ithome.com/1/002/857.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 扎克伯格：保障 AI 安全应依靠引入独立外部评估，而不是放缓 AI 发展",
+              "url": "https://www.ithome.com/1/002/854.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "全球首富马斯克谈 AI 安全：主张交叉测试，让对手来“挑刺”",
+              "url": "https://www.ithome.com/1/002/851.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 奥尔特曼称 AI 行业自律可守住安全底线",
+              "url": "https://www.ithome.com/1/002/838.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称 Meta 将推出无摄像头的智能眼镜，应对日益加剧的隐私顾虑",
+              "url": "https://www.ithome.com/1/002/837.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "影石 Mic Pro 腾讯会议版 AI 录音领夹麦发布，698 元",
+              "url": "https://www.ithome.com/1/002/835.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达黄仁勋：AI 行业不需要新法律，开发可兼得速度和安全",
+              "url": "https://www.ithome.com/1/002/834.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达黄仁勋受邀出席，微软官宣 10 月 7 日举办 Windows 和 Surface 发布会",
+              "url": "https://www.ithome.com/1/002/832.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 奥尔特曼回应监管：相信行业能安全开发，不会伤害公众",
+              "url": "https://www.ithome.com/1/002/831.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "梁文锋CFO到位！投过智谱MiniMax",
+              "url": "https://www.qbitai.com/2026/09/489707.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+              "url": "https://www.qbitai.com/2026/09/489698.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+              "url": "https://www.qbitai.com/2026/09/489460.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+              "url": "https://www.qbitai.com/2026/09/489389.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+              "url": "https://www.qbitai.com/2026/09/489381.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+              "url": "https://www.qbitai.com/2026/09/489337.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+              "url": "https://www.qbitai.com/2026/09/489288.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+              "url": "https://www.qbitai.com/2026/09/489277.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+              "url": "https://www.qbitai.com/2026/09/489227.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+              "url": "https://www.qbitai.com/2026/09/489105.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+              "url": "https://www.qbitai.com/2026/09/489106.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+              "url": "https://www.qbitai.com/2026/09/489037.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Your Agent Aced the Task. Will It Do It Again?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+              "date": "Tue, 15 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+              "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+              "url": "https://huggingface.co/blog/gradio-workflow-1111",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+              "date": "Tue, 08 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "url": "https://huggingface.co/blog/train-to-paint-with-code",
+              "date": "Thu, 03 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
