@@ -33295,6 +33295,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "两个00后男生，如何凭借AI征服了北美年轻女用户？",
+              "url": "https://36kr.com/p/3987096020384776?f=rss",
+              "date": "2026-09-17"
+            },
+            {
+              "source": "36氪",
+              "title": "圆桌：先进制造：给世界工厂装一颗AI大脑 | 36氪 2026产业未来大会",
+              "url": "https://36kr.com/p/3986931112836096?f=rss",
+              "date": "2026-09-17"
+            },
+            {
+              "source": "36氪",
+              "title": "融资火爆、仿真鸿沟、数据缺口：一份2026年具身智能产业体检报告",
+              "url": "https://36kr.com/p/3986852938283785?f=rss",
+              "date": "2026-09-17"
+            },
+            {
+              "source": "36氪",
+              "title": "以小博大，一家AI4S水下公司的野心",
+              "url": "https://36kr.com/p/3985879828478981?f=rss",
+              "date": "2026-09-17"
+            },
+            {
+              "source": "36氪",
+              "title": "Vertical Data与英伟达宣布在加拿大部署价值1.89亿加元的人工智能基础设施",
+              "url": "https://36kr.com/newsflashes/3988200181070853?f=rss",
+              "date": "2026-09-18"
+            },
+            {
+              "source": "36氪",
+              "title": "韩国斗山拟投资9700亿韩元扩产AI芯片材料",
+              "url": "https://36kr.com/newsflashes/3988195579853577?f=rss",
+              "date": "2026-09-18"
+            },
+            {
+              "source": "36氪",
+              "title": "英国国王召集AI峰会，黄仁勋：监管产品而非技术",
+              "url": "https://36kr.com/newsflashes/3988186217708291?f=rss",
+              "date": "2026-09-18"
+            },
+            {
+              "source": "36氪",
+              "title": "SpaceX AI部门拟购破产初创公司数据训练Grok模型，标志数据策略转向",
+              "url": "https://36kr.com/newsflashes/3988179586120710?f=rss",
+              "date": "2026-09-18"
+            },
+            {
+              "source": "36氪",
+              "title": "亚马逊：Amazon Connect正从单一产品扩展为一套包含四项智能体AI解决方案的产品组合",
+              "url": "https://36kr.com/newsflashes/3988151424957443?f=rss",
+              "date": "2026-09-18"
+            },
+            {
+              "source": "36氪",
+              "title": "参议员要求调查沃尔玛、亚马逊机器人的“美国制造”相关数据",
+              "url": "https://36kr.com/newsflashes/3988150586817543?f=rss",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "微软及 OpenAI 内部文件曝光：高管曾警告 AI 可能对新闻机构产生“毁灭性影响”",
+              "url": "https://www.ithome.com/1/003/908.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌最强 AI 模型：Gemini 4 Pro 开测，SVG 生图表现惊艳",
+              "url": "https://www.ithome.com/1/003/902.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "联想 Vantage 外设管理应用登陆谷歌 Googlebook 平台，意外曝光自家 AI Mouse 智能鼠标新品",
+              "url": "https://www.ithome.com/1/003/900.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 被指控“为赚钱不择手段”：明知威胁出版商生存，仍大量侵权",
+              "url": "https://www.ithome.com/1/003/897.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 披露 GPT-5.6 Sol 异常行为：AI 模型会留下指令要求“未来版本的自己”隐瞒自身错误",
+              "url": "https://www.ithome.com/1/003/896.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "特斯拉推送 2026.26.200.11 软件更新：为更多车型上线豆包大模型语音助手",
+              "url": "https://www.ithome.com/1/003/895.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称 Steam 平台山寨游戏泛滥，爆款独立作品遭其他开发者利用 AI 快速复制",
+              "url": "https://www.ithome.com/1/003/893.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "吴恩达谈 AI 灭绝论：堪比科幻小说，新一波造势或意在影响监管",
+              "url": "https://www.ithome.com/1/003/892.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "距离 AI 造 AI 还有多远？Anthropic Claude 已主导 26% 内部 AI 研发工作",
+              "url": "https://www.ithome.com/1/003/886.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "开发者成功令英伟达 DLSS 5 在浏览器里运行，苹果 macOS 也可体验",
+              "url": "https://www.ithome.com/1/003/885.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "Manus重生第17天，估值居然就翻倍了",
+              "url": "https://www.qbitai.com/2026/09/491764.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+              "url": "https://www.qbitai.com/2026/09/491711.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude Code团队讲究啊，这都往外说",
+              "url": "https://www.qbitai.com/2026/09/491596.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+              "url": "https://www.qbitai.com/2026/09/491522.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+              "url": "https://www.qbitai.com/2026/09/491454.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+              "url": "https://www.qbitai.com/2026/09/491391.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，唐杰发布智谱RSI首个成果",
+              "url": "https://www.qbitai.com/2026/09/491357.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克睡进工地！为AI基建拼了",
+              "url": "https://www.qbitai.com/2026/09/491280.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
+              "url": "https://www.qbitai.com/2026/09/491147.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
+              "url": "https://www.qbitai.com/2026/09/491062.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
+              "url": "https://www.qbitai.com/2026/09/490974.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
+              "url": "https://www.qbitai.com/2026/09/490950.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Your Agent Aced the Task. Will It Do It Again?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+              "date": "Tue, 15 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+              "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+              "url": "https://huggingface.co/blog/gradio-workflow-1111",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+              "date": "Tue, 08 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "url": "https://huggingface.co/blog/train-to-paint-with-code",
+              "date": "Thu, 03 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
