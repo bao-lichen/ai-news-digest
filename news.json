@@ -34054,6 +34054,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨“电子工业大米”价格飙涨；报告显示农村彩礼均值降至3.86万元；特朗普要给“人工智能”改名",
+              "url": "https://36kr.com/p/3992398887926784?f=rss",
+              "date": "2026-09-21"
+            },
+            {
+              "source": "36氪",
+              "title": "大模型，开始集体变小",
+              "url": "https://36kr.com/p/3991436755057415?f=rss",
+              "date": "2026-09-20"
+            },
+            {
+              "source": "36氪",
+              "title": "主题演讲：掌阅 · AI短剧出海｜36氪2026 East Forward 出海大会",
+              "url": "https://36kr.com/p/3991133875616771?f=rss",
+              "date": "2026-09-20"
+            },
+            {
+              "source": "36氪",
+              "title": "从智能硬件到宠物数字生命体，这家公司正在构建AI驱动的宠物智能生态｜36氪首发",
+              "url": "https://36kr.com/p/3991141712903171?f=rss",
+              "date": "2026-09-20"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨拿下国内航空航天装配机器人近70%份额，国产大飞机制造设备供应商获数千万元融资",
+              "url": "https://36kr.com/p/3991119011052291?f=rss",
+              "date": "2026-09-20"
+            },
+            {
+              "source": "36氪",
+              "title": "算力网开启一体化调度周期，实现Token规模化降本",
+              "url": "https://36kr.com/newsflashes/3992448383433731?f=rss",
+              "date": "2026-09-21"
+            },
+            {
+              "source": "36氪",
+              "title": "银河证券：产业韧性凸显，美联储加息不改AI长期逻辑",
+              "url": "https://36kr.com/newsflashes/3992438700342274?f=rss",
+              "date": "2026-09-21"
+            },
+            {
+              "source": "36氪",
+              "title": "韩国本月前20天出口创历史新高，芯片出口飙升近260%",
+              "url": "https://36kr.com/newsflashes/3992426770676487?f=rss",
+              "date": "2026-09-21"
+            },
+            {
+              "source": "36氪",
+              "title": "智谱回应数据隐私争议：ZCode即将正式开源，并开展安全审计",
+              "url": "https://36kr.com/newsflashes/3992423724416005?f=rss",
+              "date": "2026-09-21"
+            },
+            {
+              "source": "36氪",
+              "title": "彩讯股份：签订不低于18.12亿元算力技术服务合同",
+              "url": "https://36kr.com/newsflashes/3992411648343047?f=rss",
+              "date": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "Rokid 新一代乐奇 AI 眼镜 9 月 24 日数贸会发布",
+              "url": "https://www.ithome.com/1/005/042.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达显卡底层细节揭秘：包含数十个 RISC-V 核心，甚至已接管图形驱动执行",
+              "url": "https://www.ithome.com/1/005/039.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "我国首款藏语多语言全模态 AI 输入法发布，覆盖手机、电脑等全终端",
+              "url": "https://www.ithome.com/1/005/027.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局",
+              "url": "https://www.ithome.com/1/005/026.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "B站完成鸿蒙穿戴版开发，上线华为 WATCH 全智能手表应用市场 App Gallery",
+              "url": "https://www.ithome.com/1/005/022.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，部分人士意在摆脱现有法律约束",
+              "url": "https://www.ithome.com/1/005/017.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "日产第 14 代 Skyline 轿车将于 12 月亮相：利用 AI 缩短开发周期，预计搭载 3.0 升涡轮增压 V6 发动机",
+              "url": "https://www.ithome.com/1/005/015.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "贾跃亭的法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元",
+              "url": "https://www.ithome.com/1/005/010.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "古尔曼：苹果最快下月推出智能家居屏幕设备，iPhone Duo 专属手写笔计划夭折",
+              "url": "https://www.ithome.com/1/005/009.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "台电 T60 Mini 8.8 英寸小平板开售：支持 4G 插卡通话、紫光展锐 T7300 芯片，899 元",
+              "url": "https://www.ithome.com/1/005/007.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+              "url": "https://www.qbitai.com/2026/09/492973.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+              "url": "https://www.qbitai.com/2026/09/493068.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+              "url": "https://www.qbitai.com/2026/09/492946.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+              "url": "https://www.qbitai.com/2026/09/492939.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+              "url": "https://www.qbitai.com/2026/09/492912.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
+              "url": "https://www.qbitai.com/2026/09/492873.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+              "url": "https://www.qbitai.com/2026/09/492849.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“留给人类阻止AI的时间不多了”",
+              "url": "https://www.qbitai.com/2026/09/492755.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+              "url": "https://www.qbitai.com/2026/09/492661.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+              "url": "https://www.qbitai.com/2026/09/492573.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+              "url": "https://www.qbitai.com/2026/09/492550.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+              "url": "https://www.qbitai.com/2026/09/492501.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Your Agent Aced the Task. Will It Do It Again?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+              "date": "Tue, 15 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+              "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+              "url": "https://huggingface.co/blog/gradio-workflow-1111",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+              "date": "Tue, 08 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "url": "https://huggingface.co/blog/train-to-paint-with-code",
+              "date": "Thu, 03 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
