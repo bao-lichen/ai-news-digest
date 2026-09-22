@@ -34319,6 +34319,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-22",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "AI长剧首次上星，股价连续涨停，芒果TV“用内容做AI”的AIGC逆向实验｜专访",
+              "url": "https://36kr.com/p/3993401668909827?f=rss",
+              "date": "2026-09-22"
+            },
+            {
+              "source": "36氪",
+              "title": "科氪 | 破晓先行，智领未来！华硕商用破晓家族拥抱AI Agent时代",
+              "url": "https://36kr.com/p/3993338830486272?f=rss",
+              "date": "2026-09-22"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达重仓赛道跑出“量产派”选手，OCS整机商「芯信光」完成数千万元Pre-A轮融资｜36氪首发",
+              "url": "https://36kr.com/p/3993019383331844?f=rss",
+              "date": "2026-09-21"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发｜清华博士团队给机器人大脑换了套新架构，已完成千万级天使融资",
+              "url": "https://36kr.com/p/3991565233257221?f=rss",
+              "date": "2026-09-21"
+            },
+            {
+              "source": "36氪",
+              "title": "智能戒指厂商Oura及其投资方拟赴美IPO，募资最高22亿美元",
+              "url": "https://36kr.com/newsflashes/3993856387070979?f=rss",
+              "date": "2026-09-22"
+            },
+            {
+              "source": "36氪",
+              "title": "贝森特将Hugging Face事件归责OpenAI管理层，称责任在人而非AI",
+              "url": "https://36kr.com/newsflashes/3993854832392967?f=rss",
+              "date": "2026-09-22"
+            },
+            {
+              "source": "36氪",
+              "title": "LG与微软扩大在人工智能和数据中心领域的战略合作",
+              "url": "https://36kr.com/newsflashes/3993854075566853?f=rss",
+              "date": "2026-09-22"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达支持的AI制药公司Iambic提交美国IPO申请",
+              "url": "https://36kr.com/newsflashes/3993847709711106?f=rss",
+              "date": "2026-09-22"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：人形机器人关注T链产品发布及量产进展，把握核心供应商布局机会",
+              "url": "https://36kr.com/newsflashes/3993843307068424?f=rss",
+              "date": "2026-09-22"
+            },
+            {
+              "source": "36氪",
+              "title": "标普：银行对人工智能的应用将很快影响它们信用评级",
+              "url": "https://36kr.com/newsflashes/3993845292333827?f=rss",
+              "date": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "AI 编程平台 Bitrig 宣布为苹果 iPhone Duo 引入支持，提供交互式 3D 模拟器供开发者测试应用",
+              "url": "https://www.ithome.com/1/005/513.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0922：闲鱼回应“媒体报道色情引流”；5499 元起 vivo X500 系列手机发布；被质疑“偷传代码”后智谱 ZCode 开源；AMD 市值历史首次突破 1 万亿美元...",
+              "url": "https://www.ithome.com/1/005/506.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "索尼 SIE 申请“AI 自修复系统”专利：利用人工智能实时生成诊断固件以修复 PlayStation 游戏机故障",
+              "url": "https://www.ithome.com/1/005/501.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 宣布成立数学与 AI 顾问组，神秘新模型 24 天攻破 100+ 世界级难题",
+              "url": "https://www.ithome.com/1/005/500.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "2026 上半年全球 AI 眼镜出货量同比大增 263%，“无屏幕”产品占主流",
+              "url": "https://www.ithome.com/1/005/498.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英国消费者权益机构 Citizens Advice：基本服务供应商应停止在客服工作中依赖 AI 聊天机器人",
+              "url": "https://www.ithome.com/1/005/497.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小米 MiMo-V2.6 发布：Pro 与 Flash 双版本价格不变，超越 Kimi K3、GLM-5.3 成为当前 AA 指数排名最高的开源模型",
+              "url": "https://www.ithome.com/1/005/496.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "独立开发者称自己游戏新作遭其他开发商使用 AI 工具 1:1 恶意复刻，双方各执一词",
+              "url": "https://www.ithome.com/1/005/495.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克 SpaceXAI 发布旗下最强编码和知识处理模型 Grok 4.7，百万词元输入 2 美元起",
+              "url": "https://www.ithome.com/1/005/494.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 2026 款 Mac mini 发售：全新 M6 / M5 Pro 芯片，6999 元起",
+              "url": "https://www.ithome.com/1/005/479.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+              "url": "https://www.qbitai.com/2026/09/493268.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+              "url": "https://www.qbitai.com/2026/09/493241.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+              "url": "https://www.qbitai.com/2026/09/493235.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+              "url": "https://www.qbitai.com/2026/09/493231.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+              "url": "https://www.qbitai.com/2026/09/493218.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+              "url": "https://www.qbitai.com/2026/09/493179.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国Neocloud市场第一！商汤大装置全面领跑",
+              "url": "https://www.qbitai.com/2026/09/493175.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+              "url": "https://www.qbitai.com/2026/09/493114.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+              "url": "https://www.qbitai.com/2026/09/493109.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+              "url": "https://www.qbitai.com/2026/09/493091.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+              "url": "https://www.qbitai.com/2026/09/492973.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+              "url": "https://www.qbitai.com/2026/09/493068.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+              "date": "Mon, 21 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "tokenizers v1: encode, decode and scaling, measured",
+              "url": "https://huggingface.co/blog/tokenizers-v1",
+              "date": "Mon, 21 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Your Agent Aced the Task. Will It Do It Again?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+              "date": "Tue, 15 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+              "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+              "url": "https://huggingface.co/blog/gradio-workflow-1111",
+              "date": "Thu, 10 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "url": "https://huggingface.co/blog/Hcompany/neomme",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+              "date": "Thu, 03 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Give Your Coding Agents a Memory You Own",
+              "url": "https://huggingface.co/blog/funes",
+              "date": "Thu, 03 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
