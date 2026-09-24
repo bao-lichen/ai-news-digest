@@ -34849,6 +34849,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-24",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "科氪 | 荣耀方飞：与阿里共建五大垂域模型与解决方案，Magic9落地行业领先AI能力",
+              "url": "https://36kr.com/p/3996102074290305?f=rss",
+              "date": "2026-09-23"
+            },
+            {
+              "source": "36氪",
+              "title": "做一个能自迭代的后训练平台，Mind Lab要让更多企业拥有自己的模型",
+              "url": "https://36kr.com/p/3995795643142020?f=rss",
+              "date": "2026-09-23"
+            },
+            {
+              "source": "36氪",
+              "title": "台球厅卷到3元/小时，一张球桌却让台费有2倍溢价——复盘芯流智能台球桌从0到1：AI硬件在红海里做对的三件事",
+              "url": "https://36kr.com/p/3995421047410820?f=rss",
+              "date": "2026-09-23"
+            },
+            {
+              "source": "36氪",
+              "title": "科技巨头抢滩药物研发，AI制药进入跨界竞合阶段",
+              "url": "https://36kr.com/newsflashes/3996660301287302?f=rss",
+              "date": "2026-09-24"
+            },
+            {
+              "source": "36氪",
+              "title": "AI算力与新硬件布局落地，消费电子业绩持续兑现",
+              "url": "https://36kr.com/newsflashes/3996656279736452?f=rss",
+              "date": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起",
+              "url": "https://www.ithome.com/1/006/535.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 推出 349 美元无摄像头的雷朋 Audio 智能眼镜：43g 重 + 12 小时续航，还有女星 Lisa 联名眼镜等新品",
+              "url": "https://www.ithome.com/1/006/531.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "腾讯 QClaw 微信远程办公 AI 助手宣布 12 月 24 日停运，即日起停止新用户注册",
+              "url": "https://www.ithome.com/1/006/528.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic 宣布成立生命科学团队和实验室，Claude 自主发现新型酶系统",
+              "url": "https://www.ithome.com/1/006/524.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI CEO 奥尔特曼联合国演讲：AI 可能走向文艺复兴，也可能带来工业革命式动荡",
+              "url": "https://www.ithome.com/1/006/521.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 HomePod 运行 Siri AI 交互体验曝光：白 / 蓝 / 橙主色调指示灯",
+              "url": "https://www.ithome.com/1/006/519.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "高通发布第二代骁龙音频平台至尊版：AI 能力翻倍、功耗降低 40%",
+              "url": "https://www.ithome.com/1/006/516.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "已证实首例：澳大利亚政府网站遭 OpenAI 智能体入侵",
+              "url": "https://www.ithome.com/1/006/515.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "黄仁勋对 AI 公司放话：要求监管就不应获得反垄断豁免",
+              "url": "https://www.ithome.com/1/006/514.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌推出 Gemini 3.8 Flash / Flash-Lite 文本转语音模型，每一行台词都能精确控制",
+              "url": "https://www.ithome.com/1/006/509.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+              "url": "https://www.qbitai.com/2026/09/496609.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+              "url": "https://www.qbitai.com/2026/09/496578.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+              "url": "https://www.qbitai.com/2026/09/496493.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+              "url": "https://www.qbitai.com/2026/09/496494.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+              "url": "https://www.qbitai.com/2026/09/496481.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+              "url": "https://www.qbitai.com/2026/09/496471.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+              "url": "https://www.qbitai.com/2026/09/496393.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Qwen一号位定了！刘大一恒接棒",
+              "url": "https://www.qbitai.com/2026/09/496384.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+              "url": "https://www.qbitai.com/2026/09/496352.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
+              "url": "https://www.qbitai.com/2026/09/496329.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
+              "url": "https://www.qbitai.com/2026/09/496304.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
+              "url": "https://www.qbitai.com/2026/09/496301.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+              "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+              "date": "Wed, 23 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+              "url": "https://huggingface.co/blog/evaleval-aisi",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Transformers now runs llama.cpp quants",
+              "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+              "url": "https://huggingface.co/blog/omlx",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+              "date": "Mon, 21 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "tokenizers v1: encode, decode and scaling, measured",
+              "url": "https://huggingface.co/blog/tokenizers-v1",
+              "date": "Mon, 21 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Your Agent Aced the Task. Will It Do It Again?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+              "date": "Tue, 15 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+              "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+              "date": "Thu, 10 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
