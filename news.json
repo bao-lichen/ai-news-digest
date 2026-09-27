@@ -35584,6 +35584,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-27",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
+              "url": "https://36kr.com/p/3998754973749376?f=rss",
+              "date": "2026-09-26"
+            },
+            {
+              "source": "36氪",
+              "title": "模型之外，游戏+AI的下一道门槛在哪里？",
+              "url": "https://36kr.com/p/3997468580958089?f=rss",
+              "date": "2026-09-24"
+            },
+            {
+              "source": "36氪",
+              "title": "AI公司杀进硬件，联想AI平板如何找到存在感？｜最前线",
+              "url": "https://36kr.com/p/3995480853204870?f=rss",
+              "date": "2026-09-24"
+            },
+            {
+              "source": "36氪",
+              "title": "从地下8000米到机器人高温关节，清华系特种功率芯片公司完成数亿元C轮融资｜36氪首发",
+              "url": "https://36kr.com/p/3996805864312961?f=rss",
+              "date": "2026-09-24"
+            },
+            {
+              "source": "36氪",
+              "title": "AI新材料公司获数千万天使轮融资，已合作固态电池与化工龙头丨36氪首发",
+              "url": "https://36kr.com/p/3996737880559493?f=rss",
+              "date": "2026-09-24"
+            },
+            {
+              "source": "36氪",
+              "title": "科氪 | 荣耀方飞：与阿里共建五大垂域模型与解决方案，Magic9落地行业领先AI能力",
+              "url": "https://36kr.com/p/3996102074290305?f=rss",
+              "date": "2026-09-23"
+            },
+            {
+              "source": "36氪",
+              "title": "外交部发言人就人工智能问题答记者问",
+              "url": "https://36kr.com/newsflashes/4000094842769289?f=rss",
+              "date": "2026-09-26"
+            },
+            {
+              "source": "36氪",
+              "title": "AI安全漏洞潮蔓延：Muse被曝两处隐患 Meta拟加强风险提示",
+              "url": "https://36kr.com/newsflashes/4000034032439430?f=rss",
+              "date": "2026-09-26"
+            },
+            {
+              "source": "36氪",
+              "title": "美国一家AI实验室：AI演化出自己的方言",
+              "url": "https://36kr.com/newsflashes/3999814609473416?f=rss",
+              "date": "2026-09-26"
+            },
+            {
+              "source": "36氪",
+              "title": "随着推理需求激增，Fireworks与Fal考虑开启新一轮融资",
+              "url": "https://36kr.com/newsflashes/3999707884802184?f=rss",
+              "date": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "IT早报 0927：微信鸿蒙版 App 安装量破 8000 万；豆包手机助手回应努比亚手机王者荣耀异常；华为大疆联名推出 Pocket 4；OpenAI 暂停最强模型训练...",
+              "url": "https://www.ithome.com/1/007/456.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "七彩虹源 AIR 14 Ultra 轻薄本亮相：960g，X7 358H",
+              "url": "https://www.ithome.com/1/007/452.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "赛力斯回应问界专属专营后是否支持鸿蒙智行独家技术，称将持续应用华为智能化技术并不断迭代升级",
+              "url": "https://www.ithome.com/1/007/448.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+              "url": "https://www.ithome.com/1/007/447.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
+              "url": "https://www.ithome.com/1/007/445.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+              "url": "https://www.ithome.com/1/007/444.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势",
+              "url": "https://www.ithome.com/1/007/443.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "从代码分析到授权争议：一用户用 AI 破解 IDM 引发争议",
+              "url": "https://www.ithome.com/1/007/441.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "荣耀 Magic9 Pro Max 手机搭载自研至臻黑钻屏：反射率 1.5%、峰值亮度 1 万尼特",
+              "url": "https://www.ithome.com/1/007/429.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英国第二大图书馆：牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练",
+              "url": "https://www.ithome.com/1/007/426.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+              "url": "https://www.qbitai.com/2026/09/498478.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+              "url": "https://www.qbitai.com/2026/09/498271.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+              "url": "https://www.qbitai.com/2026/09/497624.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+              "url": "https://www.qbitai.com/2026/09/497425.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+              "url": "https://www.qbitai.com/2026/09/497278.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+              "url": "https://www.qbitai.com/2026/09/497177.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+              "url": "https://www.qbitai.com/2026/09/497108.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+              "url": "https://www.qbitai.com/2026/09/497075.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+              "url": "https://www.qbitai.com/2026/09/497070.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+              "url": "https://www.qbitai.com/2026/09/497060.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+              "url": "https://www.qbitai.com/2026/09/497012.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+              "url": "https://www.qbitai.com/2026/09/496961.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+              "date": "Thu, 24 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+              "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+              "date": "Wed, 23 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+              "url": "https://huggingface.co/blog/evaleval-aisi",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Transformers now runs llama.cpp quants",
+              "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+              "url": "https://huggingface.co/blog/omlx",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+              "date": "Mon, 21 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "tokenizers v1: encode, decode and scaling, measured",
+              "url": "https://huggingface.co/blog/tokenizers-v1",
+              "date": "Mon, 21 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Your Agent Aced the Task. Will It Do It Again?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+              "date": "Tue, 15 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
