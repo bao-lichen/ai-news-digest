@@ -35849,6 +35849,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
+              "url": "https://36kr.com/p/3998754973749376?f=rss",
+              "date": "2026-09-26"
+            },
+            {
+              "source": "36氪",
+              "title": "模型之外，游戏+AI的下一道门槛���哪里？",
+              "url": "https://36kr.com/p/3997468580958089?f=rss",
+              "date": "2026-09-24"
+            },
+            {
+              "source": "36氪",
+              "title": "AI公司杀进硬件，联想AI平板如何找到存在感？｜最前线",
+              "url": "https://36kr.com/p/3995480853204870?f=rss",
+              "date": "2026-09-24"
+            },
+            {
+              "source": "36氪",
+              "title": "从地下8000米到机器人高温关节，清华系特种功率芯片公司完成数亿元C轮融资｜36氪首发",
+              "url": "https://36kr.com/p/3996805864312961?f=rss",
+              "date": "2026-09-24"
+            },
+            {
+              "source": "36氪",
+              "title": "AI新材料公司获数千万天使轮融资，已合作固态电池与化工龙头丨36氪首发",
+              "url": "https://36kr.com/p/3996737880559493?f=rss",
+              "date": "2026-09-24"
+            },
+            {
+              "source": "36氪",
+              "title": "科氪 | 荣耀方飞：与阿里共建五大垂域模型与解决方案，Magic9落地行业领先AI能力",
+              "url": "https://36kr.com/p/3996102074290305?f=rss",
+              "date": "2026-09-23"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：AI产业链仍是中期主线",
+              "url": "https://36kr.com/newsflashes/4002368859099016?f=rss",
+              "date": "2026-09-28"
+            },
+            {
+              "source": "36氪",
+              "title": "澜起科技成功量产DDR5第五子代RCD芯片",
+              "url": "https://36kr.com/newsflashes/4002339060453254?f=rss",
+              "date": "2026-09-28"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：科技股内部优先关注光通信、PCB及部分国产算力龙头",
+              "url": "https://36kr.com/newsflashes/4002321101852552?f=rss",
+              "date": "2026-09-28"
+            },
+            {
+              "source": "36氪",
+              "title": "智能体浪潮席卷证券业，券商密集接入智能体生态",
+              "url": "https://36kr.com/newsflashes/4002298686902400?f=rss",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "澜起科技成功量产 DDR5 第五子代 RCD 芯片，支持 8000 MT/s 速率",
+              "url": "https://www.ithome.com/1/007/647.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Momenta 与神龙科技达成全球战略合作，R7 世界模型将上车标致、Jeep",
+              "url": "https://www.ithome.com/1/007/644.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "得不到就强攻？曝 OpenAI 智能体曾尝试“暴力破解”联合国机构网站",
+              "url": "https://www.ithome.com/1/007/641.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "前苹果 Siri 工程师推出 AI 智能体 szn，可在 iMessage 中与用户互动",
+              "url": "https://www.ithome.com/1/007/634.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0928：爱奇艺辟谣“要求用户看广告不眨眼”；问界新 M8 全系标配 L3 级架构；曝今年各品牌手机暂不支持无网通信；国内首部 AI 院线影片定档...",
+              "url": "https://www.ithome.com/1/007/633.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "安克旗下 eufy 推出“全球首款支持 VR 查看功能的智能门铃”Video Doorbell S4，299.99 美元",
+              "url": "https://www.ithome.com/1/007/627.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "荣耀亲选 AI 投影仪 Ultra 今起首销：1700CVIA 亮度、自研全封闭光机 2.0 技术，国补价 1999 元",
+              "url": "https://www.ithome.com/1/007/621.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "黑客在暗网兜售 AI 模型访问权限，最低价仅有正版 3%",
+              "url": "https://www.ithome.com/1/007/619.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "小米米家智能意式半自动咖啡机 Pro 首销，首发国补价 3395.84 元",
+              "url": "https://www.ithome.com/1/007/615.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "部分 Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”",
+              "url": "https://www.ithome.com/1/007/603.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+              "url": "https://www.qbitai.com/2026/09/498605.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "啥题啊能干崩OpenAI最强模型训练…",
+              "url": "https://www.qbitai.com/2026/09/498546.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+              "url": "https://www.qbitai.com/2026/09/498478.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+              "url": "https://www.qbitai.com/2026/09/498271.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+              "url": "https://www.qbitai.com/2026/09/497624.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+              "url": "https://www.qbitai.com/2026/09/497425.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+              "url": "https://www.qbitai.com/2026/09/497278.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+              "url": "https://www.qbitai.com/2026/09/497177.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+              "url": "https://www.qbitai.com/2026/09/497108.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+              "url": "https://www.qbitai.com/2026/09/497075.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+              "url": "https://www.qbitai.com/2026/09/497070.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+              "url": "https://www.qbitai.com/2026/09/497060.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+              "date": "Thu, 24 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+              "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+              "date": "Wed, 23 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+              "url": "https://huggingface.co/blog/evaleval-aisi",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Transformers now runs llama.cpp quants",
+              "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+              "url": "https://huggingface.co/blog/omlx",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+              "date": "Mon, 21 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "tokenizers v1: encode, decode and scaling, measured",
+              "url": "https://huggingface.co/blog/tokenizers-v1",
+              "date": "Mon, 21 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Your Agent Aced the Task. Will It Do It Again?",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+              "date": "Tue, 15 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
