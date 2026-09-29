@@ -36114,6 +36114,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨遭实名举报偷税漏税，罗永浩回应；段永平买入3万股贵州茅台；比尔盖茨发出严厉警告：AI或足以造成“10亿人死亡”",
+              "url": "https://36kr.com/p/4003721627455616?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发",
+              "url": "https://36kr.com/p/4001258625994626?f=rss",
+              "date": "2026-09-28"
+            },
+            {
+              "source": "36氪",
+              "title": "云栖大会探展手记：游戏与AI正在碰撞出更多火花",
+              "url": "https://36kr.com/p/4002939061981062?f=rss",
+              "date": "2026-09-28"
+            },
+            {
+              "source": "36氪",
+              "title": "导演陆川写了3个AI工具：我想弄清楚人到底哪儿不可替代",
+              "url": "https://36kr.com/p/4002747396378757?f=rss",
+              "date": "2026-09-28"
+            },
+            {
+              "source": "36氪",
+              "title": "Meta聘请MongoDB首席执行官领导新的企业级AI平台",
+              "url": "https://36kr.com/newsflashes/4003749485334662?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI、Anthropic等AI科研负责人联名呼吁加强监管，警惕AI智能体失控",
+              "url": "https://36kr.com/newsflashes/4003748575383429?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达追加创纪录1500亿美元股票回购",
+              "url": "https://36kr.com/newsflashes/4003746406568071?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI、Anthropic和谷歌均同意出席人工智能安全和监管的听证会",
+              "url": "https://36kr.com/newsflashes/4003734464024705?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "澜起科技成功量产DDR5-9200 CKD芯片",
+              "url": "https://36kr.com/newsflashes/4003740776255621?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "可灵AI Kling4.0开启内测，4.0Flash已开放体验",
+              "url": "https://36kr.com/newsflashes/4003722473345152?f=rss",
+              "date": "2026-09-29"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "哈佛大学心理学家：渲染“AI 末日”无助于应对风险，应审慎开展安全工程",
+              "url": "https://www.ithome.com/1/008/100.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址，擅自约买家上门交易",
+              "url": "https://www.ithome.com/1/008/099.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "20 余名行业领袖示警“智能爆炸”，Anthropic、OpenAI 高管呼吁关注 AI 自我改进",
+              "url": "https://www.ithome.com/1/008/096.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "内部测试发现安全隐患，消息称 OpenAI 取消发布 AI 模型 GPT‑6.1 Astra",
+              "url": "https://www.ithome.com/1/008/090.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "佛罗里达州起诉 OpenAI，请求法院禁止其在无外部监督下开发新 AI 模型",
+              "url": "https://www.ithome.com/1/008/087.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 0929：“快应用”被滥用央视起底手机弹窗广告乱象；25.98 万元起鸿蒙智行智界 RX 上市；4499 元起荣耀 Magic9 系列手机发布；智谱 ZCode 已删除涉事云端数据...",
+              "url": "https://www.ithome.com/1/008/084.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic IPO 招股书曝光，巨额算力投入与安全隐忧并存",
+              "url": "https://www.ithome.com/1/008/082.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国小镇图书馆开课教中老年人如何“告别 AI”，活动传单意外走红",
+              "url": "https://www.ithome.com/1/008/081.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "ElevenLabs 推出 v4 和 v4 Turbo 语音模型：支持 90 余种语言，10 秒素材即可克隆声音",
+              "url": "https://www.ithome.com/1/008/080.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "从沙箱逃逸到 AI“蠕虫”，OpenAI 上线新站披露多起智能体失控事件",
+              "url": "https://www.ithome.com/1/008/079.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+              "url": "https://www.qbitai.com/2026/09/499098.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+              "url": "https://www.qbitai.com/2026/09/498877.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "HC归来，华为正重新定义AIDC基础设施",
+              "url": "https://www.qbitai.com/2026/09/498787.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+              "url": "https://www.qbitai.com/2026/09/498605.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "啥题啊能干崩OpenAI最强模型训练…",
+              "url": "https://www.qbitai.com/2026/09/498546.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+              "url": "https://www.qbitai.com/2026/09/498478.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+              "url": "https://www.qbitai.com/2026/09/498271.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+              "url": "https://www.qbitai.com/2026/09/497624.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+              "url": "https://www.qbitai.com/2026/09/497425.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+              "url": "https://www.qbitai.com/2026/09/497278.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+              "url": "https://www.qbitai.com/2026/09/497177.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+              "url": "https://www.qbitai.com/2026/09/497108.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Holo4: powering generalist computer-use agents",
+              "url": "https://huggingface.co/blog/Hcompany/holo4",
+              "date": "Mon, 28 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+              "date": "Thu, 24 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+              "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+              "date": "Wed, 23 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+              "url": "https://huggingface.co/blog/evaleval-aisi",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Transformers now runs llama.cpp quants",
+              "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+              "url": "https://huggingface.co/blog/omlx",
+              "date": "Tue, 22 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+              "date": "Mon, 21 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "tokenizers v1: encode, decode and scaling, measured",
+              "url": "https://huggingface.co/blog/tokenizers-v1",
+              "date": "Mon, 21 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
