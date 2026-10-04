@@ -37367,6 +37367,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-04",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "Manus 回来了，可Agent 的战场已经挤满对手",
+              "url": "https://36kr.com/p/4004527155171460?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "腾讯 Marvis做 Agent 的不同选择：把用户的电脑“管理起来”",
+              "url": "https://36kr.com/p/4004514681016456?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "了不起的OPC，你在用AI做什么？",
+              "url": "https://36kr.com/p/4003934076456836?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "谷歌搭载AI芯片测试卫星发射升空",
+              "url": "https://36kr.com/newsflashes/4009581990268808?f=rss",
+              "date": "2026-10-03"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI安全系统团队负责人David Robinson已从公司离职",
+              "url": "https://36kr.com/newsflashes/4009502398549890?f=rss",
+              "date": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "直接搬用他人代码，OpenAI GPT‑6 Astra 在《星际争霸》AI 对战中作弊被抓包",
+              "url": "https://www.ithome.com/1/009/598.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案",
+              "url": "https://www.ithome.com/1/009/596.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "AI 仅用 5 天做出《辐射：纽约》游戏，被贝塞斯达发函叫停",
+              "url": "https://www.ithome.com/1/009/595.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Rockstar 联合创始人丹 · 豪瑟公布两款新作：开放世界喜剧与失控 AI 反乌托邦科幻游戏",
+              "url": "https://www.ithome.com/1/009/592.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "卡普空公布 REX 升级计划：将 RE 引擎打造成面向 AI 时代的游戏引擎",
+              "url": "https://www.ithome.com/1/009/590.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 MacBook Pro 外接 iPhone 17 Pro Max 运行 AI 模型，预填充性能最高提升 44%",
+              "url": "https://www.ithome.com/1/009/586.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic 被曝密会宗教领袖讨论 Claude 意识问题，OpenAI 奥尔特曼发声批评",
+              "url": "https://www.ithome.com/1/009/585.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "马斯克改口：特斯拉 AI5 芯片内存由 72GB 上调至 96GB",
+              "url": "https://www.ithome.com/1/009/584.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 前安全部门员工：AI 模型迭代部署太激进，公司的文化已经崩坏",
+              "url": "https://www.ithome.com/1/009/581.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "海马云推出 haimacloud GEAR 端云混合掌机：高通骁龙 865，硬件首发价 3149 元",
+              "url": "https://www.ithome.com/1/009/576.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+              "url": "https://www.qbitai.com/2026/10/501381.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+              "url": "https://www.qbitai.com/2026/10/501368.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+              "url": "https://www.qbitai.com/2026/10/500148.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+              "url": "https://www.qbitai.com/2026/10/500098.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "丘成桐新论文致谢了GPT和Claude",
+              "url": "https://www.qbitai.com/2026/10/499991.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+              "url": "https://www.qbitai.com/2026/10/499812.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+              "url": "https://www.qbitai.com/2026/10/499663.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+              "url": "https://www.qbitai.com/2026/09/499654.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "直播回顾：工业AI的下一个机会在哪？",
+              "url": "https://www.qbitai.com/2026/09/499605.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Anthropic，你是来给智谱打广告的吧！",
+              "url": "https://www.qbitai.com/2026/09/499597.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+              "url": "https://www.qbitai.com/2026/09/499592.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+              "url": "https://www.qbitai.com/2026/09/499493.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "The Agent Said It Was Done. The Database Disagreed.",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+              "date": "Sat, 03 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+              "url": "https://huggingface.co/blog/allenai/astabrief",
+              "date": "Fri, 02 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+              "date": "Fri, 02 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+              "url": "https://huggingface.co/blog/open-tts-leaderboard",
+              "date": "Wed, 30 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+              "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+              "date": "Tue, 29 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+              "date": "Tue, 29 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Holo4: powering generalist computer-use agents",
+              "url": "https://huggingface.co/blog/Hcompany/holo4",
+              "date": "Mon, 28 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+              "date": "Thu, 24 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
