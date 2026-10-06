@@ -37849,6 +37849,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-06",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "Rabbit 创始人吕骋：人不该为 Agent 改变思考方式",
+              "url": "https://36kr.com/p/4012726523957380?f=rss",
+              "date": "2026-10-05"
+            },
+            {
+              "source": "36氪",
+              "title": "Manus 回来了，可Agent 的战场已经挤满对手",
+              "url": "https://36kr.com/p/4004527155171460?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "腾讯 Marvis做 Agent 的不同选择：把用户的电脑“管理起来”",
+              "url": "https://36kr.com/p/4004514681016456?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "了不起的OPC，你在用AI做什么？",
+              "url": "https://36kr.com/p/4003934076456836?f=rss",
+              "date": "2026-09-29"
+            },
+            {
+              "source": "36氪",
+              "title": "德国电信：预计到2030年，AI和自动化将节省25亿欧元间接成本",
+              "url": "https://36kr.com/newsflashes/4012625330917504?f=rss",
+              "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam",
+              "url": "https://www.ithome.com/1/009/932.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格",
+              "url": "https://www.ithome.com/1/009/924.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话",
+              "url": "https://www.ithome.com/1/009/921.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "tvOS 27.2 代码显示苹果 Apple TV 4K（第四代）将支持 Siri AI 和 Apple Intelligence",
+              "url": "https://www.ithome.com/1/009/920.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达美股连续 3 天创历史新高，本月市值有望冲击 6 万亿美元",
+              "url": "https://www.ithome.com/1/009/914.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高",
+              "url": "https://www.ithome.com/1/009/904.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
+              "url": "https://www.ithome.com/1/009/903.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 将在 ChatGPT 中推出全新图片广告形式，不会影响生成结果",
+              "url": "https://www.ithome.com/1/009/901.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "卡普空开源 RE:Dox 结构化数据引擎，JSON 反序列化最高提速 2.84 倍",
+              "url": "https://www.ithome.com/1/009/886.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 RTX Spark 笔记本 OLED 屏幕供应商曝光：三星六款、LG 一款",
+              "url": "https://www.ithome.com/1/009/872.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "刚刚，诺贝尔奖颁给光遗传学！",
+              "url": "https://www.qbitai.com/2026/10/501720.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+              "url": "https://www.qbitai.com/2026/10/501700.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI算力硬合作，马斯克还是更相信中国制造",
+              "url": "https://www.qbitai.com/2026/10/501605.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "最火AI岗位FDE：月薪5万，都干这些…",
+              "url": "https://www.qbitai.com/2026/10/501506.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+              "url": "https://www.qbitai.com/2026/10/501451.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+              "url": "https://www.qbitai.com/2026/10/501381.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+              "url": "https://www.qbitai.com/2026/10/501368.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+              "url": "https://www.qbitai.com/2026/10/500148.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+              "url": "https://www.qbitai.com/2026/10/500098.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "丘成桐新论文致谢了GPT和Claude",
+              "url": "https://www.qbitai.com/2026/10/499991.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+              "url": "https://www.qbitai.com/2026/10/499812.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+              "url": "https://www.qbitai.com/2026/10/499663.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "The Agent Said It Was Done. The Database Disagreed.",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+              "date": "Sat, 03 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+              "url": "https://huggingface.co/blog/allenai/astabrief",
+              "date": "Fri, 02 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+              "date": "Fri, 02 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+              "url": "https://huggingface.co/blog/open-tts-leaderboard",
+              "date": "Wed, 30 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+              "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+              "date": "Tue, 29 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+              "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+              "date": "Tue, 29 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Holo4: powering generalist computer-use agents",
+              "url": "https://huggingface.co/blog/Hcompany/holo4",
+              "date": "Mon, 28 Se"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome RL Environments to the hub",
+              "url": "https://huggingface.co/blog/rl-environments",
+              "date": "Mon, 28 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
