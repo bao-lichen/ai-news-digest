@@ -38584,6 +38584,253 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-09",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "让AI走进真实产线，汇川技术2026工博会看点前瞻",
+              "url": "https://36kr.com/p/4016926621470853?f=rss",
+              "date": "2026-10-08"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台",
+              "url": "https://36kr.com/p/4016645063217281?f=rss",
+              "date": "2026-10-08"
+            },
+            {
+              "source": "36氪",
+              "title": "深创投、元禾原点押注一家水下机器人，9个月内已完成5轮融资丨36氪首发",
+              "url": "https://36kr.com/p/4016617284014210?f=rss",
+              "date": "2026-10-08"
+            },
+            {
+              "source": "36氪",
+              "title": "Anthropic宣布禁止“虐待”其旗下AI",
+              "url": "https://36kr.com/newsflashes/4017915074023560?f=rss",
+              "date": "2026-10-09"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达投资的Lumentum：光器件产能订单已排至2029年",
+              "url": "https://36kr.com/newsflashes/4017910933721222?f=rss",
+              "date": "2026-10-09"
+            },
+            {
+              "source": "36氪",
+              "title": "39只智能体概念股获机构积极评级",
+              "url": "https://36kr.com/newsflashes/4017894147543175?f=rss",
+              "date": "2026-10-09"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达拟投资芯片对手d-Matrix",
+              "url": "https://36kr.com/newsflashes/4017885020868743?f=rss",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "字节 Seed 团队发现 DeepSeek“抽风”原因，长上下文可能性能漂移",
+              "url": "https://www.ithome.com/1/010/780.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "新思科技拟寻求与中国 AI 实验室合作，在华加速芯片设计",
+              "url": "https://www.ithome.com/1/010/777.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "聊天机器人怂恿用户自残、挨饿，Character.AI 遭肯塔基州指控“产品存在缺陷”",
+              "url": "https://www.ithome.com/1/010/769.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 推出 GPT-6.1 Sol Ultrafast 版：6 倍价格、最高 8 倍速度",
+              "url": "https://www.ithome.com/1/010/768.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "阿里巴巴蔡崇信：五年后 AI 将如今天的互联网，融入社会的每个环节",
+              "url": "https://www.ithome.com/1/010/763.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "福田汽车与卓驭科技战略签约，在商用车高阶智能驾驶领域开展合作",
+              "url": "https://www.ithome.com/1/010/762.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "3 名遭解雇 OpenAI 研究员发公开信，称公司做法或引发“寒蝉效应”",
+              "url": "https://www.ithome.com/1/010/760.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic 修订使用政策，首次禁止用户虐待 Claude AI 模型",
+              "url": "https://www.ithome.com/1/010/759.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 首席 AI 官汪滔：不要指望 Muse 会自动帮你赚 1 万美元",
+              "url": "https://www.ithome.com/1/010/754.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "iPhone 18 Pro 等机型碰一下搞定配置：苹果和 LG 合作智能家居产品将支持“未通电先配对”",
+              "url": "https://www.ithome.com/1/010/752.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+              "url": "https://www.qbitai.com/2026/10/502089.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+              "url": "https://www.qbitai.com/2026/10/502083.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+              "url": "https://www.qbitai.com/2026/10/502035.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+              "url": "https://www.qbitai.com/2026/10/502020.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "浪子回头！Manus重启北京办公室大举招聘",
+              "url": "https://www.qbitai.com/2026/10/502009.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+              "url": "https://www.qbitai.com/2026/10/501956.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+              "url": "https://www.qbitai.com/2026/10/501930.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+              "url": "https://www.qbitai.com/2026/10/501915.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-6今起免费用！拒答变少，话变多了",
+              "url": "https://www.qbitai.com/2026/10/501834.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+              "url": "https://www.qbitai.com/2026/10/501832.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+              "url": "https://www.qbitai.com/2026/10/501825.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+              "url": "https://www.qbitai.com/2026/10/501803.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "The model that didn&apos;t exist, so you made it yourself",
+              "url": "https://huggingface.co/blog/building-with-ml-intern",
+              "date": "Thu, 08 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Multimodal open d1 decision models for the edge",
+              "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Falcon ASR",
+              "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Agent Said It Was Done. The Database Disagreed.",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+              "date": "Sat, 03 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+              "url": "https://huggingface.co/blog/allenai/astabrief",
+              "date": "Fri, 02 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+              "date": "Fri, 02 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+              "url": "https://huggingface.co/blog/open-tts-leaderboard",
+              "date": "Wed, 30 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
