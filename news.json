@@ -39054,6 +39054,235 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-11",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "用AI降低激光焊使用门槛，这家公司完成数千万元融资｜36氪首发",
+              "url": "https://36kr.com/p/4019439680327817?f=rss",
+              "date": "2026-10-10"
+            },
+            {
+              "source": "36氪",
+              "title": "美央构建物理AI路径闭环：把人体变成可计算的真实世界",
+              "url": "https://36kr.com/p/4018021038657411?f=rss",
+              "date": "2026-10-09"
+            },
+            {
+              "source": "36氪",
+              "title": "芯片专家试图劝退马斯克：Terafab芯片项目可比发射星舰火箭更难",
+              "url": "https://36kr.com/newsflashes/4019863867477893?f=rss",
+              "date": "2026-10-10"
+            },
+            {
+              "source": "36氪",
+              "title": "腾讯入股墨奇智能",
+              "url": "https://36kr.com/newsflashes/4019769731469447?f=rss",
+              "date": "2026-10-10"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案",
+              "url": "https://www.ithome.com/1/011/553.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "奥海推出 280W 智能桌面充：首款 240W 单口输出、4C+2A，799 元",
+              "url": "https://www.ithome.com/1/011/551.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1011：苹果首款智能家居中枢渲染图曝光；四部门拟禁汽车全隐藏式门把手；出版社回应网文实体书现 AI 回复内容；懂车帝称网传前总编辑身份为假...",
+              "url": "https://www.ithome.com/1/011/549.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称字节、腾讯加速个人 AI 智能体研发，追赶 Meta Muse",
+              "url": "https://www.ithome.com/1/011/548.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
+              "url": "https://www.ithome.com/1/011/545.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
+              "url": "https://www.ithome.com/1/011/542.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型",
+              "url": "https://www.ithome.com/1/011/541.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "腾讯元器将于 11 月 9 日停止服务，所创建智能体将不再可用",
+              "url": "https://www.ithome.com/1/011/530.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "铭凡首款无风扇全闪 AI NAS 机型 S5 将于 10 月中下旬国行开售",
+              "url": "https://www.ithome.com/1/011/521.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称英伟达计划以 24GB 显存 GeForce RTX 5080 显卡取代现有 16GB 版本",
+              "url": "https://www.ithome.com/1/011/513.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+              "url": "https://www.qbitai.com/2026/10/502541.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+              "url": "https://www.qbitai.com/2026/10/502496.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+              "url": "https://www.qbitai.com/2026/10/502492.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+              "url": "https://www.qbitai.com/2026/10/502484.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "特斯拉FSD，在欧洲被打回原形",
+              "url": "https://www.qbitai.com/2026/10/502467.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+              "url": "https://www.qbitai.com/2026/10/502422.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+              "url": "https://www.qbitai.com/2026/10/502411.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+              "url": "https://www.qbitai.com/2026/10/502359.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+              "url": "https://www.qbitai.com/2026/10/502330.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+              "url": "https://www.qbitai.com/2026/10/502125.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+              "url": "https://www.qbitai.com/2026/10/502114.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+              "url": "https://www.qbitai.com/2026/10/502106.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Impactful scheduling for GPU clusters",
+              "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+              "date": "Fri, 09 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The model that didn&apos;t exist, so you made it yourself",
+              "url": "https://huggingface.co/blog/building-with-ml-intern",
+              "date": "Thu, 08 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Multimodal open d1 decision models for the edge",
+              "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Falcon ASR",
+              "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Agent Said It Was Done. The Database Disagreed.",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+              "date": "Sat, 03 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+              "date": "Fri, 02 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+              "url": "https://huggingface.co/blog/open-tts-leaderboard",
+              "date": "Wed, 30 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
