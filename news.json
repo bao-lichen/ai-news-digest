@@ -39518,6 +39518,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-13",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨尊界SUV将给赛力斯生产？江淮汽车回应；字节跳动再现亿级爆款应用；Meta推出具备“前沿级能力”的Muse Wonder AI模型",
+              "url": "https://36kr.com/p/4023543221571463?f=rss",
+              "date": "2026-10-13"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发 | 获数千万融资，ModCraft想让AI通过Mod理解游戏设计",
+              "url": "https://36kr.com/p/4022737676259464?f=rss",
+              "date": "2026-10-12"
+            },
+            {
+              "source": "36氪",
+              "title": "最前线｜影石举办智能影像黑客松，从AI剪辑走向移动摄影师",
+              "url": "https://36kr.com/p/4022506242854788?f=rss",
+              "date": "2026-10-12"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪新风向丨在太空中建AI算力中心，马斯克又带火一个万亿美元赛道",
+              "url": "https://36kr.com/p/4022305269600128?f=rss",
+              "date": "2026-10-12"
+            },
+            {
+              "source": "36氪",
+              "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+              "url": "https://36kr.com/p/3990015565708035?f=rss",
+              "date": "2026-10-11"
+            },
+            {
+              "source": "36氪",
+              "title": "用AI降低激光焊使用门槛，这家公司完成数千万元融资｜36氪首发",
+              "url": "https://36kr.com/p/4019439680327817?f=rss",
+              "date": "2026-10-10"
+            },
+            {
+              "source": "36氪",
+              "title": "摩根大通和高盛降低对AI云初创公司Volta 50亿美元贷款交易的风险敞口",
+              "url": "https://36kr.com/newsflashes/4023600010203016?f=rss",
+              "date": "2026-10-13"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：中国智能影像龙头逐步构建“硬件+AI服务”商业模式，成长空间广阔",
+              "url": "https://36kr.com/newsflashes/4023561806024576?f=rss",
+              "date": "2026-10-13"
+            },
+            {
+              "source": "36氪",
+              "title": "英特尔、博通CEO警告：资金获取能力可能成为制约人工智能（AI）热潮的一大因素",
+              "url": "https://36kr.com/newsflashes/4023545124327296?f=rss",
+              "date": "2026-10-13"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：海内外AI影视工业化生产加速",
+              "url": "https://36kr.com/newsflashes/4023536772583299?f=rss",
+              "date": "2026-10-13"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "北京警方通报：男子用 AI 制作虚假截图、标注贩毒人员车辆为某品牌，被采取刑事强制措施",
+              "url": "https://www.ithome.com/1/012/156.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达携手思科推出首款 400G / lane 可插拔光模块规范 USFP",
+              "url": "https://www.ithome.com/1/012/155.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "三星首款智能眼镜曝光：约 41 克重、骁龙 AR1 Gen1，预计下月上市",
+              "url": "https://www.ithome.com/1/012/151.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "3 个月、超 5000 亿词元：AI 重建 2009 年《现代战争 2》源代码，83% 与原版逐字节匹配",
+              "url": "https://www.ithome.com/1/012/149.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英特尔 CEO 陈立武：未来两到三年 AI 硬件将持续短缺",
+              "url": "https://www.ithome.com/1/012/144.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 RTX Spark 全球巡展官宣：北京等 6 城将开启体验，可赢黄仁勋签名版笔记本",
+              "url": "https://www.ithome.com/1/012/139.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 发布 Muse Wonder 系列旗舰 AI 模型，对标 Anthropic 与 OpenAI",
+              "url": "https://www.ithome.com/1/012/138.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称 Epic 为迪士尼打造的游戏推迟上线，全面改用 AI 开发",
+              "url": "https://www.ithome.com/1/012/136.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "应用材料 CEO 迪克森：依托 AI 提效，未来数年营收有望翻倍，但员工数量不会同步翻倍",
+              "url": "https://www.ithome.com/1/012/134.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软 Maia 300 AI 芯片发布：台积电 N2P 工艺，288GB HBM4 内存、带宽 18TB/s",
+              "url": "https://www.ithome.com/1/012/115.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "hacked by trenggalek6etar",
+              "url": "https://www.qbitai.com/2026/10/502764.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026没过完，已有480亿美元投进了物理AI",
+              "url": "https://www.qbitai.com/2026/10/502741.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身智能回到产业现场， 思灵机器人Agile Robots携12款展品亮相2026工博会",
+              "url": "https://www.qbitai.com/2026/10/502683.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI从「造图」卷到「造世界」，这次真有点科幻了。。。",
+              "url": "https://www.qbitai.com/2026/10/502701.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题",
+              "url": "https://www.qbitai.com/2026/10/502667.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+              "url": "https://www.qbitai.com/2026/10/502654.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智谱新模型，490 tokens/s！",
+              "url": "https://www.qbitai.com/2026/10/502649.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+              "url": "https://www.qbitai.com/2026/10/502644.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "何恺明团队发布多模态Harness框架",
+              "url": "https://www.qbitai.com/2026/10/502628.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "陶哲轩：数学2.0时代已至！",
+              "url": "https://www.qbitai.com/2026/10/502594.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "王的猜想，刚刚扩展到四维",
+              "url": "https://www.qbitai.com/2026/10/502584.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "硅谷AI现状：谁有算力谁是爹",
+              "url": "https://www.qbitai.com/2026/10/502585.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Impactful scheduling for GPU clusters",
+              "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+              "date": "Fri, 09 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The model that didn&apos;t exist, so you made it yourself",
+              "url": "https://huggingface.co/blog/building-with-ml-intern",
+              "date": "Thu, 08 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Multimodal open d1 decision models for the edge",
+              "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Falcon ASR",
+              "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Agent Said It Was Done. The Database Disagreed.",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+              "date": "Sat, 03 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+              "date": "Fri, 02 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+              "url": "https://huggingface.co/blog/open-tts-leaderboard",
+              "date": "Wed, 30 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
