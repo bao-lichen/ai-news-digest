@@ -39987,6 +39987,198 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资",
+              "url": "https://36kr.com/p/4025027267580036?f=rss",
+              "date": "2026-10-14"
+            },
+            {
+              "source": "36氪",
+              "title": "百万token做赌注，字节把AI游戏这条路打通关了！",
+              "url": "https://36kr.com/p/4023934543892354?f=rss",
+              "date": "2026-10-13"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨达晨投过的老牌减速器厂商完成数亿元B轮融资，已供货多家头部机器人企业",
+              "url": "https://36kr.com/p/4023807119789956?f=rss",
+              "date": "2026-10-13"
+            },
+            {
+              "source": "36氪",
+              "title": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发",
+              "url": "https://36kr.com/p/4023041152585603?f=rss",
+              "date": "2026-10-13"
+            },
+            {
+              "source": "36氪",
+              "title": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发",
+              "url": "https://36kr.com/p/4023671039070081?f=rss",
+              "date": "2026-10-13"
+            },
+            {
+              "source": "36氪",
+              "title": "AI硬件需求持续兑现，多家算力上市公司三季报预喜",
+              "url": "https://36kr.com/newsflashes/4026414240600198?f=rss",
+              "date": "2026-10-15"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：AI4S迈向产业化临界点",
+              "url": "https://36kr.com/newsflashes/4026392146317193?f=rss",
+              "date": "2026-10-15"
+            },
+            {
+              "source": "36氪",
+              "title": "争夺终端定义权，智能体手机行业迎来新博弈",
+              "url": "https://36kr.com/newsflashes/4026388210716546?f=rss",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+              "url": "https://www.qbitai.com/2026/10/503294.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+              "url": "https://www.qbitai.com/2026/10/503244.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+              "url": "https://www.qbitai.com/2026/10/503231.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+              "url": "https://www.qbitai.com/2026/10/503211.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+              "url": "https://www.qbitai.com/2026/10/503201.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+              "url": "https://www.qbitai.com/2026/10/503198.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+              "url": "https://www.qbitai.com/2026/10/503172.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+              "url": "https://www.qbitai.com/2026/10/503173.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+              "url": "https://www.qbitai.com/2026/10/503165.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+              "url": "https://www.qbitai.com/2026/10/503157.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+              "url": "https://www.qbitai.com/2026/10/503107.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+              "url": "https://www.qbitai.com/2026/10/502992.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+              "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+              "date": "Wed, 14 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+              "date": "Tue, 13 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The model that didn&apos;t exist, so you made it yourself",
+              "url": "https://huggingface.co/blog/building-with-ml-intern",
+              "date": "Thu, 08 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Falcon ASR",
+              "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Agent Said It Was Done. The Database Disagreed.",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+              "date": "Sat, 03 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+              "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+              "date": "Fri, 02 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+              "url": "https://huggingface.co/blog/open-tts-leaderboard",
+              "date": "Wed, 30 Se"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
