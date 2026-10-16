@@ -40179,6 +40179,210 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-16",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨三部门联合调查“尊界V800汽车刹车踏板支架断裂问题”；国内一半AI算力被指在造爽剧；台积电第三季度净利润7631亿元台币",
+              "url": "https://36kr.com/p/4027802678186372?f=rss",
+              "date": "2026-10-16"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪研究院 | 2026年中国工业AI行业发展研究报告",
+              "url": "https://36kr.com/p/4023919040630661?f=rss",
+              "date": "2026-10-16"
+            },
+            {
+              "source": "36氪",
+              "title": "清华、西工大系团队创业做智能电动游艇，九合、初心等联合出手｜硬氪首发",
+              "url": "https://36kr.com/p/4019684113371008?f=rss",
+              "date": "2026-10-15"
+            },
+            {
+              "source": "36氪",
+              "title": "AI帮我约了五个陌生人一起喝酒",
+              "url": "https://36kr.com/p/4026574580322439?f=rss",
+              "date": "2026-10-15"
+            },
+            {
+              "source": "36氪",
+              "title": "曾获李泽湘、明势资本投资，这家公司想做一台会“掌镜”的摄影机器人｜早期项目",
+              "url": "https://36kr.com/p/4026612843696776?f=rss",
+              "date": "2026-10-15"
+            },
+            {
+              "source": "36氪",
+              "title": "总裁直管信息部，一家创新药企的AI试验",
+              "url": "https://36kr.com/p/4026591408066432?f=rss",
+              "date": "2026-10-15"
+            },
+            {
+              "source": "36氪",
+              "title": "可灵AI上线Kling 4.0：支持10-bit HDR、30秒原生直出 刷新视频模型新基准",
+              "url": "https://36kr.com/newsflashes/4027843697676937?f=rss",
+              "date": "2026-10-16"
+            },
+            {
+              "source": "36氪",
+              "title": "法官驳回Gemini与CFTC撤销500万美元和解协议的申请",
+              "url": "https://36kr.com/newsflashes/4027827353113223?f=rss",
+              "date": "2026-10-16"
+            },
+            {
+              "source": "36氪",
+              "title": "沃尔沃汽车与英伟达扩大合作，共同推进安全自动驾驶技术",
+              "url": "https://36kr.com/newsflashes/4027824027996545?f=rss",
+              "date": "2026-10-16"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI广告收入或难以达标，大举招揽谷歌、Meta人才",
+              "url": "https://36kr.com/newsflashes/4027822795166337?f=rss",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+              "url": "https://www.qbitai.com/2026/10/503645.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+              "url": "https://www.qbitai.com/2026/10/503640.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+              "url": "https://www.qbitai.com/2026/10/503614.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+              "url": "https://www.qbitai.com/2026/10/503611.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI时代，商学院这样培养未来商业领袖",
+              "url": "https://www.qbitai.com/2026/10/503504.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+              "url": "https://www.qbitai.com/2026/10/503501.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "苹果AI国内上线，阿里百度浮出水面",
+              "url": "https://www.qbitai.com/2026/10/503497.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，苹果正式迈入5万亿美元时代",
+              "url": "https://www.qbitai.com/2026/10/503434.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
+              "url": "https://www.qbitai.com/2026/10/503350.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "有预言家！A社研究蓝图曝光，Claude Code来自5年前",
+              "url": "https://www.qbitai.com/2026/10/503341.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
+              "url": "https://www.qbitai.com/2026/10/503326.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+              "url": "https://www.qbitai.com/2026/10/503303.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+              "url": "https://huggingface.co/blog/meta-muse-spark-open",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome FLUX.3 Image Klein in Diffusers",
+              "url": "https://huggingface.co/blog/flux-3",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+              "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+              "date": "Wed, 14 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+              "date": "Tue, 13 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The model that didn&apos;t exist, so you made it yourself",
+              "url": "https://huggingface.co/blog/building-with-ml-intern",
+              "date": "Thu, 08 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing Falcon ASR",
+              "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+              "date": "Wed, 07 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+              "date": "Wed, 07 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
