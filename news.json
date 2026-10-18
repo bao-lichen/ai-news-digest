@@ -40551,6 +40551,186 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-18",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "9点1氪丨特斯拉发布“会飞”的跑车，预订金33.2万元；中国限制或禁止出口AI等领域40项技术；长鑫科技预计前三季度净利超1300亿",
+              "url": "https://36kr.com/p/4029260041245314?f=rss",
+              "date": "2026-10-17"
+            },
+            {
+              "source": "36氪",
+              "title": "老板向AI许愿，员工让AI滚蛋｜深氪",
+              "url": "https://36kr.com/p/4028378674205313?f=rss",
+              "date": "2026-10-16"
+            },
+            {
+              "source": "36氪",
+              "title": "拿下两轮数亿元融资，清华博导刘子鸣要造能自己设计模型的「元模型」",
+              "url": "https://36kr.com/p/4028228125577864?f=rss",
+              "date": "2026-10-16"
+            },
+            {
+              "source": "36氪",
+              "title": "全球人形机器人收入前五全是中国企业，前8个月深圳机器人出口激增超1200%",
+              "url": "https://36kr.com/newsflashes/4030656795120006?f=rss",
+              "date": "2026-10-18"
+            },
+            {
+              "source": "36氪",
+              "title": "微软推出“AI学生模拟器”",
+              "url": "https://36kr.com/newsflashes/4029401099178629?f=rss",
+              "date": "2026-10-17"
+            },
+            {
+              "source": "36氪",
+              "title": "预报时效11天，超算互联网助\"风清集合\"AI业务化运行",
+              "url": "https://36kr.com/newsflashes/4029420684546436?f=rss",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "智谱新模型，懂法方面全球第一了",
+              "url": "https://www.qbitai.com/2026/10/503965.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+              "url": "https://www.qbitai.com/2026/10/503935.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+              "url": "https://www.qbitai.com/2026/10/503880.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+              "url": "https://www.qbitai.com/2026/10/503865.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+              "url": "https://www.qbitai.com/2026/10/503861.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+              "url": "https://www.qbitai.com/2026/10/503843.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+              "url": "https://www.qbitai.com/2026/10/503829.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+              "url": "https://www.qbitai.com/2026/10/503815.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+              "url": "https://www.qbitai.com/2026/10/503782.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+              "url": "https://www.qbitai.com/2026/10/503779.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+              "url": "https://www.qbitai.com/2026/10/503756.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+              "url": "https://www.qbitai.com/2026/10/503701.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+              "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+              "date": "Fri, 16 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+              "url": "https://huggingface.co/blog/reflection-beam",
+              "date": "Fri, 16 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+              "url": "https://huggingface.co/blog/meta-muse-spark-open",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome FLUX.3 Image Klein in Diffusers",
+              "url": "https://huggingface.co/blog/flux-3",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+              "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+              "date": "Wed, 14 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+              "date": "Tue, 13 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The model that didn&apos;t exist, so you made it yourself",
+              "url": "https://huggingface.co/blog/building-with-ml-intern",
+              "date": "Thu, 08 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
