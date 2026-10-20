@@ -40905,6 +40905,210 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-20",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨被指品质暴跌，山姆回应；宇树科技市值重回2000亿，人形机器人股批量涨停；马斯克承诺给“美国每个孩子”1股SpaceX股份",
+              "url": "https://36kr.com/p/4033470689268610?f=rss",
+              "date": "2026-10-20"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪报告图解 | 《2026年中国AI Agent行业发展研究报告》",
+              "url": "https://36kr.com/p/4032427409609096?f=rss",
+              "date": "2026-10-19"
+            },
+            {
+              "source": "36氪",
+              "title": "聚焦在轨服务，要打造太空机器人集群，「国宇星辰」完成近亿元A轮融资｜36氪首发",
+              "url": "https://36kr.com/p/4032195238482313?f=rss",
+              "date": "2026-10-19"
+            },
+            {
+              "source": "36氪",
+              "title": "前华为车BU世界模型基模负责人创业，杭州具身大脑公司获近亿元融资｜硬氪首发",
+              "url": "https://36kr.com/p/4025325566054529?f=rss",
+              "date": "2026-10-18"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：建议关注企业级AI应用、算力服务及国产芯片和超节点",
+              "url": "https://36kr.com/newsflashes/4033473310135169?f=rss",
+              "date": "2026-10-20"
+            },
+            {
+              "source": "36氪",
+              "title": "黄仁勋敦促德国制造业迅速采用人工智能",
+              "url": "https://36kr.com/newsflashes/4033482206499720?f=rss",
+              "date": "2026-10-20"
+            },
+            {
+              "source": "36氪",
+              "title": "Anthropic据报准备发布推理能力优于同侪的新模型",
+              "url": "https://36kr.com/newsflashes/4033470414279560?f=rss",
+              "date": "2026-10-20"
+            },
+            {
+              "source": "36氪",
+              "title": "英特尔向FCC申请豁免外国机器人禁令，以确保美国芯片工厂设备正常运行",
+              "url": "https://36kr.com/newsflashes/4033458004251779?f=rss",
+              "date": "2026-10-20"
+            },
+            {
+              "source": "36氪",
+              "title": "AI智能硬件新品密集发布，企业加快探索多元应用场景",
+              "url": "https://36kr.com/newsflashes/4033444731507848?f=rss",
+              "date": "2026-10-20"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI拟融资300亿美元，估值或超1.4万亿美元",
+              "url": "https://36kr.com/newsflashes/4033440471110536?f=rss",
+              "date": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+              "url": "https://www.qbitai.com/2026/10/504277.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "通研院孵化的团队，也盯上了RSI",
+              "url": "https://www.qbitai.com/2026/10/504294.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+              "url": "https://www.qbitai.com/2026/10/504266.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全栈自研！国产高端互连芯片，稳了!",
+              "url": "https://www.qbitai.com/2026/10/504225.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI 开始挑战最复杂的系统：生命",
+              "url": "https://www.qbitai.com/2026/10/504242.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
+              "url": "https://www.qbitai.com/2026/10/504238.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
+              "url": "https://www.qbitai.com/2026/10/504199.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
+              "url": "https://www.qbitai.com/2026/10/504188.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌开源RSI新成果！华人浓度爆表",
+              "url": "https://www.qbitai.com/2026/10/504184.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+              "url": "https://www.qbitai.com/2026/10/504136.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智谱新模型，懂法方面全球第一了",
+              "url": "https://www.qbitai.com/2026/10/503965.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+              "url": "https://www.qbitai.com/2026/10/503935.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+              "url": "https://huggingface.co/blog/hf-torchneuron",
+              "date": "Mon, 19 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+              "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+              "date": "Fri, 16 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+              "url": "https://huggingface.co/blog/reflection-beam",
+              "date": "Fri, 16 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Apertus 1.5 Release Notes",
+              "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+              "url": "https://huggingface.co/blog/meta-muse-spark-open",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome FLUX.3 Image Klein in Diffusers",
+              "url": "https://huggingface.co/blog/flux-3",
+              "date": "Thu, 15 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+              "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+              "date": "Wed, 14 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
