@@ -41109,6 +41109,186 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-21",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "硬氪首发｜用AI智能体辅助新材料研发，睿质科技完成数千万元天使轮融资",
+              "url": "https://36kr.com/p/4033523733042053?f=rss",
+              "date": "2026-10-20"
+            },
+            {
+              "source": "36氪",
+              "title": "顺为投了一位北大PI，想用AI“解密”人脑",
+              "url": "https://36kr.com/p/4032248929686151?f=rss",
+              "date": "2026-10-20"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨被指品质暴跌，山姆回应；宇树科技市值重回2000亿，人形机器人股批量涨停；马斯克承诺给“美国每个孩子”1股SpaceX股份",
+              "url": "https://36kr.com/p/4033470689268610?f=rss",
+              "date": "2026-10-20"
+            },
+            {
+              "source": "36氪",
+              "title": "韩国10月前20天出口同比飙升逾一倍，芯片出口激增222.5%",
+              "url": "https://36kr.com/newsflashes/4034912853480582?f=rss",
+              "date": "2026-10-21"
+            },
+            {
+              "source": "36氪",
+              "title": "马斯克呼吁善待人工智能：否则“它们可能会报复”",
+              "url": "https://36kr.com/newsflashes/4034911861200005?f=rss",
+              "date": "2026-10-21"
+            },
+            {
+              "source": "36氪",
+              "title": "日本9月出口稳健增长，受芯片和汽车出货提振",
+              "url": "https://36kr.com/newsflashes/4034887164826497?f=rss",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+              "url": "https://www.qbitai.com/2026/10/504517.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+              "url": "https://www.qbitai.com/2026/10/504452.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+              "url": "https://www.qbitai.com/2026/10/504435.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+              "url": "https://www.qbitai.com/2026/10/504421.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+              "url": "https://www.qbitai.com/2026/10/504415.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+              "url": "https://www.qbitai.com/2026/10/504395.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+              "url": "https://www.qbitai.com/2026/10/504372.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+              "url": "https://www.qbitai.com/2026/10/504314.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+              "url": "https://www.qbitai.com/2026/10/504277.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "通研院孵化的团队，也盯上了RSI",
+              "url": "https://www.qbitai.com/2026/10/504294.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+              "url": "https://www.qbitai.com/2026/10/504266.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全栈自研！国产高端互连芯片，稳了!",
+              "url": "https://www.qbitai.com/2026/10/504225.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+              "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+              "date": "Tue, 20 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+              "url": "https://huggingface.co/blog/allenai/fairstress",
+              "date": "Tue, 20 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+              "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+              "date": "Tue, 20 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+              "url": "https://huggingface.co/blog/hf-torchtpu",
+              "date": "Tue, 20 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+              "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+              "date": "Tue, 20 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "MPS in PyTorch 2.15",
+              "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+              "date": "Tue, 20 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+              "url": "https://huggingface.co/blog/hf-torchneuron",
+              "date": "Mon, 19 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+              "url": "https://huggingface.co/blog/reflection-beam",
+              "date": "Fri, 16 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
