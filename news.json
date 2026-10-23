@@ -41469,6 +41469,192 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-23",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "AI的下一站:从Personal Agent到灯塔工厂",
+              "url": "https://36kr.com/p/4035016423347077?f=rss",
+              "date": "2026-10-21"
+            },
+            {
+              "source": "36氪",
+              "title": "AI时代，银龄生活更要看到“人”的价值",
+              "url": "https://36kr.com/p/4035048202359685?f=rss",
+              "date": "2026-10-21"
+            },
+            {
+              "source": "36氪",
+              "title": "李泽湘系团队做了款贴在手机背后的墨水屏Agent，获祥峰、五源、源码等投资｜硬氪首发",
+              "url": "https://36kr.com/p/4034229489701764?f=rss",
+              "date": "2026-10-21"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨华为、高瓴等押注，物理空间智能基础设施公司完成超亿元融资",
+              "url": "https://36kr.com/p/4035014691345540?f=rss",
+              "date": "2026-10-21"
+            },
+            {
+              "source": "36氪",
+              "title": "Rivian收购AI公司Third Dimension，利用3D仿真技术加速自动驾驶研发",
+              "url": "https://36kr.com/newsflashes/4037739376808839?f=rss",
+              "date": "2026-10-23"
+            },
+            {
+              "source": "36氪",
+              "title": "我国初步构建智能网联汽车政策管理体系",
+              "url": "https://36kr.com/newsflashes/4037724673823616?f=rss",
+              "date": "2026-10-23"
+            },
+            {
+              "source": "36氪",
+              "title": "A股AI叙事迎产业验证窗口，业绩超预期标的值得关注",
+              "url": "https://36kr.com/newsflashes/4037718838416264?f=rss",
+              "date": "2026-10-23"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+              "url": "https://www.qbitai.com/2026/10/504879.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+              "url": "https://www.qbitai.com/2026/10/504841.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+              "url": "https://www.qbitai.com/2026/10/504832.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谁在给OpenAI供应具身数据？",
+              "url": "https://www.qbitai.com/2026/10/504800.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+              "url": "https://www.qbitai.com/2026/10/504730.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+              "url": "https://www.qbitai.com/2026/10/504653.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+              "url": "https://www.qbitai.com/2026/10/504638.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+              "url": "https://www.qbitai.com/2026/10/504618.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+              "url": "https://www.qbitai.com/2026/10/504608.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+              "url": "https://www.qbitai.com/2026/10/504551.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+              "url": "https://www.qbitai.com/2026/10/504517.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+              "url": "https://www.qbitai.com/2026/10/504452.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Ensemble forecasting with IBM Granite time-series models",
+              "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+              "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+              "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+              "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+              "url": "https://huggingface.co/blog/hf-torchtpu",
+              "date": "Tue, 20 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
