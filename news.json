@@ -42124,6 +42124,204 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-26",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "AI圈最神秘的一家公司，终于公开了它的“豪赌”",
+              "url": "https://36kr.com/p/4026922691236484?f=rss",
+              "date": "2026-10-26"
+            },
+            {
+              "source": "36氪",
+              "title": "一颗AI毫米波雷达，千里科技在补哪一环",
+              "url": "https://36kr.com/p/4040807584863111?f=rss",
+              "date": "2026-10-25"
+            },
+            {
+              "source": "36氪",
+              "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
+              "url": "https://36kr.com/p/4039749830120583?f=rss",
+              "date": "2026-10-24"
+            },
+            {
+              "source": "36氪",
+              "title": "独家｜字节AI应用再整合：小云雀并入即梦",
+              "url": "https://36kr.com/p/4039677577122946?f=rss",
+              "date": "2026-10-24"
+            },
+            {
+              "source": "36氪",
+              "title": "高秉强连投三轮，深圳智能宠物硬件公司完成数千万Pre-A轮融资｜硬氪首发",
+              "url": "https://36kr.com/p/4038149843178628?f=rss",
+              "date": "2026-10-24"
+            },
+            {
+              "source": "36氪",
+              "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
+              "url": "https://36kr.com/p/4039177193411718?f=rss",
+              "date": "2026-10-24"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：GPT-6 Astra进入机器人控制，物理AI迎来重大拐点",
+              "url": "https://36kr.com/newsflashes/4041976290055045?f=rss",
+              "date": "2026-10-26"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：关注物理AI数据与仿真、AI安全、国产芯片等方向",
+              "url": "https://36kr.com/newsflashes/4041963126313864?f=rss",
+              "date": "2026-10-26"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：物理AI加速从概念走向落地，全产业链环节均有望受益",
+              "url": "https://36kr.com/newsflashes/4041953665193088?f=rss",
+              "date": "2026-10-26"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+              "url": "https://www.qbitai.com/2026/10/505083.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "企业AI需要两个世界模型",
+              "url": "https://www.qbitai.com/2026/10/505032.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+              "url": "https://www.qbitai.com/2026/10/504931.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+              "url": "https://www.qbitai.com/2026/10/504930.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+              "url": "https://www.qbitai.com/2026/10/504915.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
+              "url": "https://www.qbitai.com/2026/10/504913.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+              "url": "https://www.qbitai.com/2026/10/504905.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+              "url": "https://www.qbitai.com/2026/10/504901.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+              "url": "https://www.qbitai.com/2026/10/504879.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+              "url": "https://www.qbitai.com/2026/10/504841.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+              "url": "https://www.qbitai.com/2026/10/504832.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谁在给OpenAI供应具身数据？",
+              "url": "https://www.qbitai.com/2026/10/504800.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+              "url": "https://huggingface.co/blog/allenai/litpivot",
+              "date": "Fri, 23 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Does Your Model Run on AWS Trainium? Look It Up",
+              "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+              "date": "Fri, 23 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Ensemble forecasting with IBM Granite time-series models",
+              "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+              "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+              "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+              "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+              "date": "Wed, 21 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
