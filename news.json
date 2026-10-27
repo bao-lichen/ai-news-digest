@@ -42322,6 +42322,192 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-27",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "这场年轻人的咖啡局，聊聊「咖啡+AI」可以长出什么？",
+              "url": "https://36kr.com/p/4042455475475586?f=rss",
+              "date": "2026-10-26"
+            },
+            {
+              "source": "36氪",
+              "title": "具身智能狂潮背后的国资们：抢项目、抬上轿、跟着文件猜未来",
+              "url": "https://36kr.com/p/4036882782573449?f=rss",
+              "date": "2026-10-26"
+            },
+            {
+              "source": "36氪",
+              "title": "AI圈最神秘的一家公司，终于公开了它的“豪赌”",
+              "url": "https://36kr.com/p/4026922691236484?f=rss",
+              "date": "2026-10-26"
+            },
+            {
+              "source": "36氪",
+              "title": "一颗AI毫米波雷达，千里科技在补哪一环",
+              "url": "https://36kr.com/p/4040807584863111?f=rss",
+              "date": "2026-10-25"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI宣布在数学、计算机科学、物理学领域取得三项新发现",
+              "url": "https://36kr.com/newsflashes/4043403309552769?f=rss",
+              "date": "2026-10-27"
+            },
+            {
+              "source": "36氪",
+              "title": "中信证券：物理AI爆发，挖掘端侧机遇",
+              "url": "https://36kr.com/newsflashes/4043380334695558?f=rss",
+              "date": "2026-10-27"
+            },
+            {
+              "source": "36氪",
+              "title": "高盛：对冲基金以两年来最快速度抛售科技股，AI交易信念面临考验",
+              "url": "https://36kr.com/newsflashes/4043368369460103?f=rss",
+              "date": "2026-10-27"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+              "url": "https://www.qbitai.com/2026/10/505551.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+              "url": "https://www.qbitai.com/2026/10/505539.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI开始断网训练最强模型：“安全起见”",
+              "url": "https://www.qbitai.com/2026/10/505529.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "A社联创演讲：AI奇点已来",
+              "url": "https://www.qbitai.com/2026/10/505521.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "NeoLab第一个商业模式：转售GPU",
+              "url": "https://www.qbitai.com/2026/10/505478.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国近50%的新云生意，竟被这家公司包揽！",
+              "url": "https://www.qbitai.com/2026/10/505454.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+              "url": "https://www.qbitai.com/2026/10/505443.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+              "url": "https://www.qbitai.com/2026/10/505436.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+              "url": "https://www.qbitai.com/2026/10/505429.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
+              "url": "https://www.qbitai.com/2026/10/505309.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "马斯克给机器人建了个学校！腾出百万车型产线来量产",
+              "url": "https://www.qbitai.com/2026/10/505271.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+              "url": "https://www.qbitai.com/2026/10/505218.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+              "url": "https://huggingface.co/blog/allenai/litpivot",
+              "date": "Fri, 23 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Does Your Model Run on AWS Trainium? Look It Up",
+              "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+              "date": "Fri, 23 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Ensemble forecasting with IBM Granite time-series models",
+              "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+              "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+              "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+              "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+              "date": "Wed, 21 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
