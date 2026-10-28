@@ -42508,6 +42508,192 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-28",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "当AI学会了预测，发现马斯克的预测不靠谱",
+              "url": "https://36kr.com/p/4043729792635779?f=rss",
+              "date": "2026-10-27"
+            },
+            {
+              "source": "36氪",
+              "title": "这家全球汽零巨头，为何跨界做机器人？",
+              "url": "https://36kr.com/p/4043530020115590?f=rss",
+              "date": "2026-10-27"
+            },
+            {
+              "source": "36氪",
+              "title": "这场年轻人的咖啡局，聊聊「咖啡+AI」可以长出什么？",
+              "url": "https://36kr.com/p/4042455475475586?f=rss",
+              "date": "2026-10-26"
+            },
+            {
+              "source": "36氪",
+              "title": "德国出租车运营商MTZ将与美国公司合作部署自动驾驶出租车",
+              "url": "https://36kr.com/newsflashes/4044805308568450?f=rss",
+              "date": "2026-10-28"
+            },
+            {
+              "source": "36氪",
+              "title": "紫光国微：智能安全芯片出货正在恢复 前期被延后订单有望逐步回补",
+              "url": "https://36kr.com/newsflashes/4044818640409734?f=rss",
+              "date": "2026-10-28"
+            },
+            {
+              "source": "36氪",
+              "title": "AI用电需求催生设备订单，燃气轮机产业链投资机会受关注",
+              "url": "https://36kr.com/newsflashes/4044790994539395?f=rss",
+              "date": "2026-10-28"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI计划采购谷歌AI芯片",
+              "url": "https://36kr.com/newsflashes/4044788083413893?f=rss",
+              "date": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+              "url": "https://www.qbitai.com/2026/10/505865.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "印奇把4D雷达也端到端了",
+              "url": "https://www.qbitai.com/2026/10/505852.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+              "url": "https://www.qbitai.com/2026/10/505830.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+              "url": "https://www.qbitai.com/2026/10/505773.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+              "url": "https://www.qbitai.com/2026/10/505719.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+              "url": "https://www.qbitai.com/2026/10/505694.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
+              "url": "https://www.qbitai.com/2026/10/505687.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
+              "url": "https://www.qbitai.com/2026/10/505635.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕",
+              "url": "https://www.qbitai.com/2026/10/505615.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手",
+              "url": "https://www.qbitai.com/2026/10/505600.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+              "url": "https://www.qbitai.com/2026/10/505580.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+              "url": "https://www.qbitai.com/2026/10/505551.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Build specialized multimodal models with LFM3",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+              "date": "Tue, 27 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Can we trust LLMs to judge whether a research idea is novel?",
+              "url": "https://huggingface.co/blog/allenai/novelty-bench",
+              "date": "Tue, 27 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Does Your Model Run on AWS Trainium? Look It Up",
+              "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+              "date": "Fri, 23 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Ensemble forecasting with IBM Granite time-series models",
+              "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+              "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+              "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+              "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+              "date": "Wed, 21 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
