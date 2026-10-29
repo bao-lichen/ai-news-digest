@@ -42694,6 +42694,168 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "接入AI半年后，一家自闭症康复机构辞了兼职督导",
+              "url": "https://36kr.com/p/4044028040844417?f=rss",
+              "date": "2026-10-28"
+            },
+            {
+              "source": "36氪",
+              "title": "特朗普暂缓对机器人和工业机械加征关税，指示官员与贸易伙伴展开谈判",
+              "url": "https://36kr.com/newsflashes/4046191486112903?f=rss",
+              "date": "2026-10-29"
+            },
+            {
+              "source": "36氪",
+              "title": "贝森特称AI融资仍在推进，强劲增长下美联储加息未必有错",
+              "url": "https://36kr.com/newsflashes/4046186801599624?f=rss",
+              "date": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+              "url": "https://www.qbitai.com/2026/10/506227.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "威卡：用数据集链接具身智能和工程机械",
+              "url": "https://www.qbitai.com/2026/10/506063.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+              "url": "https://www.qbitai.com/2026/10/506055.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+              "url": "https://www.qbitai.com/2026/10/506042.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "华为双十一焕新季・全场景新品发布会：焕新启航，聚势新生！",
+              "url": "https://www.qbitai.com/2026/10/506016.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "四川最牛便利连锁超市搞机器人售货，黄了",
+              "url": "https://www.qbitai.com/2026/10/505955.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一",
+              "url": "https://www.qbitai.com/2026/10/505956.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+              "url": "https://www.qbitai.com/2026/10/505928.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+              "url": "https://www.qbitai.com/2026/10/505865.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "印奇把4D雷达也端到端了",
+              "url": "https://www.qbitai.com/2026/10/505852.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+              "url": "https://www.qbitai.com/2026/10/505830.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+              "url": "https://www.qbitai.com/2026/10/505773.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+              "date": "Wed, 28 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build specialized multimodal models with LFM3",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+              "date": "Tue, 27 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Can we trust LLMs to judge whether a research idea is novel?",
+              "url": "https://huggingface.co/blog/allenai/novelty-bench",
+              "date": "Tue, 27 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Does Your Model Run on AWS Trainium? Look It Up",
+              "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+              "date": "Fri, 23 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+              "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Ensemble forecasting with IBM Granite time-series models",
+              "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+              "date": "Thu, 22 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+              "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+              "date": "Wed, 21 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+              "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+              "date": "Wed, 21 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
