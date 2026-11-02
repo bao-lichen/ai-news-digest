@@ -43481,6 +43481,186 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-02",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨“黄金平替”，全球爆单；奇瑞高管回应智界独立；OpenAI宣布ChatGPT部分任务将与Codex共享额度",
+              "url": "https://36kr.com/p/4051860578702216?f=rss",
+              "date": "2026-11-02"
+            },
+            {
+              "source": "36氪",
+              "title": "9点1氪丨币安遭黑客攻击，致其30亿美元资产被冻结；“张雪机车”商标回归张雪；美股收盘纳指重挫700点，英伟达市值蒸发1.4万亿元",
+              "url": "https://36kr.com/p/4049089058126344?f=rss",
+              "date": "2026-10-31"
+            },
+            {
+              "source": "36氪",
+              "title": "AI初创企业的下半场：钱往哪里去？",
+              "url": "https://36kr.com/p/4048078906800642?f=rss",
+              "date": "2026-10-30"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨前华为VP创业做AI原生电力资产运营，获宁德时代旗下基金数千万美元A轮融资",
+              "url": "https://36kr.com/p/4047734928259592?f=rss",
+              "date": "2026-10-30"
+            },
+            {
+              "source": "36氪",
+              "title": "深交所：港股通标的证券名单调入深演智能（新）",
+              "url": "https://36kr.com/newsflashes/4051909386228611?f=rss",
+              "date": "2026-11-02"
+            },
+            {
+              "source": "36氪",
+              "title": "微软AI CEO警告：AI应保持无意识状态，我们无权创造“数字物种”",
+              "url": "https://36kr.com/newsflashes/4051887762084739?f=rss",
+              "date": "2026-11-02"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": []
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+              "url": "https://www.qbitai.com/2026/11/507076.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+              "url": "https://www.qbitai.com/2026/11/507038.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+              "url": "https://www.qbitai.com/2026/11/507031.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+              "url": "https://www.qbitai.com/2026/11/506990.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Jev新成果，再次引爆开源",
+              "url": "https://www.qbitai.com/2026/11/506922.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+              "url": "https://www.qbitai.com/2026/10/506904.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+              "url": "https://www.qbitai.com/2026/10/506884.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+              "url": "https://www.qbitai.com/2026/10/506866.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+              "url": "https://www.qbitai.com/2026/10/506855.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+              "url": "https://www.qbitai.com/2026/10/506779.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+              "url": "https://www.qbitai.com/2026/10/506771.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
+              "url": "https://www.qbitai.com/2026/10/506747.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "nemotron-halloween",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+              "date": "Fri, 30 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Switch 4.1.1 — Update models like you update software",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+              "date": "Thu, 29 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+              "url": "https://huggingface.co/blog/announcing-project-protostar",
+              "date": "Thu, 29 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+              "url": "https://huggingface.co/blog/mistral-large4",
+              "date": "Thu, 29 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+              "url": "https://huggingface.co/blog/anydecisionmodel",
+              "date": "Thu, 29 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build specialized multimodal models with LFM3",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+              "date": "Tue, 27 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Can we trust LLMs to judge whether a research idea is novel?",
+              "url": "https://huggingface.co/blog/allenai/novelty-bench",
+              "date": "Tue, 27 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Does Your Model Run on AWS Trainium? Look It Up",
+              "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+              "date": "Fri, 23 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
