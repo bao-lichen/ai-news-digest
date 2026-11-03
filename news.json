@@ -43661,6 +43661,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "实景实训推动应用落地 以赛促产赋能产业发展——人形机器人与具身智能实景实训挑战赛新闻发布会在京召开",
+              "url": "https://36kr.com/p/4052511128638336?f=rss",
+              "date": "2026-11-02"
+            },
+            {
+              "source": "36氪",
+              "title": "道通发布AAGI空地智能解决方案，以AIP平台打通无人集群协同作业｜最前线",
+              "url": "https://36kr.com/p/4052501649789825?f=rss",
+              "date": "2026-11-02"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨“黄金平替”，全球爆单；奇瑞高管回应智界独立；OpenAI宣布ChatGPT部分任务将与Codex共享额度",
+              "url": "https://36kr.com/p/4051860578702216?f=rss",
+              "date": "2026-11-02"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI聘请前美国陆军部长担任高级顾问",
+              "url": "https://36kr.com/newsflashes/4053289561871492?f=rss",
+              "date": "2026-11-03"
+            },
+            {
+              "source": "36氪",
+              "title": "国内首套超深竖井智能焊接成套装备投用，效率提升超65%",
+              "url": "https://36kr.com/newsflashes/4053300392809607?f=rss",
+              "date": "2026-11-03"
+            },
+            {
+              "source": "36氪",
+              "title": "AI算力驱动PCB行业呈现结构性高景气，全链加码高端产能",
+              "url": "https://36kr.com/newsflashes/4053281589072771?f=rss",
+              "date": "2026-11-03"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI承诺：极端天气下，旗下美国数据中心可削减用电负荷",
+              "url": "https://36kr.com/newsflashes/4053267930420357?f=rss",
+              "date": "2026-11-03"
+            },
+            {
+              "source": "36氪",
+              "title": "芯片厂商迈威尔科技拟800亿美元收购Lumentum",
+              "url": "https://36kr.com/newsflashes/4053264214414214?f=rss",
+              "date": "2026-11-03"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "搭载百度文心大模型：小度 AI 手表 Fit 国补 138 元探底，轻薄大屏无感佩戴",
+              "url": "https://www.ithome.com/1/021/316.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果第四财季库存金额超 140 亿美元同比激增 154%，存储芯片成本压力或持续至明年",
+              "url": "https://www.ithome.com/1/021/307.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "日本拟修订汽车安全认证标准，为 L4、L5 级自动驾驶车辆量产铺路",
+              "url": "https://www.ithome.com/1/021/304.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1103：奥尔特曼称个人电脑浪费内存遭全网声讨；苹果 2026 财年净利润 1321 亿美元；美团称外卖 15 元以下订单数量减半；世界机器人登泰山大赛收官...",
+              "url": "https://www.ithome.com/1/021/302.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 喊话 2028 美大选候选人：AI 将是重要的必答题",
+              "url": "https://www.ithome.com/1/021/295.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "腾讯 TenPay Global 与万事达卡签署合作备忘录，入境扫码支付、汇款与智能体支付同步推进",
+              "url": "https://www.ithome.com/1/021/294.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "我国超深地下工程装备获突破，国内首套超深竖井智能焊接成套装备投用",
+              "url": "https://www.ithome.com/1/021/292.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "高通 HBC 完成验证：133 TB/s 内存带宽 18 倍于 AI200，AI250 明年上半年出样",
+              "url": "https://www.ithome.com/1/021/286.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀",
+              "url": "https://www.ithome.com/1/021/274.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "3299 → 728 元再降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平",
+              "url": "https://www.ithome.com/1/020/786.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+              "url": "https://www.qbitai.com/2026/11/507260.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+              "url": "https://www.qbitai.com/2026/11/507225.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+              "url": "https://www.qbitai.com/2026/11/507107.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+              "url": "https://www.qbitai.com/2026/11/507082.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+              "url": "https://www.qbitai.com/2026/11/507076.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+              "url": "https://www.qbitai.com/2026/11/507038.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+              "url": "https://www.qbitai.com/2026/11/507031.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+              "url": "https://www.qbitai.com/2026/11/506990.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Jev新成果，再次引爆开源",
+              "url": "https://www.qbitai.com/2026/11/506922.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+              "url": "https://www.qbitai.com/2026/10/506904.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+              "url": "https://www.qbitai.com/2026/10/506884.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+              "url": "https://www.qbitai.com/2026/10/506866.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "nemotron-halloween",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+              "date": "Fri, 30 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Switch 4.1.1 — Update models like you update software",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+              "date": "Thu, 29 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+              "url": "https://huggingface.co/blog/announcing-project-protostar",
+              "date": "Thu, 29 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+              "url": "https://huggingface.co/blog/mistral-large4",
+              "date": "Thu, 29 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+              "url": "https://huggingface.co/blog/anydecisionmodel",
+              "date": "Thu, 29 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build specialized multimodal models with LFM3",
+              "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+              "date": "Tue, 27 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Can we trust LLMs to judge whether a research idea is novel?",
+              "url": "https://huggingface.co/blog/allenai/novelty-bench",
+              "date": "Tue, 27 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Does Your Model Run on AWS Trainium? Look It Up",
+              "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+              "date": "Fri, 23 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
