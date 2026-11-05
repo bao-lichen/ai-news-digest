@@ -44167,6 +44167,253 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-05",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "当AI不再「夸夸其谈」：决策模型爆红，物理世界需要端侧「快判断」",
+              "url": "https://36kr.com/p/4055330063766663?f=rss",
+              "date": "2026-11-04"
+            },
+            {
+              "source": "36氪",
+              "title": "“AI+咖啡”改写产业链：新消费场景下的降本增效与青年机会",
+              "url": "https://36kr.com/p/4054786040026244?f=rss",
+              "date": "2026-11-04"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货",
+              "url": "https://36kr.com/p/4054776980378758?f=rss",
+              "date": "2026-11-04"
+            },
+            {
+              "source": "36氪",
+              "title": "国金证券：AI眼镜全彩化与AI交互共振，镜片与渠道有望提前受益",
+              "url": "https://36kr.com/newsflashes/4056136274465921?f=rss",
+              "date": "2026-11-05"
+            },
+            {
+              "source": "36氪",
+              "title": "字节新规限制员工使用外部AI？知情人士回应",
+              "url": "https://36kr.com/newsflashes/4056135544165507?f=rss",
+              "date": "2026-11-05"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：AI算力链增长突出，估值消化后聚焦业绩兑现",
+              "url": "https://36kr.com/newsflashes/4056115783996546?f=rss",
+              "date": "2026-11-05"
+            },
+            {
+              "source": "36氪",
+              "title": "QFII三季度持仓市值同比增近八成，偏爱AI硬件等科创领域",
+              "url": "https://36kr.com/newsflashes/4056113209725831?f=rss",
+              "date": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "裴宇预告 Nothing 将于 12 月发布首款 AI 原生设备",
+              "url": "https://www.ithome.com/1/022/507.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为宣布昇腾 0 Day 支持 Kimi K3.1 Pro 推理部署，2.8 万亿级 MoE 模型能力再进阶",
+              "url": "https://www.ithome.com/1/022/502.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic 绘制出全球首个包含 96 个蛋白质副本的 3D 细菌库：Claude 辅助加速研究，纯化时间从 3 天缩短至 90 分钟",
+              "url": "https://www.ithome.com/1/022/501.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1105：调查显示近七成中国受访者今年不换手机；苹果就多地天气突现-32℃ 致歉；曝华为子品牌星芒英文名 OSTA；传字节将限制员工自费使用 Claude...",
+              "url": "https://www.ithome.com/1/022/498.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "月之暗面 2.8 万亿参数 Kimi K3.1 Pro 开放权重，登顶 Agent Arena 开源模型榜",
+              "url": "https://www.ithome.com/1/022/490.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 升级 ChatGPT 图片能力，支持直接生成和编辑 GIF 动画",
+              "url": "https://www.ithome.com/1/022/486.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "由 SK 海力士提供：苹果 HomePod mini 2 智能音箱确认配 2GB 内存",
+              "url": "https://www.ithome.com/1/022/485.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "彭博社称苹果收紧员工 AI 使用预算：部分工程师日额度下降 33%，恐进一步下探至 100 美元",
+              "url": "https://www.ithome.com/1/022/479.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 扫描 Linux 内核发现 948 个可提权漏洞，2308 个候选问题中有 1724 个成功复现",
+              "url": "https://www.ithome.com/1/022/476.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为小艺 Work 率先上线 openPangu-2.1-Pro 模型，主打“鸿蒙任务增强”",
+              "url": "https://www.ithome.com/1/022/472.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+              "url": "https://www.qbitai.com/2026/11/507675.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+              "url": "https://www.qbitai.com/2026/11/507586.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+              "url": "https://www.qbitai.com/2026/11/507574.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+              "url": "https://www.qbitai.com/2026/11/507567.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+              "url": "https://www.qbitai.com/2026/11/507533.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+              "url": "https://www.qbitai.com/2026/11/507473.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+              "url": "https://www.qbitai.com/2026/11/507448.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+              "url": "https://www.qbitai.com/2026/11/507419.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+              "url": "https://www.qbitai.com/2026/11/507410.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+              "url": "https://www.qbitai.com/2026/11/507405.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+              "url": "https://www.qbitai.com/2026/11/507396.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+              "url": "https://www.qbitai.com/2026/11/507382.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+              "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+              "date": "Wed, 04 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "StateBench: Testing how language models track state changes over long documents",
+              "url": "https://huggingface.co/blog/allenai/statebench",
+              "date": "Tue, 03 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Palette: teaching a small model to build decks in your design language",
+              "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+              "date": "Tue, 03 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "CWE-bench v2: More coverage, quality, and transparency",
+              "url": "https://huggingface.co/blog/cwe-bench",
+              "date": "Tue, 03 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Transformers Model Integration Contracts",
+              "url": "https://huggingface.co/blog/transformers-mic",
+              "date": "Tue, 03 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "nemotron-halloween",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+              "date": "Fri, 30 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Switch 4.1.1 — Update models like you update software",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+              "date": "Thu, 29 Oc"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+              "url": "https://huggingface.co/blog/announcing-project-protostar",
+              "date": "Thu, 29 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
