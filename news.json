@@ -44414,6 +44414,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-06",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "Personal Agent的竞争，开始于用户想清楚之前",
+              "url": "https://36kr.com/p/4056508925432710?f=rss",
+              "date": "2026-11-05"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨创新工场投了家成都具身模型公司，已实现拣选环节新零件免训练",
+              "url": "https://36kr.com/p/4056586458862728?f=rss",
+              "date": "2026-11-05"
+            },
+            {
+              "source": "36氪",
+              "title": "国资入股、「臻泰智能」获数千万元B轮融资，脑机康复产品进入500+医院｜36氪首发",
+              "url": "https://36kr.com/p/4055104890655622?f=rss",
+              "date": "2026-11-05"
+            },
+            {
+              "source": "36氪",
+              "title": "对冲基金VARA在AI股票的“惨烈”10月暴跌33%",
+              "url": "https://36kr.com/newsflashes/4057557508379783?f=rss",
+              "date": "2026-11-06"
+            },
+            {
+              "source": "36氪",
+              "title": "订单能见度提升，AI产业链迎来盈利兑现时刻",
+              "url": "https://36kr.com/newsflashes/4057530483725448?f=rss",
+              "date": "2026-11-06"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "Anthropic 推出 Claude 个人理财功能，支持消费分析和账单追踪",
+              "url": "https://www.ithome.com/1/023/051.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "京东物流“狼族”机器人升级：智狼取货提速、保姆狼实现无人分拣",
+              "url": "https://www.ithome.com/1/023/048.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenSSH 紧急修复 Alpine Linux 严重漏洞：超 256 字节密码即可突破 SSH 防线",
+              "url": "https://www.ithome.com/1/023/047.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Hugging Face CEO 称 AI“末日风险”接近于零，真正危险来自闭门造车",
+              "url": "https://www.ithome.com/1/023/045.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "蚂蚁百灵大模型 Ling 3.2 Flash 发布：三项基准超越 Claude Opus 5，前两周限时免费",
+              "url": "https://www.ithome.com/1/023/043.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "联发科组建“封装梦之队”：招募 37 年经验前英特尔老将，双线布局 AI 芯片 CoWoS+EMIB 战略",
+              "url": "https://www.ithome.com/1/023/041.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达破局 AI 内存瓶颈：HBM 仅增约 3%，每美元智能体吞吐量最高提升 30 倍",
+              "url": "https://www.ithome.com/1/023/025.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 最强网安 AI 模型：GPT-6 Cyber 登场，性能提高 51%、发现火狐 Firefox 浏览器 81 个新漏洞",
+              "url": "https://www.ithome.com/1/023/038.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "AI 时代最强“芯脏”：英伟达实测 Vera CPU，较最快 x86 CPU 每瓦多跑 60% 智能体",
+              "url": "https://www.ithome.com/1/023/029.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果首款智能家居中枢 HomeView 确认配备 8GB 内存",
+              "url": "https://www.ithome.com/1/023/036.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+              "url": "https://www.qbitai.com/2026/11/507834.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
+              "url": "https://www.qbitai.com/2026/11/507823.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "网易发力互动式讲题Agent：有道“欧拉讲题”上线，推翻行业“搜题生意”，开卷“讲题力”",
+              "url": "https://www.qbitai.com/2026/11/507822.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+              "url": "https://www.qbitai.com/2026/11/507787.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+              "url": "https://www.qbitai.com/2026/11/507782.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+              "url": "https://www.qbitai.com/2026/11/507767.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+              "url": "https://www.qbitai.com/2026/11/507696.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+              "url": "https://www.qbitai.com/2026/11/507707.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+              "url": "https://www.qbitai.com/2026/11/507697.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+              "url": "https://www.qbitai.com/2026/11/507688.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+              "url": "https://www.qbitai.com/2026/11/507675.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+              "url": "https://www.qbitai.com/2026/11/507586.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+              "date": "Thu, 05 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+              "url": "https://huggingface.co/blog/phonon-tts",
+              "date": "Thu, 05 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+              "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+              "date": "Wed, 04 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "StateBench: Testing how language models track state changes over long documents",
+              "url": "https://huggingface.co/blog/allenai/statebench",
+              "date": "Tue, 03 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Palette: teaching a small model to build decks in your design language",
+              "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+              "date": "Tue, 03 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "CWE-bench v2: More coverage, quality, and transparency",
+              "url": "https://huggingface.co/blog/cwe-bench",
+              "date": "Tue, 03 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Transformers Model Integration Contracts",
+              "url": "https://huggingface.co/blog/transformers-mic",
+              "date": "Tue, 03 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Granite Switch 4.1.1 — Update models like you update software",
+              "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+              "date": "Thu, 29 Oc"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
