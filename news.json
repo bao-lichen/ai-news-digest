@@ -45323,6 +45323,223 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨外媒称黄仁勋或被英伟达免职，尚未指定接班人；突然大规模封号，ChatGPT回应；买烟可优先结账？零食有鸣回应",
+              "url": "https://36kr.com/p/4063180322526336?f=rss",
+              "date": "2026-11-10"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达、SK电信与Rebellions签署备忘录，共建异构AI计算系统",
+              "url": "https://36kr.com/newsflashes/4063168669700997?f=rss",
+              "date": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "512G 国补后 2744 元：华为 Mate 70 Air 再降新低，双卡双扬多摄大电池",
+              "url": "https://www.ithome.com/1/024/606.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 推出轻量级 AI 模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
+              "url": "https://www.ithome.com/1/024/604.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果推出 50 美元 AI 使用包：Logic Pro 率先支持付费扩容，有效期 12 个月",
+              "url": "https://www.ithome.com/1/024/590.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1110：出轨风波后英伟达宣布 CEO 黄仁勋仍将留任；华为、江淮和 Stellantis 三方合作车型外观确认；尊界或推 40-50 万子品牌；奥迪 A8 旗舰轿车停产...",
+              "url": "https://www.ithome.com/1/024/579.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%",
+              "url": "https://www.ithome.com/1/024/573.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch",
+              "url": "https://www.ithome.com/1/024/571.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达黄仁勋承认出轨，消息称其去年已聘请擅长处理丑闻的危机公关公司",
+              "url": "https://www.ithome.com/1/024/565.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "何小鹏：希望小鹏明年能成为第一个在欧洲上线智能辅助驾驶的中国品牌",
+              "url": "https://www.ithome.com/1/024/561.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”",
+              "url": "https://www.ithome.com/1/024/559.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美团龙猫开源 LongCat-2.5 模型：总参数 1.6 万亿，支持百万上下文",
+              "url": "https://www.ithome.com/1/024/556.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+              "url": "https://www.qbitai.com/2026/11/508787.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5",
+              "url": "https://www.qbitai.com/2026/11/508771.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
+              "url": "https://www.qbitai.com/2026/11/508745.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
+              "url": "https://www.qbitai.com/2026/11/508753.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
+              "url": "https://www.qbitai.com/2026/11/508746.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“AI毁了我的计算机学位”",
+              "url": "https://www.qbitai.com/2026/11/508706.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+              "url": "https://www.qbitai.com/2026/11/507843.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+              "url": "https://www.qbitai.com/2026/11/508694.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+              "url": "https://www.qbitai.com/2026/11/508690.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+              "url": "https://www.qbitai.com/2026/11/508629.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+              "url": "https://www.qbitai.com/2026/11/508607.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+              "url": "https://www.qbitai.com/2026/11/508603.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+              "date": "Mon, 09 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+              "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+              "date": "Mon, 09 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+              "url": "https://huggingface.co/blog/allenai/toyblocks",
+              "date": "Fri, 06 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+              "date": "Fri, 06 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+              "url": "https://huggingface.co/blog/phonon-tts",
+              "date": "Thu, 05 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+              "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+              "date": "Wed, 04 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Palette: teaching a small model to build decks in your design language",
+              "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+              "date": "Tue, 03 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "CWE-bench v2: More coverage, quality, and transparency",
+              "url": "https://huggingface.co/blog/cwe-bench",
+              "date": "Tue, 03 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
