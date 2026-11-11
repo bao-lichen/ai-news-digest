@@ -45540,6 +45540,247 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+              "url": "https://36kr.com/p/4064610635781257?f=rss",
+              "date": "2026-11-11"
+            },
+            {
+              "source": "36氪",
+              "title": "G7易流7700亿Token背后：物流AI从屏幕走向一线现场｜最前线",
+              "url": "https://36kr.com/p/4063605732627331?f=rss",
+              "date": "2026-11-10"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨外媒称黄仁勋或被英伟达免职，尚未指定接班人；突然大规模封号，ChatGPT回应；买烟可优先结账？零食有鸣回应",
+              "url": "https://36kr.com/p/4063180322526336?f=rss",
+              "date": "2026-11-10"
+            },
+            {
+              "source": "36氪",
+              "title": "券商策略会把脉2027年行业机遇：算力投资看兑现",
+              "url": "https://36kr.com/newsflashes/4064634366547074?f=rss",
+              "date": "2026-11-11"
+            },
+            {
+              "source": "36氪",
+              "title": "SK集团高管据悉本周开会讨论明年商业战略，人工智能将是关键议题",
+              "url": "https://36kr.com/newsflashes/4064633511416966?f=rss",
+              "date": "2026-11-11"
+            },
+            {
+              "source": "36氪",
+              "title": "Anthropic进军人工智能办公软件，IPO前与微软谷歌竞争升温",
+              "url": "https://36kr.com/newsflashes/4064625635185794?f=rss",
+              "date": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "谷歌更新安卓 AI 开发基准榜单：Kimi K3.1 Pro / DeepSeek V4.1 Flash 成绩揭晓",
+              "url": "https://www.ithome.com/1/025/232.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "挑战微软 Win11：原生 AI 系统 KORA 登场，将率先适配高通骁龙 X2 Elite 芯片",
+              "url": "https://www.ithome.com/1/025/226.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果子公司 Claris 正测试「Harbor」应用：将 Mac 变身本地 AI 服务器",
+              "url": "https://www.ithome.com/1/025/225.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1111：Anthropic 启动最高 643.5 亿美元 IPO；全球最强模型 Claude Fable 5.2 登场；董明珠称因铜涨价致格力业绩下滑...",
+              "url": "https://www.ithome.com/1/025/224.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软游说美国政府放弃中国光模块进口限制，担忧拖慢 AI 数据中心建设",
+              "url": "https://www.ithome.com/1/025/218.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "索尼 PlayStation 服务型射击游戏《Fairgame$》已被取消，Haven Studios 工作室不会裁员",
+              "url": "https://www.ithome.com/1/025/216.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "技嘉推出 RTX Spark 迷你主机 AI Top Aero，最高 128GB 统一内存",
+              "url": "https://www.ithome.com/1/025/213.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果为 AirPods 5/AirPods Pro 3 等耳机推送 9B47 固件更新",
+              "url": "https://www.ithome.com/1/025/210.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告",
+              "url": "https://www.ithome.com/1/025/206.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌最强 VLA 机器人模型：Gemini Robotics 2.5 登场，会系蝴蝶结、已在奔驰生产线上岗",
+              "url": "https://www.ithome.com/1/025/188.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+              "url": "https://www.qbitai.com/2026/11/509032.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+              "url": "https://www.qbitai.com/2026/11/509017.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+              "url": "https://www.qbitai.com/2026/11/508996.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+              "url": "https://www.qbitai.com/2026/11/508998.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+              "url": "https://www.qbitai.com/2026/11/508991.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+              "url": "https://www.qbitai.com/2026/11/508985.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Token卷到触觉了！机器人终于有了通用手感",
+              "url": "https://www.qbitai.com/2026/11/508919.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+              "url": "https://www.qbitai.com/2026/11/508912.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+              "url": "https://www.qbitai.com/2026/11/508787.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5",
+              "url": "https://www.qbitai.com/2026/11/508771.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
+              "url": "https://www.qbitai.com/2026/11/508745.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
+              "url": "https://www.qbitai.com/2026/11/508753.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+              "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+              "date": "Tue, 10 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Decision Models in Hugging Face",
+              "url": "https://huggingface.co/blog/decision",
+              "date": "Tue, 10 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+              "date": "Mon, 09 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+              "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+              "date": "Mon, 09 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+              "url": "https://huggingface.co/blog/allenai/toyblocks",
+              "date": "Fri, 06 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+              "date": "Fri, 06 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+              "url": "https://huggingface.co/blog/phonon-tts",
+              "date": "Thu, 05 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+              "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+              "date": "Wed, 04 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
