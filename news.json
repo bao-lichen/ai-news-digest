@@ -45781,6 +45781,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨黄仁勋已回英伟达上班，就最近的风波向员工致歉；贾国龙质押西贝全部股份；Anthropic IPO获数倍超额认购",
+              "url": "https://36kr.com/p/4066019497464960?f=rss",
+              "date": "2026-11-12"
+            },
+            {
+              "source": "36氪",
+              "title": "日薪180，在「流水线」上给机器人当老师",
+              "url": "https://36kr.com/p/4065157431317385?f=rss",
+              "date": "2026-11-11"
+            },
+            {
+              "source": "36氪",
+              "title": "对话英矽智能任峰：年轻的AI4S创业者，我羡慕你们的野心和创造力",
+              "url": "https://36kr.com/p/4059772128646019?f=rss",
+              "date": "2026-11-11"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨交大团队获中网投与清华系资本领投亿元级融资，以“原子+光子芯片”切入量子计算",
+              "url": "https://36kr.com/p/4064699766068101?f=rss",
+              "date": "2026-11-11"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+              "url": "https://36kr.com/p/4064610635781257?f=rss",
+              "date": "2026-11-11"
+            },
+            {
+              "source": "36氪",
+              "title": "百亿私募逆势加仓，称AI长期发展趋势未改",
+              "url": "https://36kr.com/newsflashes/4066024373932937?f=rss",
+              "date": "2026-11-12"
+            },
+            {
+              "source": "36氪",
+              "title": "AI数据中心初创公司Torus完成5亿美元融资，推出集成储能系统的模块化数据中心",
+              "url": "https://36kr.com/newsflashes/4066023469929351?f=rss",
+              "date": "2026-11-12"
+            },
+            {
+              "source": "36氪",
+              "title": "产业端进展催化股价上涨，机器人主题ETF规模水涨船高",
+              "url": "https://36kr.com/newsflashes/4066028579754883?f=rss",
+              "date": "2026-11-12"
+            },
+            {
+              "source": "36氪",
+              "title": "Sixth Street首席执行官对AI热潮保持谨慎，警告称投机行为盛行",
+              "url": "https://36kr.com/newsflashes/4065997484970881?f=rss",
+              "date": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "谷歌推出 Gemini Decisions API 快速多模态决策，基于 Gemini Decision 1 模型",
+              "url": "https://www.ithome.com/1/025/858.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Polymarket 预测黄仁勋之女黄敏珊成接任英伟达 CEO 热门人选",
+              "url": "https://www.ithome.com/1/025/857.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "桃色丑闻重创 AI 芯片巨头：黄仁勋第二段婚外情曝光，英伟达盘后股价重挫逾 9%",
+              "url": "https://www.ithome.com/1/025/855.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达董事会已聘请外部机构物色新 CEO 候选人以接替黄仁勋，同时考虑临时 CEO 方案",
+              "url": "https://www.ithome.com/1/025/852.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1112：曝英伟达正准备罢免 CEO 黄仁勋；华为全新子品牌星芒官宣；苹果 20 周年款 iPhone 前瞻整机如整块玻璃；5 位师傅仅 2 位说实话家电维修乱象曝光...",
+              "url": "https://www.ithome.com/1/025/847.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "88% 受访开发者点头赞成：FreeBSD 组建工作组制定 AI 使用新规",
+              "url": "https://www.ithome.com/1/025/845.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "全球最大 AI 聚合平台 OpenRouter 正式并入 Stripe：将优化词元路由和用量",
+              "url": "https://www.ithome.com/1/025/833.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Nothing CEO 裴宇展示公司首款 AI 设备，预计采用无屏幕设计",
+              "url": "https://www.ithome.com/1/025/832.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 CarPlay 接入谷歌 Gemini：车里也能和 AI 自然聊天",
+              "url": "https://www.ithome.com/1/025/831.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "不仅一段婚外情？消息称英伟达正准备罢免 CEO 黄仁勋，公司股价盘后大跌",
+              "url": "https://www.ithome.com/1/025/829.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "上海造、香港连，中国AI加速走向全球",
+              "url": "https://www.qbitai.com/2026/11/509214.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
+              "url": "https://www.qbitai.com/2026/11/509203.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+              "url": "https://www.qbitai.com/2026/11/509088.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+              "url": "https://www.qbitai.com/2026/11/509085.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+              "url": "https://www.qbitai.com/2026/11/509052.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+              "url": "https://www.qbitai.com/2026/11/509032.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+              "url": "https://www.qbitai.com/2026/11/509017.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+              "url": "https://www.qbitai.com/2026/11/508996.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+              "url": "https://www.qbitai.com/2026/11/508998.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+              "url": "https://www.qbitai.com/2026/11/508991.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+              "url": "https://www.qbitai.com/2026/11/508985.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Token卷到触觉了！机器人终于有了通用手感",
+              "url": "https://www.qbitai.com/2026/11/508919.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+              "url": "https://huggingface.co/blog/qvac/botpsy",
+              "date": "Wed, 11 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+              "url": "https://huggingface.co/blog/token-pooling",
+              "date": "Wed, 11 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+              "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+              "date": "Tue, 10 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Decision Models in Hugging Face",
+              "url": "https://huggingface.co/blog/decision",
+              "date": "Tue, 10 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+              "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+              "date": "Mon, 09 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+              "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+              "date": "Mon, 09 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+              "url": "https://huggingface.co/blog/allenai/toyblocks",
+              "date": "Fri, 06 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+              "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+              "date": "Fri, 06 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
