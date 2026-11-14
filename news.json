@@ -46305,6 +46305,265 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "炸了！英伟达最大的雷，是没接班人",
+              "url": "https://36kr.com/p/4067628486267780?f=rss",
+              "date": "2026-11-13"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨北航博士做AI4S，获亿元融资，要造自驱动实验室",
+              "url": "https://36kr.com/p/4067548192576389?f=rss",
+              "date": "2026-11-13"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨英伟达宣布CEO黄仁勋辞职，特朗普：建议库克接任；腾讯“裁员50%”？知情人士回应；宣扬错误婚恋观，德芙代运营方被罚80万",
+              "url": "https://36kr.com/p/4067443683120000?f=rss",
+              "date": "2026-11-13"
+            },
+            {
+              "source": "36氪",
+              "title": "硬氪首发丨前迪士尼亚太成员下场“造”交互智能基座，获数百万种子轮融资",
+              "url": "https://36kr.com/p/4066337448907656?f=rss",
+              "date": "2026-11-12"
+            },
+            {
+              "source": "36氪",
+              "title": "江波龙：根据第三方公开的智能产品拆机信息，宇树机器狗等产品已采用了公司嵌入式存储",
+              "url": "https://36kr.com/newsflashes/4068188501496706?f=rss",
+              "date": "2026-11-13"
+            },
+            {
+              "source": "36氪",
+              "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
+              "url": "https://36kr.com/newsflashes/4068187392496512?f=rss",
+              "date": "2026-11-13"
+            },
+            {
+              "source": "36氪",
+              "title": "协创数据回应网传“拿卡渠道受阻”：不属实，当前采购渠道畅通算力业务有序推进",
+              "url": "https://36kr.com/newsflashes/4068159271015558?f=rss",
+              "date": "2026-11-13"
+            },
+            {
+              "source": "36氪",
+              "title": "市场监管总局批准发布《智能制造 流程工业智能工厂业务管理规范》国家标准",
+              "url": "https://36kr.com/newsflashes/4068155352044422?f=rss",
+              "date": "2026-11-13"
+            },
+            {
+              "source": "36氪",
+              "title": "长盈精密：新能源业务稳健增长，具身智能板块爆发式增长，短期利润承压",
+              "url": "https://36kr.com/newsflashes/4068128662508679?f=rss",
+              "date": "2026-11-13"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "本地推理引擎 llama.cpp 1.0.0 史诗级更新：支持超 150 种模型架构，断网也能满血跑大模型",
+              "url": "https://www.ithome.com/1/027/019.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "目标替代微软 Office：欧洲开源办公软件 Euro-Office 桌面版上线，断网也能办公",
+              "url": "https://www.ithome.com/1/027/013.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "流程工业智能工厂建设有了统一标尺，新国标明年 5 月 1 日起实施",
+              "url": "https://www.ithome.com/1/027/008.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+              "url": "https://www.ithome.com/1/027/004.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
+              "url": "https://www.ithome.com/1/027/002.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人",
+              "url": "https://www.ithome.com/1/026/998.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
+              "url": "https://www.ithome.com/1/026/994.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华为麒麟 9050 系列芯片新一代灵犀 CPU 详细信息公开：9 核 16 线程并行调度，支持内存压缩加速",
+              "url": "https://www.ithome.com/1/026/993.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "索尼：PS5 超分技术 QSSR 即将登陆《漫威蜘蛛侠 2》《ARC Raiders》等作品",
+              "url": "https://www.ithome.com/1/026/967.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "黄仁勋辞任英伟达 CEO，或给 Anthropic 下周“史上最大 IPO”添变数",
+              "url": "https://www.ithome.com/1/026/965.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+              "url": "https://www.qbitai.com/2026/11/509995.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+              "url": "https://www.qbitai.com/2026/11/509827.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+              "url": "https://www.qbitai.com/2026/11/509730.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+              "url": "https://www.qbitai.com/2026/11/509716.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+              "url": "https://www.qbitai.com/2026/11/509710.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+              "url": "https://www.qbitai.com/2026/11/509663.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+              "url": "https://www.qbitai.com/2026/11/509653.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "特斯拉和SpaceX最快下月合并",
+              "url": "https://www.qbitai.com/2026/11/509613.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+              "url": "https://www.qbitai.com/2026/11/509614.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "国产大模型又杀出一匹黑马，引发硅谷关注！",
+              "url": "https://www.qbitai.com/2026/11/509576.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "突发，马斯克裁掉了整个多模态团队",
+              "url": "https://www.qbitai.com/2026/11/509545.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "大模型都能控机器人，Human Data还得怎么卷？",
+              "url": "https://www.qbitai.com/2026/11/509468.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+              "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "XYBench: Helping with the problem behind the question",
+              "url": "https://huggingface.co/blog/allenai/xybench",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+              "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+              "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+              "date": "Thu, 12 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+              "url": "https://huggingface.co/blog/3d-lora-finetuning",
+              "date": "Thu, 12 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+              "url": "https://huggingface.co/blog/qvac/botpsy",
+              "date": "Wed, 11 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+              "url": "https://huggingface.co/blog/token-pooling",
+              "date": "Wed, 11 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+              "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+              "date": "Tue, 10 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
