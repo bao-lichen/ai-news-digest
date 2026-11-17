@@ -47052,6 +47052,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨DeepSeek因算力不足限额；英伟达董事会没考虑让黄仁勋回公司担任CEO；AI演员代言美瞳广告被罚6.82万",
+              "url": "https://36kr.com/p/4073099271230601?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "AI时代，TCL华星开始重新理解一块好屏",
+              "url": "https://36kr.com/p/4071761698263939?f=rss",
+              "date": "2026-11-16"
+            },
+            {
+              "source": "36氪",
+              "title": "杨哲轩谈数据编译、模型能力与机器人如何重新进入真实世界",
+              "url": "https://36kr.com/p/4072117363495816?f=rss",
+              "date": "2026-11-16"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨黄仁勋考虑回归担任英伟达CEO；129万/支的“天价抗癌药”进医保了；美国罕见全国停飞超4小时",
+              "url": "https://36kr.com/p/4071682515817605?f=rss",
+              "date": "2026-11-16"
+            },
+            {
+              "source": "36氪",
+              "title": "工信部批准《人工智能 关键基础技术 具身智能数据生成系统技术要求》等274项行业标准",
+              "url": "https://36kr.com/newsflashes/4073147133367172?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：物理AI是人工智能下一波浪潮，建议聚焦优质环节",
+              "url": "https://36kr.com/newsflashes/4073095778112647?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "新加坡表示正在研究美国针对AI芯片出口许可的临时新规",
+              "url": "https://36kr.com/newsflashes/4073093682336903?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：内需消费景气或底部反转 涨价链、制造、AI链结构性亮点延续",
+              "url": "https://36kr.com/newsflashes/4073092301869954?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "华泰证券：端侧AI催化密集，看好需求扩容与电池技术升级",
+              "url": "https://36kr.com/newsflashes/4073087280468871?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "美国启动AI出口计划，邀请企业提交海外销售方案",
+              "url": "https://36kr.com/newsflashes/4073084108100742?f=rss",
+              "date": "2026-11-17"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "苹果 iPadOS / macOS 27.3 DP Beta 2 系统更新后，国行 iPad 和 Mac 新增 Apple 智能",
+              "url": "https://www.ithome.com/1/028/039.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1117：特朗普支持苹果库克执掌英伟达但不介意黄仁勋回归；阿里千问 4Max 上线；华为 Mate X8 折叠屏 11 月 24 日发布；OPPO Reno17 手机发布...",
+              "url": "https://www.ithome.com/1/028/038.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英特尔 350W 新卡 D270 亮剑，金融算力较英伟达 600W 加速卡飙升 5.9 倍",
+              "url": "https://www.ithome.com/1/027/972.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达发布 Rubin HPC GPU：单卡超 5 万 CUDA 核心创纪录，预计 2028 年上市",
+              "url": "https://www.ithome.com/1/027/998.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 iOS 27.3 测试版新增 Siri AI 每日限额，付费订阅 iCloud+ 可提升 2~20 倍",
+              "url": "https://www.ithome.com/1/028/033.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职",
+              "url": "https://www.ithome.com/1/028/032.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "问界新 M8 率先进驻 AITO 用户中心，华为终端门店停止接单",
+              "url": "https://www.ithome.com/1/028/031.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "做 App 副业的最佳 AI 助手：谷歌推出系列工具，瞄准最头疼的变现环节",
+              "url": "https://www.ithome.com/1/028/029.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美国加州正式起诉 OpenAI，指控 AI 智能体至少 80 次失控",
+              "url": "https://www.ithome.com/1/028/028.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，从抽签改为先到先得",
+              "url": "https://www.ithome.com/1/028/027.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+              "url": "https://www.qbitai.com/2026/11/510542.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+              "url": "https://www.qbitai.com/2026/11/510526.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+              "url": "https://www.qbitai.com/2026/11/510493.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+              "url": "https://www.qbitai.com/2026/11/510486.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+              "url": "https://www.qbitai.com/2026/11/510436.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+              "url": "https://www.qbitai.com/2026/11/510416.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+              "url": "https://www.qbitai.com/2026/11/510404.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "今天截止！2026年度AI表彰，错过再等一年！",
+              "url": "https://www.qbitai.com/2026/11/510382.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+              "url": "https://www.qbitai.com/2026/11/510369.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "黄仁勋筹备重返英伟达",
+              "url": "https://www.qbitai.com/2026/11/510358.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "谷歌奇袭英伟达：整柜TPU外售加速交付，推理每美元性能领先GB200五成",
+              "url": "https://www.qbitai.com/2026/11/510349.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球AI音乐榜第一易主！中国黑马首次上榜就干翻Suno",
+              "url": "https://www.qbitai.com/2026/11/510333.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+              "url": "https://huggingface.co/blog/openrouter",
+              "date": "Mon, 16 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+              "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "XYBench: Helping with the problem behind the question",
+              "url": "https://huggingface.co/blog/allenai/xybench",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+              "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+              "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+              "date": "Thu, 12 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+              "url": "https://huggingface.co/blog/3d-lora-finetuning",
+              "date": "Thu, 12 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+              "url": "https://huggingface.co/blog/qvac/botpsy",
+              "date": "Wed, 11 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+              "url": "https://huggingface.co/blog/token-pooling",
+              "date": "Wed, 11 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
