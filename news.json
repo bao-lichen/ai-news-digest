@@ -47317,6 +47317,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资",
+              "url": "https://36kr.com/p/4072516740797318?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "AI正在杀死游戏行业吗？| 游戏风向标",
+              "url": "https://36kr.com/p/4073486195332226?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "业绩快报 | 爱奇艺Q3Non-GAAP运营盈利，内容生态转型与AI战略初显成效",
+              "url": "https://36kr.com/p/4073327210304649?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产｜硬氪首发",
+              "url": "https://36kr.com/p/4072342767047814?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨DeepSeek因算力不足限额；英伟达董事会没考虑让黄仁勋回公司担任CEO；AI演员代言美瞳广告被罚6.82万",
+              "url": "https://36kr.com/p/4073099271230601?f=rss",
+              "date": "2026-11-17"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达临时CEO称AI需求旺盛，预计将持续至2028年",
+              "url": "https://36kr.com/newsflashes/4074538601387141?f=rss",
+              "date": "2026-11-18"
+            },
+            {
+              "source": "36氪",
+              "title": "爱尔兰叫停X：禁止用AI智能体抓取第三方数据训练Grok",
+              "url": "https://36kr.com/newsflashes/4074539437888390?f=rss",
+              "date": "2026-11-18"
+            },
+            {
+              "source": "36氪",
+              "title": "黄仁勋离职动摇客户信心，AMD与谷歌蚕食英伟达市场份额",
+              "url": "https://36kr.com/newsflashes/4074519572337541?f=rss",
+              "date": "2026-11-18"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：旗舰模型加快迭代，Agent商业场景扩展",
+              "url": "https://36kr.com/newsflashes/4074518741030022?f=rss",
+              "date": "2026-11-18"
+            },
+            {
+              "source": "36氪",
+              "title": "美国加州禁止Waymo自动驾驶汽车在高速公路上运营",
+              "url": "https://36kr.com/newsflashes/4074515009115012?f=rss",
+              "date": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "微软 CEO 纳德拉称自己是“AGI 信徒”，但否认 AI 具有意识",
+              "url": "https://www.ithome.com/1/028/609.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达加码供应链，向 ABF 基板制造商景硕投资超 10 亿美元",
+              "url": "https://www.ithome.com/1/028/608.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "贝索斯谈英伟达 CEO 人选：公司业务太复杂，若黄仁勋不回归应优先内部选拔",
+              "url": "https://www.ithome.com/1/028/606.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "欧洲机器人行业规模最大融资之一：Genesis AI 完成 5 亿美元 A 轮融资，估值 35 亿美元",
+              "url": "https://www.ithome.com/1/028/605.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软联合埃森哲、Adobe、万事达卡、沃尔沃等 40 多家组织推进 AI 标准：强调观察、验证和控制，覆盖闭源和开放权重模型",
+              "url": "https://www.ithome.com/1/028/603.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍",
+              "url": "https://www.ithome.com/1/028/597.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...",
+              "url": "https://www.ithome.com/1/028/595.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 Q3 电话会议：公司业务一切照常，不会急于寻找黄仁勋继任者",
+              "url": "https://www.ithome.com/1/028/594.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软决策模型 Microsoft-Decision-1.1 登场，跑赢 GPT-6 Luna 与 Gemini",
+              "url": "https://www.ithome.com/1/028/593.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软苹果接连宕机，谷歌紧急回应 Gmail 故障传闻“服务运行正常”",
+              "url": "https://www.ithome.com/1/028/591.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+              "url": "https://www.qbitai.com/2026/11/510707.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+              "url": "https://www.qbitai.com/2026/11/510695.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+              "url": "https://www.qbitai.com/2026/11/510688.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+              "url": "https://www.qbitai.com/2026/11/510652.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛&#8230;",
+              "url": "https://www.qbitai.com/2026/11/510592.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+              "url": "https://www.qbitai.com/2026/11/510561.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+              "url": "https://www.qbitai.com/2026/11/510542.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+              "url": "https://www.qbitai.com/2026/11/510526.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+              "url": "https://www.qbitai.com/2026/11/510493.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+              "url": "https://www.qbitai.com/2026/11/510486.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+              "url": "https://www.qbitai.com/2026/11/510436.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+              "url": "https://www.qbitai.com/2026/11/510416.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+              "url": "https://huggingface.co/blog/openrouter",
+              "date": "Mon, 16 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+              "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "XYBench: Helping with the problem behind the question",
+              "url": "https://huggingface.co/blog/allenai/xybench",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+              "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+              "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+              "date": "Thu, 12 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+              "url": "https://huggingface.co/blog/3d-lora-finetuning",
+              "date": "Thu, 12 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+              "url": "https://huggingface.co/blog/qvac/botpsy",
+              "date": "Wed, 11 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+              "url": "https://huggingface.co/blog/token-pooling",
+              "date": "Wed, 11 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
