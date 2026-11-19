@@ -47582,6 +47582,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发",
+              "url": "https://36kr.com/p/4075322592187524?f=rss",
+              "date": "2026-11-19"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨Anthropic IPO定价83美元；iPhone Duo铰链风波升级；浑水宣布做空英伟达",
+              "url": "https://36kr.com/p/4075920892581000?f=rss",
+              "date": "2026-11-19"
+            },
+            {
+              "source": "36氪",
+              "title": "英伟达季度营收破千亿美金，但昨日的世界已经远去",
+              "url": "https://36kr.com/p/4074562529645445?f=rss",
+              "date": "2026-11-18"
+            },
+            {
+              "source": "36氪",
+              "title": "Cassava寻求筹集10亿美元购买英伟达芯片",
+              "url": "https://36kr.com/newsflashes/4075940799583366?f=rss",
+              "date": "2026-11-19"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：建议关注具身智能与国产算力板块",
+              "url": "https://36kr.com/newsflashes/4075937197937799?f=rss",
+              "date": "2026-11-19"
+            },
+            {
+              "source": "36氪",
+              "title": "OpenAI首款AI硬件或于年底启动出货，立讯精密等中国供应商参与",
+              "url": "https://36kr.com/newsflashes/4075950980699011?f=rss",
+              "date": "2026-11-19"
+            },
+            {
+              "source": "36氪",
+              "title": "马斯克：特斯拉将在未来两个月内进行Optimus机器人演示",
+              "url": "https://36kr.com/newsflashes/4075928048702593?f=rss",
+              "date": "2026-11-19"
+            },
+            {
+              "source": "36氪",
+              "title": "欧洲央行行长拉加德：AI股票估值“非常激进”，最终可能出现调整",
+              "url": "https://36kr.com/newsflashes/4075904984241282?f=rss",
+              "date": "2026-11-19"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "微软 CEO 纳德拉谈 6 万人自愿离职计划：部分团队尚未适应 AI 转型，公司希望给予员工更多自主权、让合适的人才进入合适的岗位",
+              "url": "https://www.ithome.com/1/029/147.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
+              "url": "https://www.ithome.com/1/029/145.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一",
+              "url": "https://www.ithome.com/1/029/144.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "2GB 内存的手机也能流畅用 AI，谷歌降低安卓 Gemini App 使用门槛",
+              "url": "https://www.ithome.com/1/029/141.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "地平线发布 LoFT 原生视频几何基础模型，多项指标达到 SoTA",
+              "url": "https://www.ithome.com/1/029/140.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Omdia：2026 年 Q3 中东智能手机出货量同比下降 29%，创两年来最大跌幅，入门机型加速萎缩",
+              "url": "https://www.ithome.com/1/029/136.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 发布芯片设计最新成果：AMD 旗舰 GPU PPA 最高提升 14%，自研芯片 Jalapeño 面积最高减少 13%",
+              "url": "https://www.ithome.com/1/029/135.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达员工大会宣布告别“黄仁勋时代”：12 月员工加薪，启动新 CEO 遴选",
+              "url": "https://www.ithome.com/1/029/134.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软与英特尔深化合作：成 Azure 芯片首个 EMIB 客户，提前锁定下一代 Diamond Rapids 产能",
+              "url": "https://www.ithome.com/1/029/122.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "字节跳动被曝与微软洽谈 5 亿美元 Azure 合同，惹 OpenAI 强烈不满",
+              "url": "https://www.ithome.com/1/029/133.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+              "url": "https://www.qbitai.com/2026/11/510947.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+              "url": "https://www.qbitai.com/2026/11/510922.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-6.2难产！OpenAI怕了",
+              "url": "https://www.qbitai.com/2026/11/510914.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+              "url": "https://www.qbitai.com/2026/11/510916.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+              "url": "https://www.qbitai.com/2026/11/510811.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+              "url": "https://www.qbitai.com/2026/11/510821.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+              "url": "https://www.qbitai.com/2026/11/510737.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+              "url": "https://www.qbitai.com/2026/11/510726.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+              "url": "https://www.qbitai.com/2026/11/510707.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+              "url": "https://www.qbitai.com/2026/11/510695.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+              "url": "https://www.qbitai.com/2026/11/510688.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+              "url": "https://www.qbitai.com/2026/11/510652.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+              "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Why your fine-tuning job takes longer than the FLOPs say",
+              "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+              "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+              "url": "https://huggingface.co/blog/moe-expert-streaming",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+              "url": "https://huggingface.co/blog/rumble-2-flash",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+              "url": "https://huggingface.co/blog/openrouter",
+              "date": "Mon, 16 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+              "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "XYBench: Helping with the problem behind the question",
+              "url": "https://huggingface.co/blog/allenai/xybench",
+              "date": "Fri, 13 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
