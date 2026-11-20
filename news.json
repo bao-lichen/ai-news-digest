@@ -47835,6 +47835,247 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨Anthropic上市首日暴涨17%；宗馥莉原“心腹”起诉娃哈哈；OpenAI进军手机领域",
+              "url": "https://36kr.com/p/4077339293242504?f=rss",
+              "date": "2026-11-20"
+            },
+            {
+              "source": "36氪",
+              "title": "三个月四轮，估值近百亿，浙大、阿里系具身大脑公司再获新融资｜硬氪首发",
+              "url": "https://36kr.com/p/4075109837149321?f=rss",
+              "date": "2026-11-19"
+            },
+            {
+              "source": "36氪",
+              "title": "聚焦个人知识与成长领域，「Akasi」要做更垂直的Personal Agent｜早期项目",
+              "url": "https://36kr.com/p/4075055709508740?f=rss",
+              "date": "2026-11-19"
+            },
+            {
+              "source": "36氪",
+              "title": "美光：2027年存储芯片供需形势会比今年更加紧张",
+              "url": "https://36kr.com/newsflashes/4077393376105605?f=rss",
+              "date": "2026-11-20"
+            },
+            {
+              "source": "36氪",
+              "title": "苹果公司研发自己的AI智能体，拟与OpenAI和Anthropic竞争",
+              "url": "https://36kr.com/newsflashes/4077376355472258?f=rss",
+              "date": "2026-11-20"
+            },
+            {
+              "source": "36氪",
+              "title": "多家算力、半导体设备上市公司在手订单储备充足",
+              "url": "https://36kr.com/newsflashes/4077358299059333?f=rss",
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "曝 Meta 全新 AI 硬件 Muse Charm 售 300 美元，附赠一年 5G 流量",
+              "url": "https://www.ithome.com/1/029/771.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "只改一处代码，谷歌 AI 智能体优化 Harness 后任务成功率提升 8 倍",
+              "url": "https://www.ithome.com/1/029/766.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "商务部：1-10 月重点平台智能眼镜销售额增长 1 倍，具身智能机器人销售额增长 25.2%",
+              "url": "https://www.ithome.com/1/029/762.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "绿联首款 60W AVS 屏显充电器发售：可智能识别苹果 iPhone 18 Pro Max、iPhone Duo 等机型",
+              "url": "https://www.ithome.com/1/029/761.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果 macOS 27.3 Beta 2 公测版发布：扩展 Siri AI 能力，强化完全磁盘访问权限管理",
+              "url": "https://www.ithome.com/1/029/754.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软携手英伟达升级云 PC 体验：两路 4K 60 帧画面，2027 年预览上线",
+              "url": "https://www.ithome.com/1/029/747.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果发布 iOS 27.3 Beta 2 修订版：修复 HomeView 配对问题，Siri AI 可读取 Safari 完整网页内容",
+              "url": "https://www.ithome.com/1/029/751.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争",
+              "url": "https://www.ithome.com/1/029/750.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌 Gemini 现可直接操作苹果 Mac 电脑，可跨应用操作、制作 PPT、填写表单",
+              "url": "https://www.ithome.com/1/029/749.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低",
+              "url": "https://www.ithome.com/1/029/744.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "影视飓风、Manus、影石、OPPO&#8230;&#8230;极客公园创新大会 2027 嘉宾阵容更新！",
+              "url": "https://www.qbitai.com/2026/11/511258.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+              "url": "https://www.qbitai.com/2026/11/511179.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+              "url": "https://www.qbitai.com/2026/11/511088.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+              "url": "https://www.qbitai.com/2026/11/511079.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+              "url": "https://www.qbitai.com/2026/11/511071.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+              "url": "https://www.qbitai.com/2026/11/510947.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+              "url": "https://www.qbitai.com/2026/11/510922.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "GPT-6.2难产！OpenAI怕了",
+              "url": "https://www.qbitai.com/2026/11/510914.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+              "url": "https://www.qbitai.com/2026/11/510916.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+              "url": "https://www.qbitai.com/2026/11/510811.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+              "url": "https://www.qbitai.com/2026/11/510821.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+              "url": "https://www.qbitai.com/2026/11/510737.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+              "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Why your fine-tuning job takes longer than the FLOPs say",
+              "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+              "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+              "url": "https://huggingface.co/blog/moe-expert-streaming",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+              "url": "https://huggingface.co/blog/rumble-2-flash",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+              "url": "https://huggingface.co/blog/openrouter",
+              "date": "Mon, 16 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+              "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+              "date": "Fri, 13 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "XYBench: Helping with the problem behind the question",
+              "url": "https://huggingface.co/blog/allenai/xybench",
+              "date": "Fri, 13 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
