@@ -48311,6 +48311,241 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "Anthropic上市首日涨17%，市值一度冲至2万亿刀，AI热潮还能持续多久？",
+              "url": "https://36kr.com/p/4077873869099904?f=rss",
+              "date": "2026-11-20"
+            },
+            {
+              "source": "36氪",
+              "title": "11月26日，WISE2026商业之王大会·具身智能&amp;文商旅分会场落地北京亦庄。首批嘉宾阵容，今日正式揭晓！欢迎扫码报名，我们现场见。",
+              "url": "https://36kr.com/p/4077464212542596?f=rss",
+              "date": "2026-11-20"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨Anthropic上市首日暴涨17%；宗馥莉原“心腹”起诉娃哈哈；OpenAI进军手机领域",
+              "url": "https://36kr.com/p/4077339293242504?f=rss",
+              "date": "2026-11-20"
+            },
+            {
+              "source": "36氪",
+              "title": "美国证券交易委员会据悉正对英伟达潜在会计问题展开调查",
+              "url": "https://36kr.com/newsflashes/4079125046449286?f=rss",
+              "date": "2026-11-21"
+            },
+            {
+              "source": "36氪",
+              "title": "腾讯姚顺雨团队：Hy4仍有很大改进空间，计划训练更大规模模型",
+              "url": "https://36kr.com/newsflashes/4078961086764168?f=rss",
+              "date": "2026-11-21"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "全球首款星闪音箱因科美 SL10 通过 OpenHarmony 兼容性测评，搭载开源鸿蒙 5.1 系统",
+              "url": "https://www.ithome.com/1/030/525.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+              "url": "https://www.ithome.com/1/030/524.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "韩国教育部认定今年高考共 111 起涉电子设备作弊：利用智能手机拍考卷等",
+              "url": "https://www.ithome.com/1/030/523.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
+              "url": "https://www.ithome.com/1/030/518.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息",
+              "url": "https://www.ithome.com/1/030/517.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "谷歌智能家居应用 Nest 明年停服，功能全面整合进 Google Home",
+              "url": "https://www.ithome.com/1/030/515.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "消息称美国证券交易委员会对英伟达潜在会计问题展开调查，股价较 10 月高点腰斩",
+              "url": "https://www.ithome.com/1/030/514.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "韩国总统李在明：速度在 AI 竞赛中至关重要",
+              "url": "https://www.ithome.com/1/030/506.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年",
+              "url": "https://www.ithome.com/1/030/475.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失",
+              "url": "https://www.ithome.com/1/030/472.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+              "url": "https://www.qbitai.com/2026/11/511855.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国计算，走出新的登峰之路",
+              "url": "https://www.qbitai.com/2026/11/511849.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+              "url": "https://www.qbitai.com/2026/11/511841.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+              "url": "https://www.qbitai.com/2026/11/511830.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+              "url": "https://www.qbitai.com/2026/11/511791.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+              "url": "https://www.qbitai.com/2026/11/511570.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "米哈游发了个VLA论文",
+              "url": "https://www.qbitai.com/2026/11/511740.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+              "url": "https://www.qbitai.com/2026/11/511722.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+              "url": "https://www.qbitai.com/2026/11/511610.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+              "url": "https://www.qbitai.com/2026/11/511603.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+              "url": "https://www.qbitai.com/2026/11/511426.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "影视飓风、Manus、影石、OPPO&#8230;&#8230;极客公园创新大会 2027 嘉宾阵容更新！",
+              "url": "https://www.qbitai.com/2026/11/511258.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+              "url": "https://huggingface.co/blog/inkling2mini",
+              "date": "Fri, 20 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+              "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+              "date": "Fri, 20 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+              "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Why your fine-tuning job takes longer than the FLOPs say",
+              "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+              "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+              "url": "https://huggingface.co/blog/moe-expert-streaming",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+              "url": "https://huggingface.co/blog/rumble-2-flash",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+              "url": "https://huggingface.co/blog/openrouter",
+              "date": "Mon, 16 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
