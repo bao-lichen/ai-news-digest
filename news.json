@@ -48781,6 +48781,253 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨黄仁勋恢复CEO职务，英伟达一夜暴增9520亿美元；幼儿园要招2岁幼儿了；懂车帝回应“测试内容大调整”",
+              "url": "https://36kr.com/p/4083016736478085?f=rss",
+              "date": "2026-11-24"
+            },
+            {
+              "source": "36氪",
+              "title": "WISE2026「具身智能&amp;文商旅」分会场议程公布",
+              "url": "https://36kr.com/p/4082051861451648?f=rss",
+              "date": "2026-11-23"
+            },
+            {
+              "source": "36氪",
+              "title": "完成三轮融资，99后创业者用AI重新定义投资交易｜36氪首发",
+              "url": "https://36kr.com/p/4081907649942408?f=rss",
+              "date": "2026-11-23"
+            },
+            {
+              "source": "36氪",
+              "title": "李泽湘、红杉押注的AI体育硬件再获超亿元融资，众筹百万美元，已出货数万台｜硬氪首发",
+              "url": "https://36kr.com/p/4057886873441153?f=rss",
+              "date": "2026-11-23"
+            },
+            {
+              "source": "36氪",
+              "title": "「傲意科技」完成数亿元D轮融资，具身智能业务再“上新”｜36氪首发",
+              "url": "https://36kr.com/p/4077898242380676?f=rss",
+              "date": "2026-11-23"
+            },
+            {
+              "source": "36氪",
+              "title": "古尔曼：苹果Siri裁员不影响AI项目，智能体要等到2027年底",
+              "url": "https://36kr.com/newsflashes/4082995694539657?f=rss",
+              "date": "2026-11-24"
+            },
+            {
+              "source": "36氪",
+              "title": "中信建投：国产算力供需共振，AI安全需求持续升级",
+              "url": "https://36kr.com/newsflashes/4082994935387271?f=rss",
+              "date": "2026-11-24"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "Cyberleek 补齐《GTA 6》Xbox 泄露版最后一块拼图：主程序 .exe 文件释出，开源 PC 移植项目接手",
+              "url": "https://www.ithome.com/1/031/264.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "亚马逊收购 Decart 的 AI 优化技术，强化自研芯片竞争力",
+              "url": "https://www.ithome.com/1/031/262.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "公安部网安局公布 10 起 AI 造谣典型案例：张家界玻璃桥坍塌、诺如病毒再袭等在列，“净网-2026”半年查处 190 余人",
+              "url": "https://www.ithome.com/1/031/261.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "三星拟扩大西安工厂先进 NAND 产能、升级 V9 闪存产线，扩大面向 AI 数据中心的 eSSD 供应",
+              "url": "https://www.ithome.com/1/031/258.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic 推出 Claude Ship 测试版：AI 可自动审查、修复及批准代码",
+              "url": "https://www.ithome.com/1/031/257.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "告别“重启才能修复”：OpenAI 携手思科开源 Shirudo，给 Linux 装上临时盾牌",
+              "url": "https://www.ithome.com/1/031/245.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "IT早报 1124：英伟达恢复黄仁勋 CEO 职务；中国汽车在 39 国的份额超过日本汽车；3399 元起荣耀 700 系列手机发布；智谱 GLM-5.4 模型发布...",
+              "url": "https://www.ithome.com/1/031/252.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "黄仁勋更新 X 平台个人简介：英伟达创始人、首席执行官",
+              "url": "https://www.ithome.com/1/031/251.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "“感谢大家给我第二次机会”：黄仁勋重返英伟达总部，员工高呼欢迎",
+              "url": "https://www.ithome.com/1/031/250.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Nothing 首款 AI 原生硬件 Ear (note) 曝光：耳机盒内置麦克风，可录制线下会议",
+              "url": "https://www.ithome.com/1/031/249.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+              "url": "https://www.qbitai.com/2026/11/512195.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+              "url": "https://www.qbitai.com/2026/11/512179.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+              "url": "https://www.qbitai.com/2026/11/512004.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+              "url": "https://www.qbitai.com/2026/11/511998.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+              "url": "https://www.qbitai.com/2026/11/511989.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+              "url": "https://www.qbitai.com/2026/11/511978.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+              "url": "https://www.qbitai.com/2026/11/511933.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+              "url": "https://www.qbitai.com/2026/11/511904.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+              "url": "https://www.qbitai.com/2026/11/511870.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+              "url": "https://www.qbitai.com/2026/11/511855.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "中国计算，走出新的登峰之路",
+              "url": "https://www.qbitai.com/2026/11/511849.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+              "url": "https://www.qbitai.com/2026/11/511841.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+              "url": "https://huggingface.co/blog/allenai/robotrack",
+              "date": "Mon, 23 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to build and maintain an agentic evaluation",
+              "url": "https://huggingface.co/blog/agentic-evals",
+              "date": "Mon, 23 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+              "url": "https://huggingface.co/blog/inkling2mini",
+              "date": "Fri, 20 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+              "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+              "date": "Fri, 20 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+              "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Why your fine-tuning job takes longer than the FLOPs say",
+              "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+              "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+              "date": "Wed, 18 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+              "url": "https://huggingface.co/blog/moe-expert-streaming",
+              "date": "Wed, 18 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
