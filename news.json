@@ -49275,6 +49275,271 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "OBSBOT寻影发布三款新品，加速AI影像自动化落地｜最前线",
+              "url": "https://36kr.com/p/4086154043009413?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨安克前高管创业做AI音频设备，获博裕创投等数千万元种子轮融资，产品即将众筹",
+              "url": "https://36kr.com/p/4085971424995714?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨牛津博士团队绕开光刻机用玻璃做高维光计算芯片，获英诺基金独家天使投资",
+              "url": "https://36kr.com/p/4085953425877377?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨英伟达市值一夜蒸发近9800亿元；福布斯中国辟谣“8万元包上榜”；斗鱼及创始人陈少杰被执行1.9亿余元",
+              "url": "https://36kr.com/p/4085847020153478?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "机器人上班、火箭卫星登场｜WISE把一座未来之城搬到了现场",
+              "url": "https://36kr.com/p/4084605857753478?f=rss",
+              "date": "2026-11-25"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪新风向丨英伟达押注、黄仁勋看好，半导体赛道又爆出大热点",
+              "url": "https://36kr.com/p/4084560902728326?f=rss",
+              "date": "2026-11-25"
+            },
+            {
+              "source": "36氪",
+              "title": "广东：鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模",
+              "url": "https://36kr.com/newsflashes/4086315974388361?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "三星电子重组存储芯片及系统半导体业务，以增强AI芯片市场竞争力",
+              "url": "https://36kr.com/newsflashes/4086300688869764?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "上海市新增14款已完成登记的生成式人工智能服务",
+              "url": "https://36kr.com/newsflashes/4086290416396678?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "AI抛售潮下，欧洲富裕投资者将目光投向股市以外的资产",
+              "url": "https://36kr.com/newsflashes/4086281365383552?f=rss",
+              "date": "2026-11-26"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "消息称三星电子成立半导体工厂机器人团队，2028 年启动内部部署",
+              "url": "https://www.ithome.com/1/032/931.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "让 Hy4 flash 吐字提速 4.2 倍，腾讯混元开源新一代草稿模型 DFly2",
+              "url": "https://www.ithome.com/1/032/929.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "降低成本、提高研制效率：京津冀首个卫星 AIT 共享中心正式投入运行",
+              "url": "https://www.ithome.com/1/032/926.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Nothing 首款原生 AI 设备 Ear (note) 耳机外观公布，12 月 8 日发布",
+              "url": "https://www.ithome.com/1/032/914.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "德国一消费者保护中心起诉 OpenAI，称 ChatGPT 订阅容易取消难",
+              "url": "https://www.ithome.com/1/032/888.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "商汤开源机器人操作视觉语言模型 SenseNova-RoboRSI-27B 正式版，RoboDojo 评测得分超 GPT-6 Astra",
+              "url": "https://www.ithome.com/1/032/887.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达黄仁勋的“失业 11 天”：曾想骑摩托横穿美国",
+              "url": "https://www.ithome.com/1/032/880.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "阿里云联合支付宝推出教师 AI 权益：可领 Qoder 2000 积分，千问 AI 平台与阿里云相关产品提供 5 折优惠",
+              "url": "https://www.ithome.com/1/032/851.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "曝苹果下架 MiniMax AI 聊天应用 Talkie：存在色情内容",
+              "url": "https://www.ithome.com/1/032/835.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Epic CEO 斯威尼怒喷 Claude 是垃圾：误判正常研究为模型蒸馏",
+              "url": "https://www.ithome.com/1/032/822.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "极客公园创新大会 2027 全议程公布！",
+              "url": "https://www.qbitai.com/2026/11/512952.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+              "url": "https://www.qbitai.com/2026/11/512942.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+              "url": "https://www.qbitai.com/2026/11/512897.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "沈向洋刚讲了好多AI非共识啊",
+              "url": "https://www.qbitai.com/2026/11/512840.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+              "url": "https://www.qbitai.com/2026/11/512828.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+              "url": "https://www.qbitai.com/2026/11/512819.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+              "url": "https://www.qbitai.com/2026/11/512748.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+              "url": "https://www.qbitai.com/2026/11/512727.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+              "url": "https://www.qbitai.com/2026/11/512715.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+              "url": "https://www.qbitai.com/2026/11/512582.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+              "url": "https://www.qbitai.com/2026/11/512683.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+              "url": "https://www.qbitai.com/2026/11/512565.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+              "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+              "date": "Thu, 26 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Where scientists draw the line on AI agents",
+              "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+              "date": "Wed, 25 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "An Indic Voice Agent with CUGA",
+              "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+              "date": "Wed, 25 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+              "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+              "date": "Wed, 25 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to build and maintain an agentic evaluation",
+              "url": "https://huggingface.co/blog/agentic-evals",
+              "date": "Mon, 23 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+              "url": "https://huggingface.co/blog/inkling2mini",
+              "date": "Fri, 20 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+              "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+              "date": "Fri, 20 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+              "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+              "date": "Wed, 18 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
