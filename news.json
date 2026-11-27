@@ -49540,6 +49540,259 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "8点1氪丨美团、淘宝闪购全面取消超时扣款；王兴兴：5到10年内中国机器人产量有望超过汽车；三只松鼠就12人间毛坯宿舍致歉",
+              "url": "https://36kr.com/p/4087256294160773?f=rss",
+              "date": "2026-11-27"
+            },
+            {
+              "source": "36氪",
+              "title": "一款AI心理产品，靠「挽回前任挑战」活了下来",
+              "url": "https://36kr.com/p/4086400100706693?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "OBSBOT寻影发布三款新品，加速AI影像自动化落地｜最前线",
+              "url": "https://36kr.com/p/4086154043009413?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨安克前高管创业做AI音频设备，获博裕创投等数千万元种子轮融资，产品即将众筹",
+              "url": "https://36kr.com/p/4085971424995714?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨牛津博士团队绕开光刻机用玻璃做高维光计算芯片，获英诺基金独家天使投资",
+              "url": "https://36kr.com/p/4085953425877377?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨英伟达市值一夜蒸发近9800亿元；福布斯中国辟谣“8万元包上榜”；斗鱼及创始人陈少杰被执行1.9亿余元",
+              "url": "https://36kr.com/p/4085847020153478?f=rss",
+              "date": "2026-11-26"
+            },
+            {
+              "source": "36氪",
+              "title": "三星推进半导体工厂无人化，组建机器人专项团队",
+              "url": "https://36kr.com/newsflashes/4087242499619202?f=rss",
+              "date": "2026-11-27"
+            },
+            {
+              "source": "36氪",
+              "title": "首个农耕文明领域大模型“天稷”发布",
+              "url": "https://36kr.com/newsflashes/4087220747418246?f=rss",
+              "date": "2026-11-27"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "欧洲央行行长拉加德：AI 是帮助欧洲抵御能源危机的因素之一",
+              "url": "https://www.ithome.com/1/033/159.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微软发布 Visual Studio Code 1.148：电脑可在智能体运行时保持唤醒",
+              "url": "https://www.ithome.com/1/033/155.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "育碧：我们并没有在全公司范围强制推行 AI",
+              "url": "https://www.ithome.com/1/033/144.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "用户反馈英伟达 621.40 驱动“按下葫芦浮起瓢”：修复 SSD 写入后又出现黑屏",
+              "url": "https://www.ithome.com/1/033/143.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "Anthropic 平台工程负责人莱斯：AI 改变工程师晋升标准，不再只看项目耗时",
+              "url": "https://www.ithome.com/1/033/141.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 G-SYNC 新工具上线：解决约 60 FPS 时 OLED 屏幕亮度闪烁问题",
+              "url": "https://www.ithome.com/1/033/140.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%",
+              "url": "https://www.ithome.com/1/033/138.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "英伟达 GeForce NOW 黑五促销：半年会员七折，12 款游戏入库",
+              "url": "https://www.ithome.com/1/033/102.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵",
+              "url": "https://www.ithome.com/1/033/131.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "因隐私问题，荷兰多个组织要求法院叫停 Meta 智能眼镜销售",
+              "url": "https://www.ithome.com/1/033/126.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+              "url": "https://www.qbitai.com/2026/11/513021.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+              "url": "https://www.qbitai.com/2026/11/512972.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "极客公园创新大会 2027 全议程公布！",
+              "url": "https://www.qbitai.com/2026/11/512952.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+              "url": "https://www.qbitai.com/2026/11/512942.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+              "url": "https://www.qbitai.com/2026/11/512897.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "沈向洋刚讲了好多AI非共识啊",
+              "url": "https://www.qbitai.com/2026/11/512840.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+              "url": "https://www.qbitai.com/2026/11/512828.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+              "url": "https://www.qbitai.com/2026/11/512819.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+              "url": "https://www.qbitai.com/2026/11/512748.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+              "url": "https://www.qbitai.com/2026/11/512727.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+              "url": "https://www.qbitai.com/2026/11/512715.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+              "url": "https://www.qbitai.com/2026/11/512582.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+              "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+              "date": "Thu, 26 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+              "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+              "date": "Thu, 26 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+              "url": "https://huggingface.co/blog/training-swarms",
+              "date": "Thu, 26 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Where scientists draw the line on AI agents",
+              "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+              "date": "Wed, 25 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "An Indic Voice Agent with CUGA",
+              "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+              "date": "Wed, 25 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+              "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+              "date": "Wed, 25 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to build and maintain an agentic evaluation",
+              "url": "https://huggingface.co/blog/agentic-evals",
+              "date": "Mon, 23 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+              "url": "https://huggingface.co/blog/inkling2mini",
+              "date": "Fri, 20 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
