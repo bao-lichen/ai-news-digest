@@ -49793,6 +49793,253 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "sources": [
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "source": "36氪",
+              "title": "中泰聚能CTO彭小舟：一台机器人，两班倒价值 | 36氪 2026WISE商业之王大会",
+              "url": "https://36kr.com/p/4087739263072896?f=rss",
+              "date": "2026-11-27"
+            },
+            {
+              "source": "36氪",
+              "title": "威云创达CEO何金：一家图像传感器龙头，为什么下场做AI算力？",
+              "url": "https://36kr.com/p/4086249473534598?f=rss",
+              "date": "2026-11-27"
+            },
+            {
+              "source": "36氪",
+              "title": "36氪首发丨具身智能公司获清科产投等数亿投资，机器人已投入真实商业作业",
+              "url": "https://36kr.com/p/4087361074575753?f=rss",
+              "date": "2026-11-27"
+            },
+            {
+              "source": "36氪",
+              "title": "游戏和影视之后，儒意集团联手腾讯进军AI服务",
+              "url": "https://36kr.com/p/4086757655231105?f=rss",
+              "date": "2026-11-27"
+            },
+            {
+              "source": "36氪",
+              "title": "8点1氪丨美团、淘宝闪购全面取消超时扣款；王兴兴：5到10年内中国机器人产量有望超过汽车；三只松鼠就12人间毛坯宿舍致歉",
+              "url": "https://36kr.com/p/4087256294160773?f=rss",
+              "date": "2026-11-27"
+            },
+            {
+              "source": "36氪",
+              "title": "AI数据中心开发商LIAN选定伦敦上市，IPO拟募资5亿美元",
+              "url": "https://36kr.com/newsflashes/4087980989577607?f=rss",
+              "date": "2026-11-27"
+            },
+            {
+              "source": "36氪",
+              "title": "王兴：预计明年AI相关的资本支出将低于今年",
+              "url": "https://36kr.com/newsflashes/4087966140119681?f=rss",
+              "date": "2026-11-27"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "source": "IT之家",
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "url": "https://www.ithome.com/1/033/795.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "开源 3D 引擎 O3DE 升级 26.10：编辑器换上 Qt 6 新界面，启动器首次原生支持 Wayland",
+              "url": "https://www.ithome.com/1/033/789.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "url": "https://www.ithome.com/1/033/780.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS",
+              "url": "https://www.ithome.com/1/033/778.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "url": "https://www.ithome.com/1/033/777.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "url": "https://www.ithome.com/1/033/769.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "url": "https://www.ithome.com/1/033/763.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "上海警方破获一起购物卡充值诈骗案，骗子谎称“4 万元可安排入职英伟达”",
+              "url": "https://www.ithome.com/1/033/755.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "美团王兴：与微信小微合作按计划推进，预计明年 AI 资本开支将低于今年",
+              "url": "https://www.ithome.com/1/033/748.htm",
+              "date": ""
+            },
+            {
+              "source": "IT之家",
+              "title": "微信公布 2026 年 11 月朋友圈热度谣言，含“监管要求基金公司上报全部产品 AI 敞口”等",
+              "url": "https://www.ithome.com/1/033/745.htm",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "量子位",
+          "articles": [
+            {
+              "source": "量子位",
+              "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+              "url": "https://www.qbitai.com/2026/11/513352.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+              "url": "https://www.qbitai.com/2026/11/513346.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+              "url": "https://www.qbitai.com/2026/11/513320.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+              "url": "https://www.qbitai.com/2026/11/513305.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+              "url": "https://www.qbitai.com/2026/11/513194.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+              "url": "https://www.qbitai.com/2026/11/513211.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+              "url": "https://www.qbitai.com/2026/11/513163.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+              "url": "https://www.qbitai.com/2026/11/513155.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+              "url": "https://www.qbitai.com/2026/11/513125.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+              "url": "https://www.qbitai.com/2026/11/513101.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+              "url": "https://www.qbitai.com/2026/11/513091.html",
+              "date": ""
+            },
+            {
+              "source": "量子位",
+              "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
+              "url": "https://www.qbitai.com/2026/11/513087.html",
+              "date": ""
+            }
+          ]
+        },
+        {
+          "name": "HuggingFace",
+          "articles": [
+            {
+              "source": "HuggingFace",
+              "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+              "url": "https://huggingface.co/blog/video-trainium3",
+              "date": "Fri, 27 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+              "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+              "date": "Thu, 26 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+              "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+              "date": "Thu, 26 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+              "url": "https://huggingface.co/blog/training-swarms",
+              "date": "Thu, 26 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Where scientists draw the line on AI agents",
+              "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+              "date": "Wed, 25 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "An Indic Voice Agent with CUGA",
+              "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+              "date": "Wed, 25 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+              "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+              "date": "Wed, 25 No"
+            },
+            {
+              "source": "HuggingFace",
+              "title": "How to build and maintain an agentic evaluation",
+              "url": "https://huggingface.co/blog/agentic-evals",
+              "date": "Mon, 23 No"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
